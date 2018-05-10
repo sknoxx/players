@@ -12,13 +12,7 @@ players_from_webpage_list = []
 caps = DesiredCapabilities.FIREFOX
 caps["marionette"] = True
 
-#driver = webdriver.Firefox(capabilities=caps)
 driver = webdriver.Firefox()
-#driver.get('http://localhost:8000')
-
-#driver.set_window_size(1200, 800)
-# Or, download Chrome driver from https://sites.google.com/a/chromium.org/chromedriver/downloads
-# driver = webdriver.Chrome(executable_path='./chromedriver')
 
 for url in url_list:
     print url
@@ -26,7 +20,6 @@ for url in url_list:
     driver.find_element_by_css_selector("th.headerSort:nth-child(5)").click()
     driver.find_element_by_css_selector("th.headerSort:nth-child(5)").click()
 
-    # table = driver.find_elements_by_xpath('//div[@id=\'mw-content-text\']/table[2]/tbody/tr')
     table = driver.find_elements_by_xpath('//*[@id="mw-content-text"]/div/table[2]/tbody/tr')
     for row in table:
         cell = row.find_elements_by_tag_name("th")[0]
