@@ -6,6 +6,7 @@ import pprint
 
 pp = pprint.PrettyPrinter(indent=4)
 
+
 def import_players(file_name):
     return_list = []
     input_file = codecs.open(file_name, encoding='utf-8')
@@ -31,11 +32,12 @@ def get_player(index):
 
 def print_random_player():
     name_object = get_random_player()
-    print name_object['first_name'], name_object['last_name']
+    print(name_object['first_name'], name_object['last_name'])
 
 
 def main():
-     print_random_player()
+    print_random_player()
+
 
 if __name__ == '__main__':
     main()

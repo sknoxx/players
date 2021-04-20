@@ -8,15 +8,16 @@ import json
 
 URL_LIST = ['https://en.wikipedia.org/wiki/List_of_Manchester_United_F.C._players',
             'https://en.wikipedia.org/wiki/List_of_Manchester_United_F.C._players_(25%E2%80%9399_appearances)',
-            'https://en.wikipedia.org/wiki/List_of_Manchester_United_F.C._players_(1%E2%80%9324_appearances)']
+            'https://en.wikipedia.org/wiki/List_of_Manchester_United_F.C._players_(1%E2%80%9324_appearances)',
+            'https://en.wikipedia.org/wiki/List_of_Manchester_United_W.F.C._players']
 
 
 def main():
     players_from_webpage_list = []
-    driver = webdriver.Firefox()
+    driver = webdriver.Chrome()
 
     for url in URL_LIST:
-        print url
+        print(url)
         driver.get(url)
         WebDriverWait(driver, 60).until(EC.visibility_of_element_located(WikiPageLocators.MAIN_PAGE_LINK))
 
@@ -26,24 +27,24 @@ def main():
         rows = driver.find_elements(*WikiPageLocators.ROWS_IN_TABLE)
 
         for row in rows:
-            player_dict = {'appearances': unicode(row.find_elements(*WikiPageLocators.CELL_IN_ROW)[5].text)}
+            player_dict = {'appearances': row.find_elements(*WikiPageLocators.CELL_IN_ROW)[5].text}
 
             cell = row.find_element(*WikiPageLocators.NAME_CELL_IN_ROW)
 
-            first_name = unicode(cell.text.split(' ')[0])
-            surname = unicode(' '.join(cell.text.split(' ')[1:]))
+            first_name = cell.text.split(' ')[0]
+            surname = ' '.join(cell.text.split(' ')[1:])
 
             if surname == '':
-                player_dict['first_name'] = unicode('Mr.')
+                player_dict['first_name'] = 'Mr.'
                 player_dict['last_name'] = first_name
             else:
                 player_dict['first_name'] = first_name
                 player_dict['last_name'] = surname
 
-            print cell.text, player_dict
+            print(cell.text, player_dict)
             players_from_webpage_list.append(player_dict)
 
-        print len(players_from_webpage_list)
+        print(len(players_from_webpage_list))
     driver.quit()
 
     f = open('players.py', 'w')
