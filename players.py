@@ -4,4861 +4,6805 @@ players_list = [
     {
         "appearances": "963",
         "first_name": "Ryan",
-        "last_name": "Giggs"
+        "goals": "168",
+        "last_name": "Giggs",
+        "nationality": "Wales"
     },
     {
         "appearances": "758",
         "first_name": "Bobby",
-        "last_name": "Charlton"
+        "goals": "249",
+        "last_name": "Charlton",
+        "nationality": "England"
     },
     {
         "appearances": "718",
         "first_name": "Paul",
-        "last_name": "Scholes"
+        "goals": "155",
+        "last_name": "Scholes",
+        "nationality": "England"
     },
     {
         "appearances": "688",
         "first_name": "Bill",
-        "last_name": "Foulkes"
+        "goals": "9",
+        "last_name": "Foulkes",
+        "nationality": "England"
     },
     {
         "appearances": "602",
         "first_name": "Gary",
-        "last_name": "Neville"
+        "goals": "7",
+        "last_name": "Neville",
+        "nationality": "England"
     },
     {
         "appearances": "559",
         "first_name": "Wayne",
-        "last_name": "Rooney"
+        "goals": "253",
+        "last_name": "Rooney",
+        "nationality": "England"
     },
     {
         "appearances": "539",
         "first_name": "Alex",
-        "last_name": "Stepney"
+        "goals": "2",
+        "last_name": "Stepney",
+        "nationality": "England"
     },
     {
         "appearances": "535",
         "first_name": "Tony",
-        "last_name": "Dunne"
+        "goals": "2",
+        "last_name": "Dunne",
+        "nationality": "Ireland"
     },
     {
         "appearances": "529",
         "first_name": "Denis",
-        "last_name": "Irwin"
+        "goals": "33",
+        "last_name": "Irwin",
+        "nationality": "Ireland"
     },
     {
         "appearances": "510",
         "first_name": "Joe",
-        "last_name": "Spence"
+        "goals": "168",
+        "last_name": "Spence",
+        "nationality": "England"
     },
     {
         "appearances": "485",
         "first_name": "Arthur",
-        "last_name": "Albiston"
+        "goals": "7",
+        "last_name": "Albiston",
+        "nationality": "Scotland"
     },
     {
         "appearances": "480",
         "first_name": "Roy",
-        "last_name": "Keane"
+        "goals": "51",
+        "last_name": "Keane",
+        "nationality": "Ireland"
     },
     {
         "appearances": "471",
         "first_name": "Brian",
-        "last_name": "McClair"
+        "goals": "127",
+        "last_name": "McClair",
+        "nationality": "Scotland"
     },
     {
         "appearances": "470",
         "first_name": "George",
-        "last_name": "Best"
+        "goals": "179",
+        "last_name": "Best",
+        "nationality": "Northern Ireland"
     },
     {
         "appearances": "467",
         "first_name": "Mark",
-        "last_name": "Hughes"
+        "goals": "163",
+        "last_name": "Hughes",
+        "nationality": "Wales"
     },
     {
         "appearances": "464",
         "first_name": "Michael",
-        "last_name": "Carrick"
+        "goals": "24",
+        "last_name": "Carrick",
+        "nationality": "England"
     },
     {
         "appearances": "461",
         "first_name": "Bryan",
-        "last_name": "Robson"
+        "goals": "99",
+        "last_name": "Robson",
+        "nationality": "England"
     },
     {
         "appearances": "456",
         "first_name": "Martin",
-        "last_name": "Buchan"
+        "goals": "4",
+        "last_name": "Buchan",
+        "nationality": "Scotland"
     },
     {
         "appearances": "455",
         "first_name": "Rio",
-        "last_name": "Ferdinand"
+        "goals": "8",
+        "last_name": "Ferdinand",
+        "nationality": "England"
     },
     {
         "appearances": "449",
         "first_name": "Jack",
-        "last_name": "Silcock"
+        "goals": "2",
+        "last_name": "Silcock",
+        "nationality": "England"
     },
     {
         "appearances": "437",
         "first_name": "Gary",
-        "last_name": "Pallister"
+        "goals": "15",
+        "last_name": "Pallister",
+        "nationality": "England"
     },
     {
         "appearances": "436",
         "first_name": "David",
-        "last_name": "de Gea"
+        "goals": "0",
+        "last_name": "de Gea",
+        "nationality": "Spain"
     },
     {
         "appearances": "424",
         "first_name": "Jack",
-        "last_name": "Rowley"
+        "goals": "211",
+        "last_name": "Rowley",
+        "nationality": "England"
     },
     {
         "appearances": "419",
         "first_name": "Sammy",
-        "last_name": "McIlroy"
+        "goals": "71",
+        "last_name": "McIlroy",
+        "nationality": "Northern Ireland"
     },
     {
         "appearances": "414",
         "first_name": "Steve",
-        "last_name": "Bruce"
+        "goals": "51",
+        "last_name": "Bruce",
+        "nationality": "England"
     },
     {
         "appearances": "404",
         "first_name": "Denis",
-        "last_name": "Law"
+        "goals": "237",
+        "last_name": "Law",
+        "nationality": "Scotland"
     },
     {
         "appearances": "401",
         "first_name": "Lou",
-        "last_name": "Macari"
+        "goals": "97",
+        "last_name": "Macari",
+        "nationality": "Scotland"
     },
     {
         "appearances": "398",
         "first_name": "Peter",
-        "last_name": "Schmeichel"
+        "goals": "1",
+        "last_name": "Schmeichel",
+        "nationality": "Denmark"
     },
     {
         "appearances": "397",
         "first_name": "Pat",
-        "last_name": "Crerand"
+        "goals": "15",
+        "last_name": "Crerand",
+        "nationality": "Scotland"
     },
     {
         "appearances": "396",
         "first_name": "Steve",
-        "last_name": "Coppell"
+        "goals": "70",
+        "last_name": "Coppell",
+        "nationality": "England"
     },
     {
         "appearances": "395",
         "first_name": "Nobby",
-        "last_name": "Stiles"
+        "goals": "19",
+        "last_name": "Stiles",
+        "nationality": "England"
     },
     {
         "appearances": "394",
         "first_name": "David",
-        "last_name": "Beckham"
+        "goals": "85",
+        "last_name": "Beckham",
+        "nationality": "England"
     },
     {
         "appearances": "393",
         "first_name": "John",
-        "last_name": "O'Shea"
+        "goals": "15",
+        "last_name": "O'Shea",
+        "nationality": "Ireland"
     },
     {
         "appearances": "391",
         "first_name": "Allenby",
-        "last_name": "Chilton"
+        "goals": "3",
+        "last_name": "Chilton",
+        "nationality": "England"
     },
     {
         "appearances": "387",
         "first_name": "Nicky",
-        "last_name": "Butt"
+        "goals": "26",
+        "last_name": "Butt",
+        "nationality": "England"
     },
     {
         "appearances": "386",
         "first_name": "Phil",
-        "last_name": "Neville"
+        "goals": "8",
+        "last_name": "Neville",
+        "nationality": "England"
     },
     {
         "appearances": "379",
         "first_name": "Patrice",
-        "last_name": "Evra"
+        "goals": "10",
+        "last_name": "Evra",
+        "nationality": "France"
     },
     {
         "appearances": "378",
         "first_name": "Mike",
-        "last_name": "Duxbury"
+        "goals": "7",
+        "last_name": "Duxbury",
+        "nationality": "England"
     },
     {
         "appearances": "375",
         "first_name": "Gary",
-        "last_name": "Bailey"
+        "goals": "0",
+        "last_name": "Bailey",
+        "nationality": "England"
     },
     {
         "appearances": "366",
         "first_name": "Ole",
-        "last_name": "Gunnar Solskj\u00e6r"
+        "goals": "126",
+        "last_name": "Gunnar Solskj\u00e6r",
+        "nationality": "Norway"
     },
     {
         "appearances": "362",
         "first_name": "Wes",
-        "last_name": "Brown"
+        "goals": "5",
+        "last_name": "Brown",
+        "nationality": "England"
     },
     {
         "appearances": "361",
         "first_name": "Mika\u00ebl",
-        "last_name": "Silvestre"
+        "goals": "10",
+        "last_name": "Silvestre",
+        "nationality": "France"
     },
     {
         "appearances": "359",
         "first_name": "Shay",
-        "last_name": "Brennan"
+        "goals": "6",
+        "last_name": "Brennan",
+        "nationality": "Ireland"
     },
     {
         "appearances": "344",
         "first_name": "Johnny",
-        "last_name": "Carey"
+        "goals": "17",
+        "last_name": "Carey",
+        "nationality": "Ireland"
     },
     {
         "appearances": "343",
         "first_name": "Stan",
-        "last_name": "Pearson"
+        "goals": "148",
+        "last_name": "Pearson",
+        "nationality": "England"
     },
     {
         "appearances": "342",
         "first_name": "Darren",
-        "last_name": "Fletcher"
+        "goals": "24",
+        "last_name": "Fletcher",
+        "nationality": "Scotland"
     },
     {
         "appearances": "339",
         "first_name": "Antonio",
-        "last_name": "Valencia"
+        "goals": "25",
+        "last_name": "Valencia",
+        "nationality": "Ecuador"
     },
     {
         "appearances": "335",
         "first_name": "Billy",
-        "last_name": "Meredith"
+        "goals": "36",
+        "last_name": "Meredith",
+        "nationality": "Wales"
     },
     {
         "appearances": "335",
         "first_name": "David",
-        "last_name": "Sadler"
+        "goals": "27",
+        "last_name": "Sadler",
+        "nationality": "England"
     },
     {
         "appearances": "328",
         "first_name": "Charlie",
-        "last_name": "Moore"
+        "goals": "0",
+        "last_name": "Moore",
+        "nationality": "England"
     },
     {
         "appearances": "326",
         "first_name": "Alf",
-        "last_name": "Steward"
+        "goals": "0",
+        "last_name": "Steward",
+        "nationality": "England"
     },
     {
         "appearances": "323",
         "first_name": "Chris",
-        "last_name": "Smalling"
+        "goals": "18",
+        "last_name": "Smalling",
+        "nationality": "England"
     },
     {
         "appearances": "322",
         "first_name": "Lal",
-        "last_name": "Hilditch"
+        "goals": "7",
+        "last_name": "Hilditch",
+        "nationality": "England"
     },
     {
         "appearances": "319",
         "first_name": "George",
-        "last_name": "Wall"
+        "goals": "100",
+        "last_name": "Wall",
+        "nationality": "England"
     },
     {
         "appearances": "310",
         "first_name": "Fred",
-        "last_name": "Erentz"
+        "goals": "9",
+        "last_name": "Erentz",
+        "nationality": "Scotland"
     },
     {
         "appearances": "309",
         "first_name": "Alex",
-        "last_name": "Bell"
+        "goals": "10",
+        "last_name": "Bell",
+        "nationality": "Scotland"
     },
     {
         "appearances": "302",
         "first_name": "Charlie",
-        "last_name": "Roberts"
+        "goals": "23",
+        "last_name": "Roberts",
+        "nationality": "England"
     },
     {
         "appearances": "301",
         "first_name": "Ray",
-        "last_name": "Bennion"
+        "goals": "3",
+        "last_name": "Bennion",
+        "nationality": "Wales"
     },
     {
         "appearances": "300",
         "first_name": "Nemanja",
-        "last_name": "Vidi\u0107"
+        "goals": "21",
+        "last_name": "Vidi\u0107",
+        "nationality": "Serbia and Montenegro\n Serbia"
     },
     {
         "appearances": "296",
         "first_name": "Willie",
-        "last_name": "Morgan"
+        "goals": "34",
+        "last_name": "Morgan",
+        "nationality": "Scotland"
     },
     {
         "appearances": "293",
         "first_name": "Dennis",
-        "last_name": "Viollet"
+        "goals": "179",
+        "last_name": "Viollet",
+        "nationality": "England"
     },
     {
         "appearances": "292",
         "first_name": "Cristiano",
-        "last_name": "Ronaldo"
+        "goals": "118",
+        "last_name": "Ronaldo",
+        "nationality": "Portugal"
     },
     {
         "appearances": "289",
         "first_name": "Kevin",
-        "last_name": "Moran"
+        "goals": "24",
+        "last_name": "Moran",
+        "nationality": "Ireland"
     },
     {
         "appearances": "288",
         "first_name": "Frank",
-        "last_name": "Stapleton"
+        "goals": "78",
+        "last_name": "Stapleton",
+        "nationality": "Ireland"
     },
     {
         "appearances": "284",
         "first_name": "John",
-        "last_name": "Aston Sr."
+        "goals": "30",
+        "last_name": "Aston Sr.",
+        "nationality": "England"
     },
     {
         "appearances": "281",
         "first_name": "Paul",
-        "last_name": "Ince"
+        "goals": "29",
+        "last_name": "Ince",
+        "nationality": "England"
     },
     {
         "appearances": "280",
         "first_name": "Roger",
-        "last_name": "Byrne"
+        "goals": "20",
+        "last_name": "Byrne",
+        "nationality": "England"
     },
     {
         "appearances": "276",
         "first_name": "Johnny",
-        "last_name": "Berry"
+        "goals": "45",
+        "last_name": "Berry",
+        "nationality": "England"
     },
     {
         "appearances": "275",
         "first_name": "Henry",
-        "last_name": "Cockburn"
+        "goals": "4",
+        "last_name": "Cockburn",
+        "nationality": "England"
     },
     {
         "appearances": "275",
         "first_name": "Andy",
-        "last_name": "Cole"
+        "goals": "121",
+        "last_name": "Cole",
+        "nationality": "England"
     },
     {
         "appearances": "274",
         "first_name": "Norman",
-        "last_name": "Whiteside"
+        "goals": "67",
+        "last_name": "Whiteside",
+        "nationality": "Northern Ireland"
     },
     {
         "appearances": "271",
         "first_name": "Brian",
-        "last_name": "Greenhoff"
+        "goals": "17",
+        "last_name": "Greenhoff",
+        "nationality": "England"
     },
     {
         "appearances": "270",
         "first_name": "George",
-        "last_name": "Stacey"
+        "goals": "9",
+        "last_name": "Stacey",
+        "nationality": "England"
     },
     {
         "appearances": "268",
         "first_name": "Juan",
-        "last_name": "Mata"
+        "goals": "50",
+        "last_name": "Mata",
+        "nationality": "Spain"
     },
     {
         "appearances": "266",
         "first_name": "Harry",
-        "last_name": "Moger"
+        "goals": "0",
+        "last_name": "Moger",
+        "nationality": "England"
     },
     {
         "appearances": "266",
         "first_name": "Brian",
-        "last_name": "Kidd"
+        "goals": "70",
+        "last_name": "Kidd",
+        "nationality": "England"
     },
     {
         "appearances": "266",
         "first_name": "Edwin",
-        "last_name": "van der Sar"
+        "goals": "0",
+        "last_name": "van der Sar",
+        "nationality": "Netherlands"
     },
     {
         "appearances": "265",
         "first_name": "David",
-        "last_name": "Herd"
+        "goals": "145",
+        "last_name": "Herd",
+        "nationality": "Scotland"
     },
     {
         "appearances": "263",
         "first_name": "Lee",
-        "last_name": "Sharpe"
+        "goals": "36",
+        "last_name": "Sharpe",
+        "nationality": "England"
     },
     {
         "appearances": "263",
         "first_name": "Marcus",
-        "last_name": "Rashford"
+        "goals": "87",
+        "last_name": "Rashford",
+        "nationality": "England"
     },
     {
         "appearances": "261",
         "first_name": "Ashley",
-        "last_name": "Young"
+        "goals": "19",
+        "last_name": "Young",
+        "nationality": "England"
     },
     {
         "appearances": "258",
         "first_name": "Anthony",
-        "last_name": "Martial"
+        "goals": "78",
+        "last_name": "Martial",
+        "nationality": "France"
     },
     {
         "appearances": "257",
         "first_name": "Walter",
-        "last_name": "Cartwright"
+        "goals": "8",
+        "last_name": "Cartwright",
+        "nationality": "England"
     },
     {
         "appearances": "254",
         "first_name": "Dick",
-        "last_name": "Duckworth"
+        "goals": "11",
+        "last_name": "Duckworth",
+        "nationality": "England"
     },
     {
         "appearances": "250",
         "first_name": "Stewart",
-        "last_name": "Houston"
+        "goals": "16",
+        "last_name": "Houston",
+        "nationality": "Scotland"
     },
     {
         "appearances": "248",
         "first_name": "Jimmy",
-        "last_name": "Nicholl"
+        "goals": "6",
+        "last_name": "Nicholl",
+        "nationality": "Northern Ireland"
     },
     {
         "appearances": "247",
         "first_name": "Sandy",
-        "last_name": "Turnbull"
+        "goals": "101",
+        "last_name": "Turnbull",
+        "nationality": "Scotland"
     },
     {
         "appearances": "247",
         "first_name": "Harry",
-        "last_name": "Gregg"
+        "goals": "0",
+        "last_name": "Gregg",
+        "nationality": "Northern Ireland"
     },
     {
         "appearances": "245",
         "first_name": "Clayton",
-        "last_name": "Blackmore"
+        "goals": "26",
+        "last_name": "Blackmore",
+        "nationality": "Wales"
     },
     {
         "appearances": "230",
         "first_name": "Mr.",
-        "last_name": "Nani"
+        "goals": "40",
+        "last_name": "Nani",
+        "nationality": "Portugal"
     },
     {
         "appearances": "229",
         "first_name": "Gordon",
-        "last_name": "McQueen"
+        "goals": "26",
+        "last_name": "McQueen",
+        "nationality": "Scotland"
     },
     {
         "appearances": "224",
         "first_name": "Phil",
-        "last_name": "Jones"
+        "goals": "6",
+        "last_name": "Jones",
+        "nationality": "England"
     },
     {
         "appearances": "219",
         "first_name": "Ruud",
-        "last_name": "van Nistelrooy"
+        "goals": "150",
+        "last_name": "van Nistelrooy",
+        "nationality": "Netherlands"
     },
     {
         "appearances": "212",
         "first_name": "Jack",
-        "last_name": "Crompton"
+        "goals": "0",
+        "last_name": "Crompton",
+        "nationality": "England"
     },
     {
         "appearances": "210",
         "first_name": "Jesse",
-        "last_name": "Lingard"
+        "goals": "33",
+        "last_name": "Lingard",
+        "nationality": "England"
     },
     {
         "appearances": "209",
         "first_name": "George",
-        "last_name": "Vose"
+        "goals": "1",
+        "last_name": "Vose",
+        "nationality": "England"
     },
     {
         "appearances": "208",
         "first_name": "Ray",
-        "last_name": "Wood"
+        "goals": "0",
+        "last_name": "Wood",
+        "nationality": "England"
     },
     {
         "appearances": "205",
         "first_name": "John",
-        "last_name": "Grimwood"
+        "goals": "8",
+        "last_name": "Grimwood",
+        "nationality": "England"
     },
     {
         "appearances": "205",
         "first_name": "Park",
-        "last_name": "Ji-sung"
+        "goals": "27",
+        "last_name": "Ji-sung",
+        "nationality": "South Korea"
     },
     {
         "appearances": "201",
         "first_name": "Gordon",
-        "last_name": "Strachan"
+        "goals": "38",
+        "last_name": "Strachan",
+        "nationality": "Scotland"
     },
     {
         "appearances": "200",
         "first_name": "Harry",
-        "last_name": "Stafford"
+        "goals": "1",
+        "last_name": "Stafford",
+        "nationality": "England"
     },
     {
         "appearances": "200",
         "first_name": "Tom",
-        "last_name": "Jones"
+        "goals": "0",
+        "last_name": "Jones",
+        "nationality": "Wales"
     },
     {
         "appearances": "199",
         "first_name": "Jack",
-        "last_name": "Mew"
+        "goals": "0",
+        "last_name": "Mew",
+        "nationality": "England"
     },
     {
         "appearances": "199",
         "first_name": "Remi",
-        "last_name": "Moses"
+        "goals": "12",
+        "last_name": "Moses",
+        "nationality": "England"
     },
     {
         "appearances": "199",
         "first_name": "Paul",
-        "last_name": "McGrath"
+        "goals": "16",
+        "last_name": "McGrath",
+        "nationality": "Ireland"
     },
     {
         "appearances": "199",
         "first_name": "Paul",
-        "last_name": "Pogba"
+        "goals": "37",
+        "last_name": "Pogba",
+        "nationality": "France"
     },
     {
         "appearances": "198",
         "first_name": "Jonny",
-        "last_name": "Evans"
+        "goals": "7",
+        "last_name": "Evans",
+        "nationality": "Northern Ireland"
     },
     {
         "appearances": "197",
         "first_name": "Frank",
-        "last_name": "Mann"
+        "goals": "5",
+        "last_name": "Mann",
+        "nationality": "England"
     },
     {
         "appearances": "195",
         "first_name": "Tom",
-        "last_name": "Manley"
+        "goals": "41",
+        "last_name": "Manley",
+        "nationality": "England"
     },
     {
         "appearances": "194",
         "first_name": "Maurice",
-        "last_name": "Setters"
+        "goals": "14",
+        "last_name": "Setters",
+        "nationality": "England"
     },
     {
         "appearances": "194",
         "first_name": "Ray",
-        "last_name": "Wilkins"
+        "goals": "10",
+        "last_name": "Wilkins",
+        "nationality": "England"
     },
     {
         "appearances": "191",
         "first_name": "Alex",
-        "last_name": "Downie"
+        "goals": "14",
+        "last_name": "Downie",
+        "nationality": "Scotland"
     },
     {
         "appearances": "191",
         "first_name": "Tommy",
-        "last_name": "Taylor"
+        "goals": "131",
+        "last_name": "Taylor",
+        "nationality": "England"
     },
     {
         "appearances": "189",
         "first_name": "Ander",
-        "last_name": "Herrera"
+        "goals": "20",
+        "last_name": "Herrera",
+        "nationality": "Spain"
     },
     {
         "appearances": "187",
         "first_name": "John",
-        "last_name": "Aston Jr."
+        "goals": "27",
+        "last_name": "Aston Jr.",
+        "nationality": "England"
     },
     {
         "appearances": "185",
         "first_name": "Eric",
-        "last_name": "Cantona"
+        "goals": "82",
+        "last_name": "Cantona",
+        "nationality": "France"
     },
     {
         "appearances": "184",
         "first_name": "Jimmy",
-        "last_name": "Delaney"
+        "goals": "28",
+        "last_name": "Delaney",
+        "nationality": "Scotland"
     },
     {
         "appearances": "184",
         "first_name": "Albert",
-        "last_name": "Quixall"
+        "goals": "56",
+        "last_name": "Quixall",
+        "nationality": "England"
     },
     {
         "appearances": "182",
         "first_name": "Bill",
-        "last_name": "McKay"
+        "goals": "15",
+        "last_name": "McKay",
+        "nationality": "Scotland"
     },
     {
         "appearances": "181",
         "first_name": "Enoch",
-        "last_name": "West"
+        "goals": "80",
+        "last_name": "West",
+        "nationality": "England"
     },
     {
         "appearances": "181",
         "first_name": "Mr.",
-        "last_name": "Anderson"
+        "goals": "9",
+        "last_name": "Anderson",
+        "nationality": "Brazil"
     },
     {
         "appearances": "180",
         "first_name": "Harry",
-        "last_name": "Rowley"
+        "goals": "55",
+        "last_name": "Rowley",
+        "nationality": "England"
     },
     {
         "appearances": "180",
         "first_name": "Stuart",
-        "last_name": "Pearson"
+        "goals": "66",
+        "last_name": "Pearson",
+        "nationality": "England"
     },
     {
         "appearances": "179",
         "first_name": "Alf",
-        "last_name": "Schofield"
+        "goals": "35",
+        "last_name": "Schofield",
+        "nationality": "England"
     },
     {
         "appearances": "179",
         "first_name": "Luke",
-        "last_name": "Shaw"
+        "goals": "3",
+        "last_name": "Shaw",
+        "nationality": "England"
     },
     {
         "appearances": "177",
         "first_name": "Duncan",
-        "last_name": "Edwards"
+        "goals": "21",
+        "last_name": "Edwards",
+        "nationality": "England"
     },
     {
         "appearances": "177",
         "first_name": "Marouane",
-        "last_name": "Fellaini"
+        "goals": "22",
+        "last_name": "Fellaini",
+        "nationality": "Belgium"
     },
     {
         "appearances": "176",
         "first_name": "Jesper",
-        "last_name": "Olsen"
+        "goals": "24",
+        "last_name": "Olsen",
+        "nationality": "Denmark"
     },
     {
         "appearances": "175",
         "first_name": "Billy",
-        "last_name": "Griffiths"
+        "goals": "30",
+        "last_name": "Griffiths",
+        "nationality": "England"
     },
     {
         "appearances": "175",
         "first_name": "Frank",
-        "last_name": "McPherson"
+        "goals": "52",
+        "last_name": "McPherson",
+        "nationality": "England"
     },
     {
         "appearances": "174",
         "first_name": "Joe",
-        "last_name": "Cassidy"
+        "goals": "100",
+        "last_name": "Cassidy",
+        "nationality": "Scotland"
     },
     {
         "appearances": "173",
         "first_name": "Jack",
-        "last_name": "Griffiths"
+        "goals": "1",
+        "last_name": "Griffiths",
+        "nationality": "England"
     },
     {
         "appearances": "170",
         "first_name": "Mr.",
-        "last_name": "Rafael"
+        "goals": "5",
+        "last_name": "Rafael",
+        "nationality": "Brazil"
     },
     {
         "appearances": "162",
         "first_name": "Charlie",
-        "last_name": "Mitten"
+        "goals": "61",
+        "last_name": "Mitten",
+        "nationality": "England"
     },
     {
         "appearances": "161",
         "first_name": "Steve",
-        "last_name": "James"
+        "goals": "4",
+        "last_name": "James",
+        "nationality": "England"
     },
     {
         "appearances": "161",
         "first_name": "Andrei",
-        "last_name": "Kanchelskis"
+        "goals": "36",
+        "last_name": "Kanchelskis",
+        "nationality": "Soviet Union\n CIS\n Russia"
     },
     {
         "appearances": "160",
         "first_name": "Teddy",
-        "last_name": "Partridge"
+        "goals": "18",
+        "last_name": "Partridge",
+        "nationality": "England"
     },
     {
         "appearances": "157",
         "first_name": "James",
-        "last_name": "McNaught"
+        "goals": "12",
+        "last_name": "McNaught",
+        "nationality": "Scotland"
     },
     {
         "appearances": "157",
         "first_name": "Billy",
-        "last_name": "Bryant"
+        "goals": "42",
+        "last_name": "Bryant",
+        "nationality": "England"
     },
     {
         "appearances": "157",
         "first_name": "Javier",
-        "last_name": "Hern\u00e1ndez"
+        "goals": "59",
+        "last_name": "Hern\u00e1ndez",
+        "nationality": "Mexico"
     },
     {
         "appearances": "156",
         "first_name": "Francis",
-        "last_name": "Burns"
+        "goals": "7",
+        "last_name": "Burns",
+        "nationality": "Scotland"
     },
     {
         "appearances": "155",
         "first_name": "Bob",
-        "last_name": "Donaldson"
+        "goals": "66",
+        "last_name": "Donaldson",
+        "nationality": "Scotland"
     },
     {
         "appearances": "155",
         "first_name": "Victor",
-        "last_name": "Lindel\u00f6f"
+        "goals": "3",
+        "last_name": "Lindel\u00f6f",
+        "nationality": "Sweden"
     },
     {
         "appearances": "153",
         "first_name": "Arthur",
-        "last_name": "Lochhead"
+        "goals": "50",
+        "last_name": "Lochhead",
+        "nationality": "Scotland"
     },
     {
         "appearances": "153",
         "first_name": "Teddy",
-        "last_name": "Sheringham"
+        "goals": "46",
+        "last_name": "Sheringham",
+        "nationality": "England"
     },
     {
         "appearances": "152",
         "first_name": "Billy",
-        "last_name": "Morgan"
+        "goals": "7",
+        "last_name": "Morgan",
+        "nationality": "England"
     },
     {
         "appearances": "152",
         "first_name": "Frank",
-        "last_name": "Barson"
+        "goals": "4",
+        "last_name": "Barson",
+        "nationality": "England"
     },
     {
         "appearances": "152",
         "first_name": "Dwight",
-        "last_name": "Yorke"
+        "goals": "66",
+        "last_name": "Yorke",
+        "nationality": "Trinidad and Tobago"
     },
     {
         "appearances": "151",
         "first_name": "Nemanja",
-        "last_name": "Mati\u0107"
+        "goals": "4",
+        "last_name": "Mati\u0107",
+        "nationality": "Serbia"
     },
     {
         "appearances": "150",
         "first_name": "David",
-        "last_name": "Pegg"
+        "goals": "28",
+        "last_name": "Pegg",
+        "nationality": "England"
     },
     {
         "appearances": "150",
         "first_name": "Ronny",
-        "last_name": "Johnsen"
+        "goals": "9",
+        "last_name": "Johnsen",
+        "nationality": "Norway"
     },
     {
         "appearances": "149",
         "first_name": "Dimitar",
-        "last_name": "Berbatov"
+        "goals": "56",
+        "last_name": "Berbatov",
+        "nationality": "Bulgaria"
     },
     {
         "appearances": "147",
         "first_name": "Jimmy",
-        "last_name": "Hanson"
+        "goals": "52",
+        "last_name": "Hanson",
+        "nationality": "England"
     },
     {
         "appearances": "147",
         "first_name": "John",
-        "last_name": "Fitzpatrick"
+        "goals": "10",
+        "last_name": "Fitzpatrick",
+        "nationality": "Scotland"
     },
     {
         "appearances": "146",
         "first_name": "Noel",
-        "last_name": "Cantwell"
+        "goals": "8",
+        "last_name": "Cantwell",
+        "nationality": "Ireland"
     },
     {
         "appearances": "146",
         "first_name": "Mike",
-        "last_name": "Phelan"
+        "goals": "3",
+        "last_name": "Phelan",
+        "nationality": "England"
     },
     {
         "appearances": "146",
         "first_name": "Paul",
-        "last_name": "Parker"
+        "goals": "2",
+        "last_name": "Parker",
+        "nationality": "England"
     },
     {
         "appearances": "142",
         "first_name": "Gerry",
-        "last_name": "Daly"
+        "goals": "32",
+        "last_name": "Daly",
+        "nationality": "Ireland"
     },
     {
         "appearances": "142",
         "first_name": "Danny",
-        "last_name": "Welbeck"
+        "goals": "29",
+        "last_name": "Welbeck",
+        "nationality": "England"
     },
     {
         "appearances": "141",
         "first_name": "Daley",
-        "last_name": "Blind"
+        "goals": "6",
+        "last_name": "Blind",
+        "nationality": "Netherlands"
     },
     {
         "appearances": "140",
         "first_name": "Jack",
-        "last_name": "Wilson"
+        "goals": "3",
+        "last_name": "Wilson",
+        "nationality": "England"
     },
     {
         "appearances": "139",
         "first_name": "Fabien",
-        "last_name": "Barthez"
+        "goals": "0",
+        "last_name": "Barthez",
+        "nationality": "France"
     },
     {
         "appearances": "136",
         "first_name": "Frank",
-        "last_name": "Barrett"
+        "goals": "0",
+        "last_name": "Barrett",
+        "nationality": "Scotland"
     },
     {
         "appearances": "135",
         "first_name": "Harry",
-        "last_name": "Thomas"
+        "goals": "13",
+        "last_name": "Thomas",
+        "nationality": "Wales"
     },
     {
         "appearances": "134",
         "first_name": "Bob",
-        "last_name": "Bonthron"
+        "goals": "3",
+        "last_name": "Bonthron",
+        "nationality": "Scotland"
     },
     {
         "appearances": "134",
         "first_name": "Gordon",
-        "last_name": "Hill"
+        "goals": "51",
+        "last_name": "Hill",
+        "nationality": "England"
     },
     {
         "appearances": "128",
         "first_name": "Vince",
-        "last_name": "Hayes"
+        "goals": "2",
+        "last_name": "Hayes",
+        "nationality": "England"
     },
     {
         "appearances": "127",
         "first_name": "William",
-        "last_name": "Bryant"
+        "goals": "33",
+        "last_name": "Bryant",
+        "nationality": "England"
     },
     {
         "appearances": "127",
         "first_name": "Albert",
-        "last_name": "Scanlon"
+        "goals": "35",
+        "last_name": "Scanlon",
+        "nationality": "England"
     },
     {
         "appearances": "127",
         "first_name": "Jaap",
-        "last_name": "Stam"
+        "goals": "1",
+        "last_name": "Stam",
+        "nationality": "Netherlands"
     },
     {
         "appearances": "127",
         "first_name": "Scott",
-        "last_name": "McTominay"
+        "goals": "14",
+        "last_name": "McTominay",
+        "nationality": "Scotland"
     },
     {
         "appearances": "126",
         "first_name": "Joe",
-        "last_name": "Jordan"
+        "goals": "41",
+        "last_name": "Jordan",
+        "nationality": "Scotland"
     },
     {
         "appearances": "126",
         "first_name": "Quinton",
-        "last_name": "Fortune"
+        "goals": "11",
+        "last_name": "Fortune",
+        "nationality": "South Africa"
     },
     {
         "appearances": "125",
         "first_name": "Harold",
-        "last_name": "Halse"
+        "goals": "56",
+        "last_name": "Halse",
+        "nationality": "England"
     },
     {
         "appearances": "124",
         "first_name": "Louis",
-        "last_name": "Saha"
+        "goals": "42",
+        "last_name": "Saha",
+        "nationality": "France"
     },
     {
         "appearances": "123",
         "first_name": "Jimmy",
-        "last_name": "Greenhoff"
+        "goals": "36",
+        "last_name": "Greenhoff",
+        "nationality": "England"
     },
     {
         "appearances": "122",
         "first_name": "Jack",
-        "last_name": "Picken"
+        "goals": "46",
+        "last_name": "Picken",
+        "nationality": "Scotland"
     },
     {
         "appearances": "122",
         "first_name": "Jack",
-        "last_name": "Mellor"
+        "goals": "0",
+        "last_name": "Mellor",
+        "nationality": "England"
     },
     {
         "appearances": "122",
         "first_name": "Billy",
-        "last_name": "McGlen"
+        "goals": "2",
+        "last_name": "McGlen",
+        "nationality": "England"
     },
     {
         "appearances": "122",
         "first_name": "Marcos",
-        "last_name": "Rojo"
+        "goals": "2",
+        "last_name": "Rojo",
+        "nationality": "Argentina"
     },
     {
         "appearances": "121",
         "first_name": "Jack",
-        "last_name": "Peddie"
+        "goals": "58",
+        "last_name": "Peddie",
+        "nationality": "Scotland"
     },
     {
         "appearances": "121",
         "first_name": "Mark",
-        "last_name": "Jones"
+        "goals": "1",
+        "last_name": "Jones",
+        "nationality": "England"
     },
     {
         "appearances": "120",
         "first_name": "George",
-        "last_name": "Mutch"
+        "goals": "49",
+        "last_name": "Mutch",
+        "nationality": "Scotland"
     },
     {
         "appearances": "120",
         "first_name": "John",
-        "last_name": "Gidman"
+        "goals": "4",
+        "last_name": "Gidman",
+        "nationality": "England"
     },
     {
         "appearances": "119",
         "first_name": "David",
-        "last_name": "Gaskell"
+        "goals": "0",
+        "last_name": "Gaskell",
+        "nationality": "England"
     },
     {
         "appearances": "119",
         "first_name": "Alex",
-        "last_name": "Forsyth"
+        "goals": "5",
+        "last_name": "Forsyth",
+        "nationality": "Scotland"
     },
     {
         "appearances": "119",
         "first_name": "Mal",
-        "last_name": "Donaghy"
+        "goals": "0",
+        "last_name": "Donaghy",
+        "nationality": "Northern Ireland"
     },
     {
         "appearances": "118",
         "first_name": "David",
-        "last_name": "May"
+        "goals": "8",
+        "last_name": "May",
+        "nationality": "England"
     },
     {
         "appearances": "117",
         "first_name": "Dick",
-        "last_name": "Holden"
+        "goals": "0",
+        "last_name": "Holden",
+        "nationality": "England"
     },
     {
         "appearances": "117",
         "first_name": "Jackie",
-        "last_name": "Blanchflower"
+        "goals": "27",
+        "last_name": "Blanchflower",
+        "nationality": "Northern Ireland"
     },
     {
         "appearances": "116",
         "first_name": "Hugh",
-        "last_name": "McLenahan"
+        "goals": "12",
+        "last_name": "McLenahan",
+        "nationality": "England"
     },
     {
         "appearances": "116",
         "first_name": "George",
-        "last_name": "McLachlan"
+        "goals": "4",
+        "last_name": "McLachlan",
+        "nationality": "Scotland"
     },
     {
         "appearances": "116",
         "first_name": "Johnny",
-        "last_name": "Downie"
+        "goals": "37",
+        "last_name": "Downie",
+        "nationality": "Scotland"
     },
     {
         "appearances": "115",
         "first_name": "Jack",
-        "last_name": "Warner"
+        "goals": "2",
+        "last_name": "Warner",
+        "nationality": "Wales"
     },
     {
         "appearances": "115",
         "first_name": "Don",
-        "last_name": "Gibson"
+        "goals": "0",
+        "last_name": "Gibson",
+        "nationality": "England"
     },
     {
         "appearances": "115",
         "first_name": "Johnny",
-        "last_name": "Giles"
+        "goals": "13",
+        "last_name": "Giles",
+        "nationality": "Ireland"
     },
     {
         "appearances": "114",
         "first_name": "Mr.",
-        "last_name": "Fred"
+        "goals": "4",
+        "last_name": "Fred",
+        "nationality": "Brazil"
     },
     {
         "appearances": "113",
         "first_name": "John",
-        "last_name": "Connelly"
+        "goals": "35",
+        "last_name": "Connelly",
+        "nationality": "England"
     },
     {
         "appearances": "112",
         "first_name": "Bobby",
-        "last_name": "Beale"
+        "goals": "0",
+        "last_name": "Beale",
+        "nationality": "England"
     },
     {
         "appearances": "110",
         "first_name": "James",
-        "last_name": "Brown"
+        "goals": "1",
+        "last_name": "Brown",
+        "nationality": "Scotland"
     },
     {
         "appearances": "110",
         "first_name": "David",
-        "last_name": "McCreery"
+        "goals": "8",
+        "last_name": "McCreery",
+        "nationality": "Northern Ireland"
     },
     {
         "appearances": "110",
         "first_name": "Mickey",
-        "last_name": "Thomas"
+        "goals": "15",
+        "last_name": "Thomas",
+        "nationality": "Wales"
     },
     {
         "appearances": "110",
         "first_name": "Graeme",
-        "last_name": "Hogg"
+        "goals": "1",
+        "last_name": "Hogg",
+        "nationality": "Scotland"
     },
     {
         "appearances": "110",
         "first_name": "Neil",
-        "last_name": "Webb"
+        "goals": "11",
+        "last_name": "Webb",
+        "nationality": "England"
     },
     {
         "appearances": "109",
         "first_name": "Tommy",
-        "last_name": "Bamford"
+        "goals": "57",
+        "last_name": "Bamford",
+        "nationality": "Wales"
     },
     {
         "appearances": "109",
         "first_name": "Lee",
-        "last_name": "Martin"
+        "goals": "2",
+        "last_name": "Martin",
+        "nationality": "England"
     },
     {
         "appearances": "108",
         "first_name": "Eddie",
-        "last_name": "Colman"
+        "goals": "2",
+        "last_name": "Colman",
+        "nationality": "England"
     },
     {
         "appearances": "107",
         "first_name": "Freddie",
-        "last_name": "Goodwin"
+        "goals": "8",
+        "last_name": "Goodwin",
+        "nationality": "England"
     },
     {
         "appearances": "107",
         "first_name": "Ashley",
-        "last_name": "Grimes"
+        "goals": "11",
+        "last_name": "Grimes",
+        "nationality": "Ireland"
     },
     {
         "appearances": "106",
         "first_name": "Arthur",
-        "last_name": "Whalley"
+        "goals": "6",
+        "last_name": "Whalley",
+        "nationality": "England"
     },
     {
         "appearances": "106",
         "first_name": "Ronnie",
-        "last_name": "Cope"
+        "goals": "2",
+        "last_name": "Cope",
+        "nationality": "England"
     },
     {
         "appearances": "106",
         "first_name": "Peter",
-        "last_name": "Davenport"
+        "goals": "26",
+        "last_name": "Davenport",
+        "nationality": "England"
     },
     {
         "appearances": "105",
         "first_name": "Robin",
-        "last_name": "van Persie"
+        "goals": "58",
+        "last_name": "van Persie",
+        "nationality": "Netherlands"
     },
     {
         "appearances": "103",
         "first_name": "Henning",
-        "last_name": "Berg"
+        "goals": "3",
+        "last_name": "Berg",
+        "nationality": "Norway"
     },
     {
         "appearances": "103",
         "first_name": "Harry",
-        "last_name": "Maguire"
+        "goals": "5",
+        "last_name": "Maguire",
+        "nationality": "England"
     },
     {
         "appearances": "101",
         "first_name": "Tommy",
-        "last_name": "Reid"
+        "goals": "67",
+        "last_name": "Reid",
+        "nationality": "Scotland"
     },
     {
         "appearances": "100",
         "first_name": "Dick",
-        "last_name": "Smith"
+        "goals": "37",
+        "last_name": "Smith",
+        "nationality": "England"
     },
     {
         "appearances": "100",
         "first_name": "Eric",
-        "last_name": "Bailly"
+        "goals": "1",
+        "last_name": "Bailly",
+        "nationality": "Ivory Coast"
     },
     {
         "appearances": "99",
         "first_name": "Carlos",
-        "last_name": "Tevez"
+        "goals": "34",
+        "last_name": "Tevez",
+        "nationality": "Argentina"
     },
     {
         "appearances": "98",
         "first_name": "George",
-        "last_name": "Perrins"
+        "goals": "0",
+        "last_name": "Perrins",
+        "nationality": "England"
     },
     {
         "appearances": "98",
         "first_name": "Billy",
-        "last_name": "Whelan"
+        "goals": "52",
+        "last_name": "Whelan",
+        "nationality": "Ireland"
     },
     {
         "appearances": "98",
         "first_name": "Arnold",
-        "last_name": "M\u00fchren"
+        "goals": "18",
+        "last_name": "M\u00fchren",
+        "nationality": "Netherlands"
     },
     {
         "appearances": "98",
         "first_name": "Diego",
-        "last_name": "Forl\u00e1n"
+        "goals": "17",
+        "last_name": "Forl\u00e1n",
+        "nationality": "Uruguay"
     },
     {
         "appearances": "97",
         "first_name": "Tony",
-        "last_name": "Young"
+        "goals": "1",
+        "last_name": "Young",
+        "nationality": "England"
     },
     {
         "appearances": "97",
         "first_name": "Mason",
-        "last_name": "Greenwood"
+        "goals": "26",
+        "last_name": "Greenwood",
+        "nationality": "England"
     },
     {
         "appearances": "96",
         "first_name": "Charlie",
-        "last_name": "Radford"
+        "goals": "1",
+        "last_name": "Radford",
+        "nationality": "England"
     },
     {
         "appearances": "96",
         "first_name": "Hubert",
-        "last_name": "Redwood"
+        "goals": "4",
+        "last_name": "Redwood",
+        "nationality": "England"
     },
     {
         "appearances": "96",
         "first_name": "Romelu",
-        "last_name": "Lukaku"
+        "goals": "42",
+        "last_name": "Lukaku",
+        "nationality": "Belgium"
     },
     {
         "appearances": "95",
         "first_name": "Billy",
-        "last_name": "Draycott"
+        "goals": "6",
+        "last_name": "Draycott",
+        "nationality": "England"
     },
     {
         "appearances": "95",
         "first_name": "Jeff",
-        "last_name": "Whitefoot"
+        "goals": "0",
+        "last_name": "Whitefoot",
+        "nationality": "England"
     },
     {
         "appearances": "95",
         "first_name": "Colin",
-        "last_name": "Gibson"
+        "goals": "9",
+        "last_name": "Gibson",
+        "nationality": "England"
     },
     {
         "appearances": "94",
         "first_name": "Jim",
-        "last_name": "Leighton"
+        "goals": "0",
+        "last_name": "Leighton",
+        "nationality": "Scotland"
     },
     {
         "appearances": "93",
         "first_name": "Johnny",
-        "last_name": "Morris"
+        "goals": "35",
+        "last_name": "Morris",
+        "nationality": "England"
     },
     {
         "appearances": "93",
         "first_name": "Alex",
-        "last_name": "Dawson"
+        "goals": "54",
+        "last_name": "Dawson",
+        "nationality": "Scotland"
     },
     {
         "appearances": "93",
         "first_name": "Alan",
-        "last_name": "Smith"
+        "goals": "12",
+        "last_name": "Smith",
+        "nationality": "England"
     },
     {
         "appearances": "93",
         "first_name": "Aaron",
-        "last_name": "Wan-Bissaka"
+        "goals": "2",
+        "last_name": "Wan-Bissaka",
+        "nationality": "England"
     },
     {
         "appearances": "92",
         "first_name": "George",
-        "last_name": "Roughton"
+        "goals": "0",
+        "last_name": "Roughton",
+        "nationality": "England"
     },
     {
         "appearances": "92",
         "first_name": "Matteo",
-        "last_name": "Darmian"
+        "goals": "1",
+        "last_name": "Darmian",
+        "nationality": "Italy"
     },
     {
         "appearances": "90",
         "first_name": "Tom",
-        "last_name": "Smith"
+        "goals": "16",
+        "last_name": "Smith",
+        "nationality": "England"
     },
     {
         "appearances": "89",
         "first_name": "Matthew",
-        "last_name": "Gillespie"
+        "goals": "21",
+        "last_name": "Gillespie",
+        "nationality": "Scotland"
     },
     {
         "appearances": "87",
         "first_name": "Willie",
-        "last_name": "Stewart"
+        "goals": "5",
+        "last_name": "Stewart",
+        "nationality": "Scotland"
     },
     {
         "appearances": "87",
         "first_name": "Alan",
-        "last_name": "Gowling"
+        "goals": "21",
+        "last_name": "Gowling",
+        "nationality": "England"
     },
     {
         "appearances": "86",
         "first_name": "James",
-        "last_name": "Hodge"
+        "goals": "2",
+        "last_name": "Hodge",
+        "nationality": "Scotland"
     },
     {
         "appearances": "86",
         "first_name": "George",
-        "last_name": "Anderson"
+        "goals": "39",
+        "last_name": "Anderson",
+        "nationality": "England"
     },
     {
         "appearances": "85",
         "first_name": "Wilf",
-        "last_name": "McGuinness"
+        "goals": "2",
+        "last_name": "McGuinness",
+        "nationality": "England"
     },
     {
         "appearances": "83",
         "first_name": "Gabriel",
-        "last_name": "Heinze"
+        "goals": "4",
+        "last_name": "Heinze",
+        "nationality": "Argentina"
     },
     {
         "appearances": "82",
         "first_name": "Juan",
-        "last_name": "Sebasti\u00e1n Ver\u00f3n"
+        "goals": "11",
+        "last_name": "Sebasti\u00e1n Ver\u00f3n",
+        "nationality": "Argentina"
     },
     {
         "appearances": "81",
         "first_name": "Kieran",
-        "last_name": "Richardson"
+        "goals": "11",
+        "last_name": "Richardson",
+        "nationality": "England"
     },
     {
         "appearances": "80",
         "first_name": "Reg",
-        "last_name": "Allen"
+        "goals": "0",
+        "last_name": "Allen",
+        "nationality": "England"
     },
     {
         "appearances": "80",
         "first_name": "Mark",
-        "last_name": "Pearson"
+        "goals": "14",
+        "last_name": "Pearson",
+        "nationality": "England"
     },
     {
         "appearances": "79",
         "first_name": "Colin",
-        "last_name": "Webster"
+        "goals": "31",
+        "last_name": "Webster",
+        "nationality": "Wales"
     },
     {
         "appearances": "79",
         "first_name": "Chris",
-        "last_name": "Turner"
+        "goals": "0",
+        "last_name": "Turner",
+        "nationality": "England"
     },
     {
         "appearances": "79",
         "first_name": "Tom",
-        "last_name": "Cleverley"
+        "goals": "5",
+        "last_name": "Cleverley",
+        "nationality": "England"
     },
     {
         "appearances": "78",
         "first_name": "Jimmy",
-        "last_name": "Turnbull"
+        "goals": "45",
+        "last_name": "Turnbull",
+        "nationality": "Scotland"
     },
     {
         "appearances": "77",
         "first_name": "Billy",
-        "last_name": "Johnston"
+        "goals": "27",
+        "last_name": "Johnston",
+        "nationality": "Scotland"
     },
     {
         "appearances": "77",
         "first_name": "Tim",
-        "last_name": "Howard"
+        "goals": "0",
+        "last_name": "Howard",
+        "nationality": "United States"
     },
     {
         "appearances": "76",
         "first_name": "Stan",
-        "last_name": "Gallimore"
+        "goals": "20",
+        "last_name": "Gallimore",
+        "nationality": "England"
     },
     {
         "appearances": "75",
         "first_name": "Ian",
-        "last_name": "Greaves"
+        "goals": "0",
+        "last_name": "Greaves",
+        "nationality": "England"
     },
     {
         "appearances": "75",
         "first_name": "Laurent",
-        "last_name": "Blanc"
+        "goals": "4",
+        "last_name": "Blanc",
+        "nationality": "France"
     },
     {
         "appearances": "75",
         "first_name": "Andreas",
-        "last_name": "Pereira"
+        "goals": "4",
+        "last_name": "Pereira",
+        "nationality": "Brazil"
     },
     {
         "appearances": "74",
         "first_name": "John",
-        "last_name": "Clarkin"
+        "goals": "23",
+        "last_name": "Clarkin",
+        "nationality": "Scotland"
     },
     {
         "appearances": "74",
         "first_name": "Fred",
-        "last_name": "Hopkin"
+        "goals": "8",
+        "last_name": "Hopkin",
+        "nationality": "England"
     },
     {
         "appearances": "73",
         "first_name": "Jack",
-        "last_name": "Hall"
+        "goals": "0",
+        "last_name": "Hall",
+        "nationality": "England"
     },
     {
         "appearances": "73",
         "first_name": "Russell",
-        "last_name": "Beardsmore"
+        "goals": "4",
+        "last_name": "Beardsmore",
+        "nationality": "England"
     },
     {
         "appearances": "72",
         "first_name": "Roy",
-        "last_name": "Carroll"
+        "goals": "0",
+        "last_name": "Carroll",
+        "nationality": "Northern Ireland"
     },
     {
         "appearances": "72",
         "first_name": "Bruno",
-        "last_name": "Fernandes"
+        "goals": "36",
+        "last_name": "Fernandes",
+        "nationality": "Portugal"
     },
     {
         "appearances": "71",
         "first_name": "Jimmy",
-        "last_name": "Collinson"
+        "goals": "17",
+        "last_name": "Collinson",
+        "nationality": "England"
     },
     {
         "appearances": "71",
         "first_name": "Tommy",
-        "last_name": "Breen"
+        "goals": "0",
+        "last_name": "Breen",
+        "nationality": "Ireland"
     },
     {
         "appearances": "71",
         "first_name": "Joe",
-        "last_name": "Carolan"
+        "goals": "0",
+        "last_name": "Carolan",
+        "nationality": "Ireland"
     },
     {
         "appearances": "71",
         "first_name": "Danny",
-        "last_name": "Wallace"
+        "goals": "11",
+        "last_name": "Wallace",
+        "nationality": "England"
     },
     {
         "appearances": "70",
         "first_name": "Mark",
-        "last_name": "Robins"
+        "goals": "17",
+        "last_name": "Robins",
+        "nationality": "England"
     },
     {
         "appearances": "69",
         "first_name": "Jimmy",
-        "last_name": "Hanlon"
+        "goals": "22",
+        "last_name": "Hanlon",
+        "nationality": "England"
     },
     {
         "appearances": "69",
         "first_name": "Jim",
-        "last_name": "Holton"
+        "goals": "5",
+        "last_name": "Holton",
+        "nationality": "Scotland"
     },
     {
         "appearances": "69",
         "first_name": "Viv",
-        "last_name": "Anderson"
+        "goals": "4",
+        "last_name": "Anderson",
+        "nationality": "England"
     },
     {
         "appearances": "69",
         "first_name": "Daniel",
-        "last_name": "James"
+        "goals": "9",
+        "last_name": "James",
+        "nationality": "Wales"
     },
     {
         "appearances": "68",
         "first_name": "Charlie",
-        "last_name": "Rennox"
+        "goals": "25",
+        "last_name": "Rennox",
+        "nationality": "Scotland"
     },
     {
         "appearances": "68",
         "first_name": "Billy",
-        "last_name": "Dale"
+        "goals": "0",
+        "last_name": "Dale",
+        "nationality": "England"
     },
     {
         "appearances": "68",
         "first_name": "Jimmy",
-        "last_name": "Nicholson"
+        "goals": "6",
+        "last_name": "Nicholson",
+        "nationality": "Northern Ireland"
     },
     {
         "appearances": "68",
         "first_name": "Paul",
-        "last_name": "Edwards"
+        "goals": "1",
+        "last_name": "Edwards",
+        "nationality": "England"
     },
     {
         "appearances": "68",
         "first_name": "Tommy",
-        "last_name": "O'Neil"
+        "goals": "0",
+        "last_name": "O'Neil",
+        "nationality": "England"
     },
     {
         "appearances": "67",
         "first_name": "Warren",
-        "last_name": "Bradley"
+        "goals": "21",
+        "last_name": "Bradley",
+        "nationality": "England"
     },
     {
         "appearances": "67",
         "first_name": "Pat",
-        "last_name": "Dunne"
+        "goals": "0",
+        "last_name": "Dunne",
+        "nationality": "Ireland"
     },
     {
         "appearances": "65",
         "first_name": "Ernie",
-        "last_name": "Vincent"
+        "goals": "1",
+        "last_name": "Vincent",
+        "nationality": "England"
     },
     {
         "appearances": "65",
         "first_name": "Billy",
-        "last_name": "Porter"
+        "goals": "0",
+        "last_name": "Porter",
+        "nationality": "England"
     },
     {
         "appearances": "65",
         "first_name": "Ian",
-        "last_name": "Ure"
+        "goals": "1",
+        "last_name": "Ure",
+        "nationality": "Scotland"
     },
     {
         "appearances": "64",
         "first_name": "William",
-        "last_name": "Jackson"
+        "goals": "14",
+        "last_name": "Jackson",
+        "nationality": "Wales"
     },
     {
         "appearances": "64",
         "first_name": "Jimmy",
-        "last_name": "Whitehouse"
+        "goals": "0",
+        "last_name": "Whitehouse",
+        "nationality": "England"
     },
     {
         "appearances": "64",
         "first_name": "Garry",
-        "last_name": "Birtles"
+        "goals": "12",
+        "last_name": "Birtles",
+        "nationality": "England"
     },
     {
         "appearances": "63",
         "first_name": "Jimmy",
-        "last_name": "Bannister"
+        "goals": "8",
+        "last_name": "Bannister",
+        "nationality": "England"
     },
     {
         "appearances": "63",
         "first_name": "Gary",
-        "last_name": "Walsh"
+        "goals": "0",
+        "last_name": "Walsh",
+        "nationality": "England"
     },
     {
         "appearances": "63",
         "first_name": "Adnan",
-        "last_name": "Januzaj"
+        "goals": "5",
+        "last_name": "Januzaj",
+        "nationality": "Belgium"
     },
     {
         "appearances": "63",
         "first_name": "Henrikh",
-        "last_name": "Mkhitaryan"
+        "goals": "13",
+        "last_name": "Mkhitaryan",
+        "nationality": "Armenia"
     },
     {
         "appearances": "62",
         "first_name": "Henry",
-        "last_name": "Boyd"
+        "goals": "35",
+        "last_name": "Boyd",
+        "nationality": "Scotland"
     },
     {
         "appearances": "61",
         "first_name": "Andrew",
-        "last_name": "Mitchell"
+        "goals": "0",
+        "last_name": "Mitchell",
+        "nationality": "Scotland"
     },
     {
         "appearances": "61",
         "first_name": "Alf",
-        "last_name": "Farman"
+        "goals": "28",
+        "last_name": "Farman",
+        "nationality": "England"
     },
     {
         "appearances": "61",
         "first_name": "Wilf",
-        "last_name": "Woodcock"
+        "goals": "21",
+        "last_name": "Woodcock",
+        "nationality": "England"
     },
     {
         "appearances": "61",
         "first_name": "Tomasz",
-        "last_name": "Kuszczak"
+        "goals": "0",
+        "last_name": "Kuszczak",
+        "nationality": "Poland"
     },
     {
         "appearances": "61",
         "first_name": "Sergio",
-        "last_name": "Romero"
+        "goals": "0",
+        "last_name": "Romero",
+        "nationality": "Argentina"
     },
     {
         "appearances": "60",
         "first_name": "Mickey",
-        "last_name": "Hamill"
+        "goals": "2",
+        "last_name": "Hamill",
+        "nationality": "Ireland"
     },
     {
         "appearances": "60",
         "first_name": "Jack",
-        "last_name": "Cape"
+        "goals": "18",
+        "last_name": "Cape",
+        "nationality": "England"
     },
     {
         "appearances": "60",
         "first_name": "Raimond",
-        "last_name": "van der Gouw"
+        "goals": "0",
+        "last_name": "van der Gouw",
+        "nationality": "Netherlands"
     },
     {
         "appearances": "60",
         "first_name": "Darron",
-        "last_name": "Gibson"
+        "goals": "10",
+        "last_name": "Gibson",
+        "nationality": "Ireland"
     },
     {
         "appearances": "59",
         "first_name": "Oscar",
-        "last_name": "Linkson"
+        "goals": "0",
+        "last_name": "Linkson",
+        "nationality": "England"
     },
     {
         "appearances": "59",
         "first_name": "Tommy",
-        "last_name": "McNulty"
+        "goals": "0",
+        "last_name": "McNulty",
+        "nationality": "England"
     },
     {
         "appearances": "58",
         "first_name": "Jordi",
-        "last_name": "Cruyff"
+        "goals": "8",
+        "last_name": "Cruyff",
+        "nationality": "Netherlands"
     },
     {
         "appearances": "57",
         "first_name": "William",
-        "last_name": "Douglas"
+        "goals": "0",
+        "last_name": "Douglas",
+        "nationality": "Scotland"
     },
     {
         "appearances": "57",
         "first_name": "Harry",
-        "last_name": "McShane"
+        "goals": "8",
+        "last_name": "McShane",
+        "nationality": "Scotland"
     },
     {
         "appearances": "57",
         "first_name": "Shinji",
-        "last_name": "Kagawa"
+        "goals": "6",
+        "last_name": "Kagawa",
+        "nationality": "Japan"
     },
     {
         "appearances": "56",
         "first_name": "Carlo",
-        "last_name": "Sartori"
+        "goals": "6",
+        "last_name": "Sartori",
+        "nationality": "Italy"
     },
     {
         "appearances": "56",
         "first_name": "Les",
-        "last_name": "Sealey"
+        "goals": "0",
+        "last_name": "Sealey",
+        "nationality": "England"
     },
     {
         "appearances": "56",
         "first_name": "Mr.",
-        "last_name": "F\u00e1bio"
+        "goals": "3",
+        "last_name": "F\u00e1bio",
+        "nationality": "Brazil"
     },
     {
         "appearances": "54",
         "first_name": "Herbert",
-        "last_name": "Burgess"
+        "goals": "0",
+        "last_name": "Burgess",
+        "nationality": "England"
     },
     {
         "appearances": "53",
         "first_name": "George",
-        "last_name": "Sapsford"
+        "goals": "17",
+        "last_name": "Sapsford",
+        "nationality": "England"
     },
     {
         "appearances": "53",
         "first_name": "Tommy",
-        "last_name": "Meehan"
+        "goals": "6",
+        "last_name": "Meehan",
+        "nationality": "England"
     },
     {
         "appearances": "53",
         "first_name": "Sam",
-        "last_name": "Hopkinson"
+        "goals": "12",
+        "last_name": "Hopkinson",
+        "nationality": "England"
     },
     {
         "appearances": "53",
         "first_name": "Ernie",
-        "last_name": "Hine"
+        "goals": "12",
+        "last_name": "Hine",
+        "nationality": "England"
     },
     {
         "appearances": "53",
         "first_name": "Harry",
-        "last_name": "Baird"
+        "goals": "18",
+        "last_name": "Baird",
+        "nationality": "Northern Ireland"
     },
     {
         "appearances": "53",
         "first_name": "Paddy",
-        "last_name": "Roche"
+        "goals": "0",
+        "last_name": "Roche",
+        "nationality": "Ireland"
     },
     {
         "appearances": "53",
         "first_name": "Memphis",
-        "last_name": "Depay"
+        "goals": "7",
+        "last_name": "Depay",
+        "nationality": "Netherlands"
     },
     {
         "appearances": "53",
         "first_name": "Zlatan",
-        "last_name": "Ibrahimovi\u0107"
+        "goals": "29",
+        "last_name": "Ibrahimovi\u0107",
+        "nationality": "Sweden"
     },
     {
         "appearances": "52",
         "first_name": "Tommy",
-        "last_name": "Frame"
+        "goals": "4",
+        "last_name": "Frame",
+        "nationality": "Scotland"
     },
     {
         "appearances": "52",
         "first_name": "Arthur",
-        "last_name": "Graham"
+        "goals": "7",
+        "last_name": "Graham",
+        "nationality": "Scotland"
     },
     {
         "appearances": "52",
         "first_name": "Michael",
-        "last_name": "Owen"
+        "goals": "17",
+        "last_name": "Owen",
+        "nationality": "England"
     },
     {
         "appearances": "51",
         "first_name": "Jack",
-        "last_name": "Peters"
+        "goals": "14",
+        "last_name": "Peters",
+        "nationality": "England"
     },
     {
         "appearances": "51",
         "first_name": "Dick",
-        "last_name": "Pegg"
+        "goals": "20",
+        "last_name": "Pegg",
+        "nationality": "England"
     },
     {
         "appearances": "51",
         "first_name": "Dick",
-        "last_name": "Wombwell"
+        "goals": "3",
+        "last_name": "Wombwell",
+        "nationality": "England"
     },
     {
         "appearances": "51",
         "first_name": "Hugh",
-        "last_name": "Edmonds"
+        "goals": "0",
+        "last_name": "Edmonds",
+        "nationality": "Scotland"
     },
     {
         "appearances": "51",
         "first_name": "John",
-        "last_name": "Moody"
+        "goals": "0",
+        "last_name": "Moody",
+        "nationality": "England"
     },
     {
         "appearances": "51",
         "first_name": "Billy",
-        "last_name": "Garton"
+        "goals": "0",
+        "last_name": "Garton",
+        "nationality": "England"
     },
     {
         "appearances": "50",
         "first_name": "John",
-        "last_name": "Dow"
+        "goals": "6",
+        "last_name": "Dow",
+        "nationality": "Scotland"
     },
     {
         "appearances": "50",
         "first_name": "Jack",
-        "last_name": "Ball"
+        "goals": "18",
+        "last_name": "Ball",
+        "nationality": "England"
     },
     {
         "appearances": "50",
         "first_name": "William",
-        "last_name": "Robertson"
+        "goals": "1",
+        "last_name": "Robertson",
+        "nationality": "Scotland"
     },
     {
         "appearances": "49",
         "first_name": "Frank",
-        "last_name": "Harris"
+        "goals": "2",
+        "last_name": "Harris",
+        "nationality": "England"
     },
     {
         "appearances": "49",
         "first_name": "William",
-        "last_name": "Stewart"
+        "goals": "7",
+        "last_name": "Stewart",
+        "nationality": "Scotland"
     },
     {
         "appearances": "48",
         "first_name": "Charlie",
-        "last_name": "Spencer"
+        "goals": "0",
+        "last_name": "Spencer",
+        "nationality": "England"
     },
     {
         "appearances": "48",
         "first_name": "Jackie",
-        "last_name": "Wassall"
+        "goals": "6",
+        "last_name": "Wassall",
+        "nationality": "England"
     },
     {
         "appearances": "48",
         "first_name": "Karel",
-        "last_name": "Poborsk\u00fd"
+        "goals": "6",
+        "last_name": "Poborsk\u00fd",
+        "nationality": "Czech Republic"
     },
     {
         "appearances": "47",
         "first_name": "Caesar",
-        "last_name": "Jenkyns"
+        "goals": "6",
+        "last_name": "Jenkyns",
+        "nationality": "Wales"
     },
     {
         "appearances": "47",
         "first_name": "Frank",
-        "last_name": "Knowles"
+        "goals": "1",
+        "last_name": "Knowles",
+        "nationality": "England"
     },
     {
         "appearances": "47",
         "first_name": "Phil",
-        "last_name": "Chisnall"
+        "goals": "10",
+        "last_name": "Chisnall",
+        "nationality": "England"
     },
     {
         "appearances": "47",
         "first_name": "Morgan",
-        "last_name": "Schneiderlin"
+        "goals": "1",
+        "last_name": "Schneiderlin",
+        "nationality": "France"
     },
     {
         "appearances": "47",
         "first_name": "Brandon",
-        "last_name": "Williams"
+        "goals": "1",
+        "last_name": "Williams",
+        "nationality": "England"
     },
     {
         "appearances": "46",
         "first_name": "Thomas",
-        "last_name": "Leigh"
+        "goals": "15",
+        "last_name": "Leigh",
+        "nationality": "England"
     },
     {
         "appearances": "46",
         "first_name": "James",
-        "last_name": "Fisher"
+        "goals": "3",
+        "last_name": "Fisher",
+        "nationality": "Scotland"
     },
     {
         "appearances": "46",
         "first_name": "George",
-        "last_name": "Livingstone"
+        "goals": "14",
+        "last_name": "Livingstone",
+        "nationality": "Scotland"
     },
     {
         "appearances": "46",
         "first_name": "Billy",
-        "last_name": "Harrison"
+        "goals": "5",
+        "last_name": "Harrison",
+        "nationality": "England"
     },
     {
         "appearances": "46",
         "first_name": "Jimmy",
-        "last_name": "Rimmer"
+        "goals": "0",
+        "last_name": "Rimmer",
+        "nationality": "England"
     },
     {
         "appearances": "46",
         "first_name": "George",
-        "last_name": "Graham"
+        "goals": "2",
+        "last_name": "Graham",
+        "nationality": "Scotland"
     },
     {
         "appearances": "45",
         "first_name": "Ian",
-        "last_name": "Moir"
+        "goals": "5",
+        "last_name": "Moir",
+        "nationality": "Scotland"
     },
     {
         "appearances": "45",
         "first_name": "Alexis",
-        "last_name": "S\u00e1nchez"
+        "goals": "5",
+        "last_name": "S\u00e1nchez",
+        "nationality": "Chile"
     },
     {
         "appearances": "44",
         "first_name": "Will",
-        "last_name": "Davidson"
+        "goals": "2",
+        "last_name": "Davidson",
+        "nationality": "unknown"
     },
     {
         "appearances": "44",
         "first_name": "Jack",
-        "last_name": "Banks"
+        "goals": "1",
+        "last_name": "Banks",
+        "nationality": "England"
     },
     {
         "appearances": "44",
         "first_name": "Bill",
-        "last_name": "Ridding"
+        "goals": "14",
+        "last_name": "Ridding",
+        "nationality": "England"
     },
     {
         "appearances": "44",
         "first_name": "Nobby",
-        "last_name": "Lawton"
+        "goals": "6",
+        "last_name": "Lawton",
+        "nationality": "England"
     },
     {
         "appearances": "43",
         "first_name": "Neil",
-        "last_name": "McBain"
+        "goals": "2",
+        "last_name": "McBain",
+        "nationality": "Scotland"
     },
     {
         "appearances": "43",
         "first_name": "Ian",
-        "last_name": "Storey-Moore"
+        "goals": "12",
+        "last_name": "Storey-Moore",
+        "nationality": "England"
     },
     {
         "appearances": "43",
         "first_name": "Mick",
-        "last_name": "Martin"
+        "goals": "2",
+        "last_name": "Martin",
+        "nationality": "Ireland"
     },
     {
         "appearances": "42",
         "first_name": "John",
-        "last_name": "Clements"
+        "goals": "0",
+        "last_name": "Clements",
+        "nationality": "England"
     },
     {
         "appearances": "42",
         "first_name": "Bert",
-        "last_name": "Read"
+        "goals": "0",
+        "last_name": "Read",
+        "nationality": "England"
     },
     {
         "appearances": "42",
         "first_name": "George",
-        "last_name": "Bissett"
+        "goals": "10",
+        "last_name": "Bissett",
+        "nationality": "Scotland"
     },
     {
         "appearances": "42",
         "first_name": "Lance",
-        "last_name": "Richardson"
+        "goals": "0",
+        "last_name": "Richardson",
+        "nationality": "England"
     },
     {
         "appearances": "42",
         "first_name": "Jack",
-        "last_name": "Smith"
+        "goals": "15",
+        "last_name": "Smith",
+        "nationality": "England"
     },
     {
         "appearances": "42",
         "first_name": "Andy",
-        "last_name": "Ritchie"
+        "goals": "13",
+        "last_name": "Ritchie",
+        "nationality": "England"
     },
     {
         "appearances": "41",
         "first_name": "Jim",
-        "last_name": "Brown"
+        "goals": "17",
+        "last_name": "Brown",
+        "nationality": "United States"
     },
     {
         "appearances": "41",
         "first_name": "Alan",
-        "last_name": "Brazil"
+        "goals": "12",
+        "last_name": "Brazil",
+        "nationality": "Scotland"
     },
     {
         "appearances": "40",
         "first_name": "John",
-        "last_name": "Anderson"
+        "goals": "2",
+        "last_name": "Anderson",
+        "nationality": "England"
     },
     {
         "appearances": "40",
         "first_name": "David",
-        "last_name": "Bellion"
+        "goals": "8",
+        "last_name": "Bellion",
+        "nationality": "France"
     },
     {
         "appearances": "39",
         "first_name": "Arthur",
-        "last_name": "Warburton"
+        "goals": "10",
+        "last_name": "Warburton",
+        "nationality": "England"
     },
     {
         "appearances": "39",
         "first_name": "Bert",
-        "last_name": "Whalley"
+        "goals": "0",
+        "last_name": "Whalley",
+        "nationality": "England"
     },
     {
         "appearances": "39",
         "first_name": "Luke",
-        "last_name": "Chadwick"
+        "goals": "2",
+        "last_name": "Chadwick",
+        "nationality": "England"
     },
     {
         "appearances": "39",
         "first_name": "Eric",
-        "last_name": "Djemba-Djemba"
+        "goals": "2",
+        "last_name": "Djemba-Djemba",
+        "nationality": "Cameroon"
     },
     {
         "appearances": "39",
         "first_name": "Owen",
-        "last_name": "Hargreaves"
+        "goals": "2",
+        "last_name": "Hargreaves",
+        "nationality": "England"
     },
     {
         "appearances": "38",
         "first_name": "Billy",
-        "last_name": "Hood"
+        "goals": "6",
+        "last_name": "Hood",
+        "nationality": "unknown"
     },
     {
         "appearances": "38",
         "first_name": "Tommy",
-        "last_name": "Blackstock"
+        "goals": "0",
+        "last_name": "Blackstock",
+        "nationality": "Scotland"
     },
     {
         "appearances": "38",
         "first_name": "Billy",
-        "last_name": "Redman"
+        "goals": "0",
+        "last_name": "Redman",
+        "nationality": "England"
     },
     {
         "appearances": "38",
         "first_name": "Jim",
-        "last_name": "McCalliog"
+        "goals": "7",
+        "last_name": "McCalliog",
+        "nationality": "Scotland"
     },
     {
         "appearances": "38",
         "first_name": "Mark",
-        "last_name": "Bosnich"
+        "goals": "0",
+        "last_name": "Bosnich",
+        "nationality": "Australia"
     },
     {
         "appearances": "38",
         "first_name": "Jesper",
-        "last_name": "Blomqvist"
+        "goals": "1",
+        "last_name": "Blomqvist",
+        "nationality": "Sweden"
     },
     {
         "appearances": "37",
         "first_name": "Billy",
-        "last_name": "Grassam"
+        "goals": "14",
+        "last_name": "Grassam",
+        "nationality": "Scotland"
     },
     {
         "appearances": "37",
         "first_name": "Tony",
-        "last_name": "Donnelly"
+        "goals": "0",
+        "last_name": "Donnelly",
+        "nationality": "England"
     },
     {
         "appearances": "37",
         "first_name": "Joe",
-        "last_name": "Norton"
+        "goals": "3",
+        "last_name": "Norton",
+        "nationality": "England"
     },
     {
         "appearances": "37",
         "first_name": "Billy",
-        "last_name": "Wrigglesworth"
+        "goals": "10",
+        "last_name": "Wrigglesworth",
+        "nationality": "England"
     },
     {
         "appearances": "36",
         "first_name": "Tommy",
-        "last_name": "Morrison"
+        "goals": "8",
+        "last_name": "Morrison",
+        "nationality": "Ireland"
     },
     {
         "appearances": "36",
         "first_name": "Jack",
-        "last_name": "Allan"
+        "goals": "22",
+        "last_name": "Allan",
+        "nationality": "England"
     },
     {
         "appearances": "36",
         "first_name": "Henry",
-        "last_name": "Williams"
+        "goals": "8",
+        "last_name": "Williams",
+        "nationality": "England"
     },
     {
         "appearances": "36",
         "first_name": "Tommy",
-        "last_name": "Forster"
+        "goals": "0",
+        "last_name": "Forster",
+        "nationality": "England"
     },
     {
         "appearances": "36",
         "first_name": "William",
-        "last_name": "Henderson"
+        "goals": "17",
+        "last_name": "Henderson",
+        "nationality": "Scotland"
     },
     {
         "appearances": "36",
         "first_name": "Bill",
-        "last_name": "Rawlings"
+        "goals": "19",
+        "last_name": "Rawlings",
+        "nationality": "England"
     },
     {
         "appearances": "36",
         "first_name": "Neil",
-        "last_name": "Dewar"
+        "goals": "14",
+        "last_name": "Dewar",
+        "nationality": "Scotland"
     },
     {
         "appearances": "36",
         "first_name": "Liam",
-        "last_name": "O'Brien"
+        "goals": "2",
+        "last_name": "O'Brien",
+        "nationality": "Ireland"
     },
     {
         "appearances": "36",
         "first_name": "Federico",
-        "last_name": "Macheda"
+        "goals": "5",
+        "last_name": "Macheda",
+        "nationality": "Italy"
     },
     {
         "appearances": "35",
         "first_name": "Alexander",
-        "last_name": "Robertson"
+        "goals": "1",
+        "last_name": "Robertson",
+        "nationality": "Scotland"
     },
     {
         "appearances": "35",
         "first_name": "Pat",
-        "last_name": "O'Connell"
+        "goals": "2",
+        "last_name": "O'Connell",
+        "nationality": "Ireland"
     },
     {
         "appearances": "35",
         "first_name": "Rees",
-        "last_name": "Williams"
+        "goals": "2",
+        "last_name": "Williams",
+        "nationality": "Wales"
     },
     {
         "appearances": "35",
         "first_name": "Stewart",
-        "last_name": "Chalmers"
+        "goals": "1",
+        "last_name": "Chalmers",
+        "nationality": "Scotland"
     },
     {
         "appearances": "35",
         "first_name": "Jack",
-        "last_name": "Breedon"
+        "goals": "0",
+        "last_name": "Breedon",
+        "nationality": "England"
     },
     {
         "appearances": "35",
         "first_name": "Ronnie",
-        "last_name": "Burke"
+        "goals": "23",
+        "last_name": "Burke",
+        "nationality": "England"
     },
     {
         "appearances": "35",
         "first_name": "Bastian",
-        "last_name": "Schweinsteiger"
+        "goals": "2",
+        "last_name": "Schweinsteiger",
+        "nationality": "Germany"
     },
     {
         "appearances": "35",
         "first_name": "Diogo",
-        "last_name": "Dalot"
+        "goals": "1",
+        "last_name": "Dalot",
+        "nationality": "Portugal"
     },
     {
         "appearances": "34",
         "first_name": "Jimmy",
-        "last_name": "Coupar"
+        "goals": "10",
+        "last_name": "Coupar",
+        "nationality": "Scotland"
     },
     {
         "appearances": "34",
         "first_name": "Stephen",
-        "last_name": "Preston"
+        "goals": "14",
+        "last_name": "Preston",
+        "nationality": "England"
     },
     {
         "appearances": "34",
         "first_name": "Sandy",
-        "last_name": "Robertson"
+        "goals": "10",
+        "last_name": "Robertson",
+        "nationality": "Scotland"
     },
     {
         "appearances": "34",
         "first_name": "Clem",
-        "last_name": "Beddow"
+        "goals": "15",
+        "last_name": "Beddow",
+        "nationality": "England"
     },
     {
         "appearances": "34",
         "first_name": "Joe",
-        "last_name": "Myerscough"
+        "goals": "8",
+        "last_name": "Myerscough",
+        "nationality": "England"
     },
     {
         "appearances": "34",
         "first_name": "Jack",
-        "last_name": "Hacking"
+        "goals": "0",
+        "last_name": "Hacking",
+        "nationality": "England"
     },
     {
         "appearances": "34",
         "first_name": "Chris",
-        "last_name": "McGrath"
+        "goals": "1",
+        "last_name": "McGrath",
+        "nationality": "Northern Ireland"
     },
     {
         "appearances": "34",
         "first_name": "John",
-        "last_name": "Siveb\u00e6k"
+        "goals": "1",
+        "last_name": "Siveb\u00e6k",
+        "nationality": "Denmark"
     },
     {
         "appearances": "33",
         "first_name": "William",
-        "last_name": "Kennedy"
+        "goals": "12",
+        "last_name": "Kennedy",
+        "nationality": "Scotland"
     },
     {
         "appearances": "33",
         "first_name": "Tommy",
-        "last_name": "Arkesden"
+        "goals": "0",
+        "last_name": "Arkesden",
+        "nationality": "England"
     },
     {
         "appearances": "33",
         "first_name": "Charlie",
-        "last_name": "Sagar"
+        "goals": "24",
+        "last_name": "Sagar",
+        "nationality": "England"
     },
     {
         "appearances": "33",
         "first_name": "Tommy",
-        "last_name": "Bogan"
+        "goals": "7",
+        "last_name": "Bogan",
+        "nationality": "Scotland"
     },
     {
         "appearances": "33",
         "first_name": "Bobby",
-        "last_name": "Noble"
+        "goals": "0",
+        "last_name": "Noble",
+        "nationality": "England"
     },
     {
         "appearances": "33",
         "first_name": "Axel",
-        "last_name": "Tuanzebe"
+        "goals": "0",
+        "last_name": "Tuanzebe",
+        "nationality": "England"
     },
     {
         "appearances": "32",
         "first_name": "Jack",
-        "last_name": "Peden"
+        "goals": "8",
+        "last_name": "Peden",
+        "nationality": "Ireland"
     },
     {
         "appearances": "32",
         "first_name": "Eric",
-        "last_name": "Sweeney"
+        "goals": "7",
+        "last_name": "Sweeney",
+        "nationality": "England"
     },
     {
         "appearances": "32",
         "first_name": "\u00c1ngel",
-        "last_name": "Di Mar\u00eda"
+        "goals": "4",
+        "last_name": "Di Mar\u00eda",
+        "nationality": "Argentina"
     },
     {
         "appearances": "31",
         "first_name": "David",
-        "last_name": "Fitzsimmons"
+        "goals": "0",
+        "last_name": "Fitzsimmons",
+        "nationality": "Scotland"
     },
     {
         "appearances": "31",
         "first_name": "Donny",
-        "last_name": "van de Beek"
+        "goals": "1",
+        "last_name": "van de Beek",
+        "nationality": "Netherlands"
     },
     {
         "appearances": "31",
         "first_name": "Edinson",
-        "last_name": "Cavani"
+        "goals": "10",
+        "last_name": "Cavani",
+        "nationality": "Uruguay"
     },
     {
         "appearances": "30",
         "first_name": "Tommy",
-        "last_name": "Fitzsimmons"
+        "goals": "6",
+        "last_name": "Fitzsimmons",
+        "nationality": "Scotland"
     },
     {
         "appearances": "30",
         "first_name": "Herbert",
-        "last_name": "Birchenough"
+        "goals": "0",
+        "last_name": "Birchenough",
+        "nationality": "England"
     },
     {
         "appearances": "30",
         "first_name": "John",
-        "last_name": "Hodge"
+        "goals": "0",
+        "last_name": "Hodge",
+        "nationality": "Scotland"
     },
     {
         "appearances": "30",
         "first_name": "Cyril",
-        "last_name": "Barlow"
+        "goals": "0",
+        "last_name": "Barlow",
+        "nationality": "England"
     },
     {
         "appearances": "30",
         "first_name": "Ernie",
-        "last_name": "Goldthorpe"
+        "goals": "16",
+        "last_name": "Goldthorpe",
+        "nationality": "England"
     },
     {
         "appearances": "30",
         "first_name": "Chris",
-        "last_name": "Taylor"
+        "goals": "7",
+        "last_name": "Taylor",
+        "nationality": "England"
     },
     {
         "appearances": "30",
         "first_name": "Ernie",
-        "last_name": "Taylor"
+        "goals": "4",
+        "last_name": "Taylor",
+        "nationality": "England"
     },
     {
         "appearances": "30",
         "first_name": "Ralph",
-        "last_name": "Milne"
+        "goals": "3",
+        "last_name": "Milne",
+        "nationality": "Scotland"
     },
     {
         "appearances": "30",
         "first_name": "Darren",
-        "last_name": "Ferguson"
+        "goals": "0",
+        "last_name": "Ferguson",
+        "nationality": "Scotland"
     },
     {
         "appearances": "30",
         "first_name": "Mr.",
-        "last_name": "Kl\u00e9berson"
+        "goals": "2",
+        "last_name": "Kl\u00e9berson",
+        "nationality": "Brazil"
     },
     {
         "appearances": "30",
         "first_name": "Timothy",
-        "last_name": "Fosu-Mensah"
+        "goals": "0",
+        "last_name": "Fosu-Mensah",
+        "nationality": "Netherlands"
     },
     {
         "appearances": "29",
         "first_name": "Arthur",
-        "last_name": "Potts"
+        "goals": "5",
+        "last_name": "Potts",
+        "nationality": "England"
     },
     {
         "appearances": "29",
         "first_name": "Walter",
-        "last_name": "McMillen"
+        "goals": "2",
+        "last_name": "McMillen",
+        "nationality": "Northern Ireland"
     },
     {
         "appearances": "29",
         "first_name": "Anders",
-        "last_name": "Lindegaard"
+        "goals": "0",
+        "last_name": "Lindegaard",
+        "nationality": "Denmark"
     },
     {
         "appearances": "29",
         "first_name": "Radamel",
-        "last_name": "Falcao"
+        "goals": "4",
+        "last_name": "Falcao",
+        "nationality": "Colombia"
     },
     {
         "appearances": "28",
         "first_name": "Herbert",
-        "last_name": "Rothwell"
+        "goals": "0",
+        "last_name": "Rothwell",
+        "nationality": "England"
     },
     {
         "appearances": "28",
         "first_name": "John",
-        "last_name": "Sutcliffe"
+        "goals": "0",
+        "last_name": "Sutcliffe",
+        "nationality": "England"
     },
     {
         "appearances": "28",
         "first_name": "George",
-        "last_name": "Gladwin"
+        "goals": "1",
+        "last_name": "Gladwin",
+        "nationality": "England"
     },
     {
         "appearances": "28",
         "first_name": "Ronnie",
-        "last_name": "Wallwork"
+        "goals": "0",
+        "last_name": "Wallwork",
+        "nationality": "England"
     },
     {
         "appearances": "28",
         "first_name": "Gabriel",
-        "last_name": "Obertan"
+        "goals": "1",
+        "last_name": "Obertan",
+        "nationality": "France"
     },
     {
         "appearances": "28",
         "first_name": "Alexander",
-        "last_name": "B\u00fcttner"
+        "goals": "2",
+        "last_name": "B\u00fcttner",
+        "nationality": "Netherlands"
     },
     {
         "appearances": "27",
         "first_name": "Joe",
-        "last_name": "Fall"
+        "goals": "0",
+        "last_name": "Fall",
+        "nationality": "England"
     },
     {
         "appearances": "27",
         "first_name": "Harry",
-        "last_name": "Lappin"
+        "goals": "4",
+        "last_name": "Lappin",
+        "nationality": "England"
     },
     {
         "appearances": "27",
         "first_name": "James",
-        "last_name": "Montgomery"
+        "goals": "1",
+        "last_name": "Montgomery",
+        "nationality": "England"
     },
     {
         "appearances": "27",
         "first_name": "Tom",
-        "last_name": "Miller"
+        "goals": "8",
+        "last_name": "Miller",
+        "nationality": "Scotland"
     },
     {
         "appearances": "27",
         "first_name": "George",
-        "last_name": "Haslam"
+        "goals": "0",
+        "last_name": "Haslam",
+        "nationality": "England"
     },
     {
         "appearances": "27",
         "first_name": "Willie",
-        "last_name": "McDonald"
+        "goals": "4",
+        "last_name": "McDonald",
+        "nationality": "Scotland"
     },
     {
         "appearances": "27",
         "first_name": "Walter",
-        "last_name": "Winterbottom"
+        "goals": "0",
+        "last_name": "Winterbottom",
+        "nationality": "England"
     },
     {
         "appearances": "27",
         "first_name": "Jimmy",
-        "last_name": "Ryan"
+        "goals": "4",
+        "last_name": "Ryan",
+        "nationality": "Scotland"
     },
     {
         "appearances": "27",
         "first_name": "Terry",
-        "last_name": "Gibson"
+        "goals": "1",
+        "last_name": "Gibson",
+        "nationality": "England"
     },
     {
         "appearances": "27",
         "first_name": "Jonathan",
-        "last_name": "Greening"
+        "goals": "0",
+        "last_name": "Greening",
+        "nationality": "England"
     },
     {
         "appearances": "27",
         "first_name": "Paddy",
-        "last_name": "McNair"
+        "goals": "0",
+        "last_name": "McNair",
+        "nationality": "Northern Ireland"
     },
     {
         "appearances": "26",
         "first_name": "Jackie",
-        "last_name": "Sheldon"
+        "goals": "0",
+        "last_name": "Sheldon",
+        "nationality": "England"
     },
     {
         "appearances": "26",
         "first_name": "Joe",
-        "last_name": "Haywood"
+        "goals": "0",
+        "last_name": "Haywood",
+        "nationality": "England"
     },
     {
         "appearances": "26",
         "first_name": "Billy",
-        "last_name": "Chapman"
+        "goals": "0",
+        "last_name": "Chapman",
+        "nationality": "England"
     },
     {
         "appearances": "26",
         "first_name": "John",
-        "last_name": "Doherty"
+        "goals": "7",
+        "last_name": "Doherty",
+        "nationality": "England"
     },
     {
         "appearances": "26",
         "first_name": "Nikola",
-        "last_name": "Jovanovi\u0107"
+        "goals": "4",
+        "last_name": "Jovanovi\u0107",
+        "nationality": "Yugoslavia"
     },
     {
         "appearances": "25",
         "first_name": "Alex",
-        "last_name": "Menzies"
+        "goals": "4",
+        "last_name": "Menzies",
+        "nationality": "Scotland"
     },
     {
         "appearances": "25",
         "first_name": "Tom",
-        "last_name": "Homer"
+        "goals": "14",
+        "last_name": "Homer",
+        "nationality": "England"
     },
     {
         "appearances": "25",
         "first_name": "Scott",
-        "last_name": "McGarvey"
+        "goals": "3",
+        "last_name": "McGarvey",
+        "nationality": "Scotland"
     },
     {
         "appearances": "25",
         "first_name": "Peter",
-        "last_name": "Barnes"
+        "goals": "5",
+        "last_name": "Barnes",
+        "nationality": "England"
     },
     {
         "appearances": "24",
         "first_name": "John",
-        "last_name": "Scott"
+        "goals": "0",
+        "last_name": "Scott",
+        "nationality": "Scotland"
     },
     {
         "appearances": "24",
         "first_name": "Ted",
-        "last_name": "Buckle"
+        "goals": "7",
+        "last_name": "Buckle",
+        "nationality": "England"
     },
     {
         "appearances": "24",
         "first_name": "Eddie",
-        "last_name": "Lewis"
+        "goals": "11",
+        "last_name": "Lewis",
+        "nationality": "England"
     },
     {
         "appearances": "24",
         "first_name": "Michael",
-        "last_name": "Clegg"
+        "goals": "0",
+        "last_name": "Clegg",
+        "nationality": "England"
     },
     {
         "appearances": "23",
         "first_name": "Hugh",
-        "last_name": "Morgan"
+        "goals": "4",
+        "last_name": "Morgan",
+        "nationality": "Scotland"
     },
     {
         "appearances": "23",
         "first_name": "Tommy",
-        "last_name": "Gipps"
+        "goals": "0",
+        "last_name": "Gipps",
+        "nationality": "England"
     },
     {
         "appearances": "23",
         "first_name": "George",
-        "last_name": "Hunter"
+        "goals": "2",
+        "last_name": "Hunter",
+        "nationality": "England"
     },
     {
         "appearances": "23",
         "first_name": "David",
-        "last_name": "Bain"
+        "goals": "9",
+        "last_name": "Bain",
+        "nationality": "Scotland"
     },
     {
         "appearances": "23",
         "first_name": "Joe",
-        "last_name": "Walton"
+        "goals": "0",
+        "last_name": "Walton",
+        "nationality": "England"
     },
     {
         "appearances": "23",
         "first_name": "John",
-        "last_name": "Ball"
+        "goals": "0",
+        "last_name": "Ball",
+        "nationality": "England"
     },
     {
         "appearances": "23",
         "first_name": "Kenny",
-        "last_name": "Morgans"
+        "goals": "0",
+        "last_name": "Morgans",
+        "nationality": "Wales"
     },
     {
         "appearances": "23",
         "first_name": "Tommy",
-        "last_name": "Jackson"
+        "goals": "0",
+        "last_name": "Jackson",
+        "nationality": "Northern Ireland"
     },
     {
         "appearances": "23",
         "first_name": "Gerard",
-        "last_name": "Piqu\u00e9"
+        "goals": "2",
+        "last_name": "Piqu\u00e9",
+        "nationality": "Spain"
     },
     {
         "appearances": "23",
         "first_name": "Ben",
-        "last_name": "Foster"
+        "goals": "0",
+        "last_name": "Foster",
+        "nationality": "England"
     },
     {
         "appearances": "23",
         "first_name": "Odion",
-        "last_name": "Ighalo"
+        "goals": "5",
+        "last_name": "Ighalo",
+        "nationality": "Nigeria"
     },
     {
         "appearances": "22",
         "first_name": "Jimmy",
-        "last_name": "Warner"
+        "goals": "0",
+        "last_name": "Warner",
+        "nationality": "England"
     },
     {
         "appearances": "22",
         "first_name": "Tommy",
-        "last_name": "Jones"
+        "goals": "4",
+        "last_name": "Jones",
+        "nationality": "Wales"
     },
     {
         "appearances": "22",
         "first_name": "Liam",
-        "last_name": "Miller"
+        "goals": "2",
+        "last_name": "Miller",
+        "nationality": "Ireland"
     },
     {
         "appearances": "22",
         "first_name": "Dean",
-        "last_name": "Henderson"
+        "goals": "0",
+        "last_name": "Henderson",
+        "nationality": "England"
     },
     {
         "appearances": "21",
         "first_name": "Daniel",
-        "last_name": "Hurst"
+        "goals": "4",
+        "last_name": "Hurst",
+        "nationality": "England"
     },
     {
         "appearances": "21",
         "first_name": "George",
-        "last_name": "Travers"
+        "goals": "4",
+        "last_name": "Travers",
+        "nationality": "England"
     },
     {
         "appearances": "21",
         "first_name": "James",
-        "last_name": "Robinson"
+        "goals": "3",
+        "last_name": "Robinson",
+        "nationality": "Ireland"
     },
     {
         "appearances": "21",
         "first_name": "Ernie",
-        "last_name": "Bond"
+        "goals": "4",
+        "last_name": "Bond",
+        "nationality": "England"
     },
     {
         "appearances": "20",
         "first_name": "John",
-        "last_name": "McCartney"
+        "goals": "1",
+        "last_name": "McCartney",
+        "nationality": "Scotland"
     },
     {
         "appearances": "20",
         "first_name": "Frank",
-        "last_name": "Hodges"
+        "goals": "4",
+        "last_name": "Hodges",
+        "nationality": "England"
     },
     {
         "appearances": "20",
         "first_name": "Stan",
-        "last_name": "Crowther"
+        "goals": "0",
+        "last_name": "Crowther",
+        "nationality": "England"
     },
     {
         "appearances": "20",
         "first_name": "Arnie",
-        "last_name": "Sidebottom"
+        "goals": "0",
+        "last_name": "Sidebottom",
+        "nationality": "England"
     },
     {
         "appearances": "20",
         "first_name": "Simon",
-        "last_name": "Davies"
+        "goals": "1",
+        "last_name": "Davies",
+        "nationality": "Wales"
     },
     {
         "appearances": "20",
         "first_name": "James",
-        "last_name": "Wilson"
+        "goals": "4",
+        "last_name": "Wilson",
+        "nationality": "England"
     },
     {
         "appearances": "20",
         "first_name": "Alex",
-        "last_name": "Telles"
+        "goals": "0",
+        "last_name": "Telles",
+        "nationality": "Brazil"
     },
     {
         "appearances": "19",
         "first_name": "Sam",
-        "last_name": "Blott"
+        "goals": "2",
+        "last_name": "Blott",
+        "nationality": "England"
     },
     {
         "appearances": "19",
         "first_name": "Leslie",
-        "last_name": "Hofton"
+        "goals": "0",
+        "last_name": "Hofton",
+        "nationality": "England"
     },
     {
         "appearances": "19",
         "first_name": "Ron",
-        "last_name": "Ferrier"
+        "goals": "4",
+        "last_name": "Ferrier",
+        "nationality": "England"
     },
     {
         "appearances": "19",
         "first_name": "Graham",
-        "last_name": "Moore"
+        "goals": "5",
+        "last_name": "Moore",
+        "nationality": "Wales"
     },
     {
         "appearances": "19",
         "first_name": "Trevor",
-        "last_name": "Anderson"
+        "goals": "2",
+        "last_name": "Anderson",
+        "nationality": "Northern Ireland"
     },
     {
         "appearances": "19",
         "first_name": "John",
-        "last_name": "Curtis"
+        "goals": "0",
+        "last_name": "Curtis",
+        "nationality": "England"
     },
     {
         "appearances": "18",
         "first_name": "Jack",
-        "last_name": "Fitchett"
+        "goals": "1",
+        "last_name": "Fitchett",
+        "nationality": "England"
     },
     {
         "appearances": "18",
         "first_name": "Fred",
-        "last_name": "Kennedy"
+        "goals": "4",
+        "last_name": "Kennedy",
+        "nationality": "England"
     },
     {
         "appearances": "18",
         "first_name": "Albert",
-        "last_name": "Pape"
+        "goals": "5",
+        "last_name": "Pape",
+        "nationality": "England"
     },
     {
         "appearances": "18",
         "first_name": "Dick",
-        "last_name": "Gardner"
+        "goals": "1",
+        "last_name": "Gardner",
+        "nationality": "England"
     },
     {
         "appearances": "18",
         "first_name": "Ted",
-        "last_name": "MacDougall"
+        "goals": "5",
+        "last_name": "MacDougall",
+        "nationality": "Scotland"
     },
     {
         "appearances": "18",
         "first_name": "Phil",
-        "last_name": "Bardsley"
+        "goals": "0",
+        "last_name": "Bardsley",
+        "nationality": "England"
     },
     {
         "appearances": "17",
         "first_name": "Joe",
-        "last_name": "Ridgway"
+        "goals": "0",
+        "last_name": "Ridgway",
+        "nationality": "England"
     },
     {
         "appearances": "17",
         "first_name": "John",
-        "last_name": "Cunningham"
+        "goals": "2",
+        "last_name": "Cunningham",
+        "nationality": "Scotland"
     },
     {
         "appearances": "17",
         "first_name": "William",
-        "last_name": "Smith"
+        "goals": "0",
+        "last_name": "Smith",
+        "nationality": "England"
     },
     {
         "appearances": "17",
         "first_name": "Tommy",
-        "last_name": "Boyle"
+        "goals": "6",
+        "last_name": "Boyle",
+        "nationality": "England"
     },
     {
         "appearances": "17",
         "first_name": "Thomas",
-        "last_name": "Parker"
+        "goals": "0",
+        "last_name": "Parker",
+        "nationality": "England"
     },
     {
         "appearances": "17",
         "first_name": "Bill",
-        "last_name": "Owen"
+        "goals": "1",
+        "last_name": "Owen",
+        "nationality": "England"
     },
     {
         "appearances": "17",
         "first_name": "Wyn",
-        "last_name": "Davies"
+        "goals": "4",
+        "last_name": "Davies",
+        "nationality": "Wales"
     },
     {
         "appearances": "17",
         "first_name": "Dion",
-        "last_name": "Dublin"
+        "goals": "3",
+        "last_name": "Dublin",
+        "nationality": "England"
     },
     {
         "appearances": "17",
         "first_name": "Chris",
-        "last_name": "Eagles"
+        "goals": "1",
+        "last_name": "Eagles",
+        "nationality": "England"
     },
     {
         "appearances": "16",
         "first_name": "Tom",
-        "last_name": "Nuttall"
+        "goals": "4",
+        "last_name": "Nuttall",
+        "nationality": "England"
     },
     {
         "appearances": "16",
         "first_name": "John",
-        "last_name": "Wood"
+        "goals": "1",
+        "last_name": "Wood",
+        "nationality": "Scotland"
     },
     {
         "appearances": "16",
         "first_name": "Charlie",
-        "last_name": "Ramsden"
+        "goals": "3",
+        "last_name": "Ramsden",
+        "nationality": "England"
     },
     {
         "appearances": "16",
         "first_name": "Norman",
-        "last_name": "Tapken"
+        "goals": "0",
+        "last_name": "Tapken",
+        "nationality": "England"
     },
     {
         "appearances": "16",
         "first_name": "Tahith",
-        "last_name": "Chong"
+        "goals": "0",
+        "last_name": "Chong",
+        "nationality": "Netherlands"
     },
     {
         "appearances": "15",
         "first_name": "Bob",
-        "last_name": "Parkinson"
+        "goals": "7",
+        "last_name": "Parkinson",
+        "nationality": "England"
     },
     {
         "appearances": "15",
         "first_name": "Ted",
-        "last_name": "Connor"
+        "goals": "2",
+        "last_name": "Connor",
+        "nationality": "England"
     },
     {
         "appearances": "15",
         "first_name": "Len",
-        "last_name": "Langford"
+        "goals": "0",
+        "last_name": "Langford",
+        "nationality": "England"
     },
     {
         "appearances": "15",
         "first_name": "Roy",
-        "last_name": "John"
+        "goals": "0",
+        "last_name": "John",
+        "nationality": "Wales"
     },
     {
         "appearances": "15",
         "first_name": "Brian",
-        "last_name": "Birch"
+        "goals": "5",
+        "last_name": "Birch",
+        "nationality": "England"
     },
     {
         "appearances": "15",
         "first_name": "Frank",
-        "last_name": "Clempson"
+        "goals": "2",
+        "last_name": "Clempson",
+        "nationality": "England"
     },
     {
         "appearances": "15",
         "first_name": "Sammy",
-        "last_name": "McMillan"
+        "goals": "6",
+        "last_name": "McMillan",
+        "nationality": "Northern Ireland"
     },
     {
         "appearances": "14",
         "first_name": "Bill",
-        "last_name": "Berry"
+        "goals": "1",
+        "last_name": "Berry",
+        "nationality": "England"
     },
     {
         "appearances": "14",
         "first_name": "Joe",
-        "last_name": "Curry"
+        "goals": "0",
+        "last_name": "Curry",
+        "nationality": "England"
     },
     {
         "appearances": "14",
         "first_name": "Billy",
-        "last_name": "Toms"
+        "goals": "4",
+        "last_name": "Toms",
+        "nationality": "Ireland"
     },
     {
         "appearances": "14",
         "first_name": "Bill",
-        "last_name": "Inglis"
+        "goals": "1",
+        "last_name": "Inglis",
+        "nationality": "Scotland"
     },
     {
         "appearances": "14",
         "first_name": "Tommy",
-        "last_name": "Lowrie"
+        "goals": "0",
+        "last_name": "Lowrie",
+        "nationality": "Scotland"
     },
     {
         "appearances": "14",
         "first_name": "Sonny",
-        "last_name": "Feehan"
+        "goals": "0",
+        "last_name": "Feehan",
+        "nationality": "Ireland"
     },
     {
         "appearances": "14",
         "first_name": "Willie",
-        "last_name": "Watson"
+        "goals": "0",
+        "last_name": "Watson",
+        "nationality": "Scotland"
     },
     {
         "appearances": "14",
         "first_name": "Tony",
-        "last_name": "Gill"
+        "goals": "2",
+        "last_name": "Gill",
+        "nationality": "England"
     },
     {
         "appearances": "14",
         "first_name": "Keith",
-        "last_name": "Gillespie"
+        "goals": "2",
+        "last_name": "Gillespie",
+        "nationality": "Northern Ireland"
     },
     {
         "appearances": "14",
         "first_name": "Ben",
-        "last_name": "Thornley"
+        "goals": "0",
+        "last_name": "Thornley",
+        "nationality": "England"
     },
     {
         "appearances": "14",
         "first_name": "Michael",
-        "last_name": "Stewart"
+        "goals": "0",
+        "last_name": "Stewart",
+        "nationality": "Scotland"
     },
     {
         "appearances": "14",
         "first_name": "Giuseppe",
-        "last_name": "Rossi"
+        "goals": "4",
+        "last_name": "Rossi",
+        "nationality": "Italy"
     },
     {
         "appearances": "14",
         "first_name": "Cameron",
-        "last_name": "Borthwick-Jackson"
+        "goals": "0",
+        "last_name": "Borthwick-Jackson",
+        "nationality": "England"
     },
     {
         "appearances": "13",
         "first_name": "Adam",
-        "last_name": "Carson"
+        "goals": "3",
+        "last_name": "Carson",
+        "nationality": "Scotland"
     },
     {
         "appearances": "13",
         "first_name": "James",
-        "last_name": "Saunders"
+        "goals": "0",
+        "last_name": "Saunders",
+        "nationality": "England"
     },
     {
         "appearances": "13",
         "first_name": "William",
-        "last_name": "McCartney"
+        "goals": "1",
+        "last_name": "McCartney",
+        "nationality": "Scotland"
     },
     {
         "appearances": "13",
         "first_name": "Sam",
-        "last_name": "Cookson"
+        "goals": "0",
+        "last_name": "Cookson",
+        "nationality": "Wales"
     },
     {
         "appearances": "13",
         "first_name": "Walter",
-        "last_name": "Spratt"
+        "goals": "0",
+        "last_name": "Spratt",
+        "nationality": "England"
     },
     {
         "appearances": "13",
         "first_name": "James",
-        "last_name": "McCrae"
+        "goals": "0",
+        "last_name": "McCrae",
+        "nationality": "Scotland"
     },
     {
         "appearances": "13",
         "first_name": "Herbert",
-        "last_name": "Mann"
+        "goals": "2",
+        "last_name": "Mann",
+        "nationality": "England"
     },
     {
         "appearances": "13",
         "first_name": "Reg",
-        "last_name": "Chester"
+        "goals": "1",
+        "last_name": "Chester",
+        "nationality": "England"
     },
     {
         "appearances": "13",
         "first_name": "Tommy",
-        "last_name": "Lang"
+        "goals": "1",
+        "last_name": "Lang",
+        "nationality": "Scotland"
     },
     {
         "appearances": "13",
         "first_name": "Sammy",
-        "last_name": "Lynn"
+        "goals": "0",
+        "last_name": "Lynn",
+        "nationality": "England"
     },
     {
         "appearances": "13",
         "first_name": "Cliff",
-        "last_name": "Birkett"
+        "goals": "2",
+        "last_name": "Birkett",
+        "nationality": "England"
     },
     {
         "appearances": "13",
         "first_name": "Willie",
-        "last_name": "Anderson"
+        "goals": "0",
+        "last_name": "Anderson",
+        "nationality": "England"
     },
     {
         "appearances": "13",
         "first_name": "Henrik",
-        "last_name": "Larsson"
+        "goals": "3",
+        "last_name": "Larsson",
+        "nationality": "Sweden"
     },
     {
         "appearances": "12",
         "first_name": "William",
-        "last_name": "Dunn"
+        "goals": "0",
+        "last_name": "Dunn",
+        "nationality": "England"
     },
     {
         "appearances": "12",
         "first_name": "Arthur",
-        "last_name": "Beadsworth"
+        "goals": "2",
+        "last_name": "Beadsworth",
+        "nationality": "England"
     },
     {
         "appearances": "12",
         "first_name": "Arthur",
-        "last_name": "Allman"
+        "goals": "0",
+        "last_name": "Allman",
+        "nationality": "England"
     },
     {
         "appearances": "12",
         "first_name": "Richard",
-        "last_name": "Gibson"
+        "goals": "0",
+        "last_name": "Gibson",
+        "nationality": "England"
     },
     {
         "appearances": "12",
         "first_name": "Louis",
-        "last_name": "Page"
+        "goals": "0",
+        "last_name": "Page",
+        "nationality": "England"
     },
     {
         "appearances": "12",
         "first_name": "Henry",
-        "last_name": "Topping"
+        "goals": "1",
+        "last_name": "Topping",
+        "nationality": "England"
     },
     {
         "appearances": "12",
         "first_name": "Arthur",
-        "last_name": "Fitton"
+        "goals": "2",
+        "last_name": "Fitton",
+        "nationality": "England"
     },
     {
         "appearances": "12",
         "first_name": "Geoff",
-        "last_name": "Bent"
+        "goals": "0",
+        "last_name": "Bent",
+        "nationality": "England"
     },
     {
         "appearances": "12",
         "first_name": "Frank",
-        "last_name": "Kopel"
+        "goals": "0",
+        "last_name": "Kopel",
+        "nationality": "Scotland"
     },
     {
         "appearances": "12",
         "first_name": "Tom",
-        "last_name": "Sloan"
+        "goals": "0",
+        "last_name": "Sloan",
+        "nationality": "Northern Ireland"
     },
     {
         "appearances": "12",
         "first_name": "Tyler",
-        "last_name": "Blackett"
+        "goals": "0",
+        "last_name": "Blackett",
+        "nationality": "England"
     },
     {
         "appearances": "11",
         "first_name": "Samuel",
-        "last_name": "Parker"
+        "goals": "0",
+        "last_name": "Parker",
+        "nationality": "Scotland"
     },
     {
         "appearances": "11",
         "first_name": "James",
-        "last_name": "Vance"
+        "goals": "1",
+        "last_name": "Vance",
+        "nationality": "England"
     },
     {
         "appearances": "11",
         "first_name": "Edwin",
-        "last_name": "Lee"
+        "goals": "5",
+        "last_name": "Lee",
+        "nationality": "England"
     },
     {
         "appearances": "11",
         "first_name": "John",
-        "last_name": "Grundy"
+        "goals": "3",
+        "last_name": "Grundy",
+        "nationality": "England"
     },
     {
         "appearances": "11",
         "first_name": "Charlie",
-        "last_name": "Richards"
+        "goals": "2",
+        "last_name": "Richards",
+        "nationality": "England"
     },
     {
         "appearances": "11",
         "first_name": "Edward",
-        "last_name": "Hudson"
+        "goals": "0",
+        "last_name": "Hudson",
+        "nationality": "England"
     },
     {
         "appearances": "11",
         "first_name": "David",
-        "last_name": "Ellis"
+        "goals": "0",
+        "last_name": "Ellis",
+        "nationality": "Scotland"
     },
     {
         "appearances": "11",
         "first_name": "Charles",
-        "last_name": "Hannaford"
+        "goals": "0",
+        "last_name": "Hannaford",
+        "nationality": "England"
     },
     {
         "appearances": "11",
         "first_name": "Charlie",
-        "last_name": "Craven"
+        "goals": "2",
+        "last_name": "Craven",
+        "nationality": "England"
     },
     {
         "appearances": "11",
         "first_name": "Bobby",
-        "last_name": "Harrop"
+        "goals": "0",
+        "last_name": "Harrop",
+        "nationality": "England"
     },
     {
         "appearances": "11",
         "first_name": "Peter",
-        "last_name": "Jones"
+        "goals": "0",
+        "last_name": "Jones",
+        "nationality": "England"
     },
     {
         "appearances": "11",
         "first_name": "Ronnie",
-        "last_name": "Briggs"
+        "goals": "0",
+        "last_name": "Briggs",
+        "nationality": "Northern Ireland"
     },
     {
         "appearances": "11",
         "first_name": "Guillermo",
-        "last_name": "Varela"
+        "goals": "0",
+        "last_name": "Varela",
+        "nationality": "Uruguay"
     },
     {
         "appearances": "10",
         "first_name": "James",
-        "last_name": "Colville"
+        "goals": "1",
+        "last_name": "Colville",
+        "nationality": "unknown"
     },
     {
         "appearances": "10",
         "first_name": "John",
-        "last_name": "Davies"
+        "goals": "0",
+        "last_name": "Davies",
+        "nationality": "England"
     },
     {
         "appearances": "10",
         "first_name": "William",
-        "last_name": "Mathieson"
+        "goals": "2",
+        "last_name": "Mathieson",
+        "nationality": "Scotland"
     },
     {
         "appearances": "10",
         "first_name": "Bogie",
-        "last_name": "Roberts"
+        "goals": "2",
+        "last_name": "Roberts",
+        "nationality": "unknown"
     },
     {
         "appearances": "10",
         "first_name": "Alfred",
-        "last_name": "Ambler"
+        "goals": "1",
+        "last_name": "Ambler",
+        "nationality": "England"
     },
     {
         "appearances": "10",
         "first_name": "Alexander",
-        "last_name": "Higgins"
+        "goals": "0",
+        "last_name": "Higgins",
+        "nationality": "England"
     },
     {
         "appearances": "10",
         "first_name": "Lawrence",
-        "last_name": "Smith"
+        "goals": "1",
+        "last_name": "Smith",
+        "nationality": "England"
     },
     {
         "appearances": "10",
         "first_name": "Fred",
-        "last_name": "Williams"
+        "goals": "4",
+        "last_name": "Williams",
+        "nationality": "England"
     },
     {
         "appearances": "10",
         "first_name": "Bob",
-        "last_name": "Valentine"
+        "goals": "0",
+        "last_name": "Valentine",
+        "nationality": "England"
     },
     {
         "appearances": "10",
         "first_name": "Harry",
-        "last_name": "Leonard"
+        "goals": "5",
+        "last_name": "Leonard",
+        "nationality": "England"
     },
     {
         "appearances": "10",
         "first_name": "Frank",
-        "last_name": "Brett"
+        "goals": "0",
+        "last_name": "Brett",
+        "nationality": "England"
     },
     {
         "appearances": "10",
         "first_name": "Jimmy",
-        "last_name": "Bullock"
+        "goals": "3",
+        "last_name": "Bullock",
+        "nationality": "England"
     },
     {
         "appearances": "10",
         "first_name": "Matt",
-        "last_name": "Robinson"
+        "goals": "0",
+        "last_name": "Robinson",
+        "nationality": "England"
     },
     {
         "appearances": "10",
         "first_name": "Ron",
-        "last_name": "Davies"
+        "goals": "0",
+        "last_name": "Davies",
+        "nationality": "Wales"
     },
     {
         "appearances": "10",
         "first_name": "Steve",
-        "last_name": "Paterson"
+        "goals": "0",
+        "last_name": "Paterson",
+        "nationality": "Scotland"
     },
     {
         "appearances": "10",
         "first_name": "Alan",
-        "last_name": "Davies"
+        "goals": "1",
+        "last_name": "Davies",
+        "nationality": "Wales"
     },
     {
         "appearances": "10",
         "first_name": "Mark",
-        "last_name": "Wilson"
+        "goals": "0",
+        "last_name": "Wilson",
+        "nationality": "England"
     },
     {
         "appearances": "10",
         "first_name": "Angel",
-        "last_name": "Gomes"
+        "goals": "0",
+        "last_name": "Gomes",
+        "nationality": "England"
     },
     {
         "appearances": "9",
         "first_name": "Harry",
-        "last_name": "Erentz"
+        "goals": "0",
+        "last_name": "Erentz",
+        "nationality": "Scotland"
     },
     {
         "appearances": "9",
         "first_name": "Joe",
-        "last_name": "Clark"
+        "goals": "0",
+        "last_name": "Clark",
+        "nationality": "Scotland"
     },
     {
         "appearances": "9",
         "first_name": "Gilbert",
-        "last_name": "Godsmark"
+        "goals": "4",
+        "last_name": "Godsmark",
+        "nationality": "England"
     },
     {
         "appearances": "9",
         "first_name": "Billy",
-        "last_name": "Richards"
+        "goals": "1",
+        "last_name": "Richards",
+        "nationality": "England"
     },
     {
         "appearances": "9",
         "first_name": "Harry",
-        "last_name": "Wilkinson"
+        "goals": "0",
+        "last_name": "Wilkinson",
+        "nationality": "England"
     },
     {
         "appearances": "9",
         "first_name": "Herbert",
-        "last_name": "Broomfield"
+        "goals": "0",
+        "last_name": "Broomfield",
+        "nationality": "England"
     },
     {
         "appearances": "9",
         "first_name": "Ken",
-        "last_name": "MacDonald"
+        "goals": "2",
+        "last_name": "MacDonald",
+        "nationality": "Scotland"
     },
     {
         "appearances": "9",
         "first_name": "Arthur",
-        "last_name": "Chesters"
+        "goals": "0",
+        "last_name": "Chesters",
+        "nationality": "England"
     },
     {
         "appearances": "9",
         "first_name": "Eddie",
-        "last_name": "Green"
+        "goals": "4",
+        "last_name": "Green",
+        "nationality": "England"
     },
     {
         "appearances": "9",
         "first_name": "Charlie",
-        "last_name": "McGillivray"
+        "goals": "0",
+        "last_name": "McGillivray",
+        "nationality": "Scotland"
     },
     {
         "appearances": "9",
         "first_name": "Don",
-        "last_name": "Givens"
+        "goals": "1",
+        "last_name": "Givens",
+        "nationality": "Ireland"
     },
     {
         "appearances": "9",
         "first_name": "Nick",
-        "last_name": "Powell"
+        "goals": "1",
+        "last_name": "Powell",
+        "nationality": "England"
     },
     {
         "appearances": "8",
         "first_name": "Roger",
-        "last_name": "Doughty"
+        "goals": "1",
+        "last_name": "Doughty",
+        "nationality": "Wales"
     },
     {
         "appearances": "8",
         "first_name": "Frank",
-        "last_name": "Pepper"
+        "goals": "0",
+        "last_name": "Pepper",
+        "nationality": "England"
     },
     {
         "appearances": "8",
         "first_name": "Joe",
-        "last_name": "Heathcote"
+        "goals": "0",
+        "last_name": "Heathcote",
+        "nationality": "England"
     },
     {
         "appearances": "8",
         "first_name": "Ralph",
-        "last_name": "Gaudie"
+        "goals": "0",
+        "last_name": "Gaudie",
+        "nationality": "England"
     },
     {
         "appearances": "8",
         "first_name": "Proctor",
-        "last_name": "Hall"
+        "goals": "2",
+        "last_name": "Hall",
+        "nationality": "England"
     },
     {
         "appearances": "8",
         "first_name": "John",
-        "last_name": "Ferguson"
+        "goals": "1",
+        "last_name": "Ferguson",
+        "nationality": "England"
     },
     {
         "appearances": "8",
         "first_name": "Dick",
-        "last_name": "Black"
+        "goals": "3",
+        "last_name": "Black",
+        "nationality": "Scotland"
     },
     {
         "appearances": "8",
         "first_name": "Charlie",
-        "last_name": "Hillam"
+        "goals": "0",
+        "last_name": "Hillam",
+        "nationality": "England"
     },
     {
         "appearances": "8",
         "first_name": "Jeff",
-        "last_name": "Wealands"
+        "goals": "0",
+        "last_name": "Wealands",
+        "nationality": "England"
     },
     {
         "appearances": "8",
         "first_name": "Mark",
-        "last_name": "Higgins"
+        "goals": "0",
+        "last_name": "Higgins",
+        "nationality": "England"
     },
     {
         "appearances": "8",
         "first_name": "Giuliano",
-        "last_name": "Maiorana"
+        "goals": "0",
+        "last_name": "Maiorana",
+        "nationality": "England"
     },
     {
         "appearances": "8",
         "first_name": "Kevin",
-        "last_name": "Pilkington"
+        "goals": "0",
+        "last_name": "Pilkington",
+        "nationality": "England"
     },
     {
         "appearances": "8",
         "first_name": "Terry",
-        "last_name": "Cooke"
+        "goals": "1",
+        "last_name": "Cooke",
+        "nationality": "England"
     },
     {
         "appearances": "8",
         "first_name": "Jonathan",
-        "last_name": "Spector"
+        "goals": "0",
+        "last_name": "Spector",
+        "nationality": "United States"
     },
     {
         "appearances": "8",
         "first_name": "Danny",
-        "last_name": "Simpson"
+        "goals": "0",
+        "last_name": "Simpson",
+        "nationality": "England"
     },
     {
         "appearances": "8",
         "first_name": "Rodrigo",
-        "last_name": "Possebon"
+        "goals": "0",
+        "last_name": "Possebon",
+        "nationality": "Italy"
     },
     {
         "appearances": "8",
         "first_name": "Mame",
-        "last_name": "Biram Diouf"
+        "goals": "1",
+        "last_name": "Biram Diouf",
+        "nationality": "Senegal"
     },
     {
         "appearances": "7",
         "first_name": "James",
-        "last_name": "Brown"
+        "goals": "0",
+        "last_name": "Brown",
+        "nationality": "Scotland"
     },
     {
         "appearances": "7",
         "first_name": "Herbert",
-        "last_name": "Stone"
+        "goals": "0",
+        "last_name": "Stone",
+        "nationality": "England"
     },
     {
         "appearances": "7",
         "first_name": "George",
-        "last_name": "Millar"
+        "goals": "5",
+        "last_name": "Millar",
+        "nationality": "Scotland"
     },
     {
         "appearances": "7",
         "first_name": "Rimmer",
-        "last_name": "Brown"
+        "goals": "2",
+        "last_name": "Brown",
+        "nationality": "unknown"
     },
     {
         "appearances": "7",
         "first_name": "G",
-        "last_name": "Foley"
+        "goals": "1",
+        "last_name": "Foley",
+        "nationality": "England"
     },
     {
         "appearances": "7",
         "first_name": "Charles",
-        "last_name": "Mackie"
+        "goals": "4",
+        "last_name": "Mackie",
+        "nationality": "Scotland"
     },
     {
         "appearances": "7",
         "first_name": "Arthur",
-        "last_name": "Hooper"
+        "goals": "1",
+        "last_name": "Hooper",
+        "nationality": "England"
     },
     {
         "appearances": "7",
         "first_name": "Ezra",
-        "last_name": "Royals"
+        "goals": "0",
+        "last_name": "Royals",
+        "nationality": "England"
     },
     {
         "appearances": "7",
         "first_name": "Billy",
-        "last_name": "Goodwin"
+        "goals": "1",
+        "last_name": "Goodwin",
+        "nationality": "England"
     },
     {
         "appearances": "7",
         "first_name": "George",
-        "last_name": "Nicol"
+        "goals": "2",
+        "last_name": "Nicol",
+        "nationality": "Scotland"
     },
     {
         "appearances": "7",
         "first_name": "Cliff",
-        "last_name": "Collinson"
+        "goals": "0",
+        "last_name": "Collinson",
+        "nationality": "England"
     },
     {
         "appearances": "7",
         "first_name": "Bill",
-        "last_name": "Fielding"
+        "goals": "0",
+        "last_name": "Fielding",
+        "nationality": "England"
     },
     {
         "appearances": "7",
         "first_name": "Peter",
-        "last_name": "Fletcher"
+        "goals": "0",
+        "last_name": "Fletcher",
+        "nationality": "England"
     },
     {
         "appearances": "7",
         "first_name": "Clive",
-        "last_name": "Griffiths"
+        "goals": "0",
+        "last_name": "Griffiths",
+        "nationality": "Wales"
     },
     {
         "appearances": "7",
         "first_name": "Garth",
-        "last_name": "Crooks"
+        "goals": "2",
+        "last_name": "Crooks",
+        "nationality": "England"
     },
     {
         "appearances": "7",
         "first_name": "Chris",
-        "last_name": "Casper"
+        "goals": "0",
+        "last_name": "Casper",
+        "nationality": "England"
     },
     {
         "appearances": "7",
         "first_name": "John",
-        "last_name": "O'Kane"
+        "goals": "0",
+        "last_name": "O'Kane",
+        "nationality": "England"
     },
     {
         "appearances": "7",
         "first_name": "Danny",
-        "last_name": "Higginbotham"
+        "goals": "0",
+        "last_name": "Higginbotham",
+        "nationality": "Gibraltar"
     },
     {
         "appearances": "7",
         "first_name": "Danny",
-        "last_name": "Pugh"
+        "goals": "0",
+        "last_name": "Pugh",
+        "nationality": "England"
     },
     {
         "appearances": "7",
         "first_name": "Ben",
-        "last_name": "Amos"
+        "goals": "0",
+        "last_name": "Amos",
+        "nationality": "England"
     },
     {
         "appearances": "7",
         "first_name": "Mr.",
-        "last_name": "Beb\u00e9"
+        "goals": "2",
+        "last_name": "Beb\u00e9",
+        "nationality": "Portugal"
     },
     {
         "appearances": "7",
         "first_name": "James",
-        "last_name": "Garner"
+        "goals": "0",
+        "last_name": "Garner",
+        "nationality": "England"
     },
     {
         "appearances": "6",
         "first_name": "Jack",
-        "last_name": "Owen"
+        "goals": "0",
+        "last_name": "Owen",
+        "nationality": "Wales"
     },
     {
         "appearances": "6",
         "first_name": "Arthur",
-        "last_name": "Henrys"
+        "goals": "0",
+        "last_name": "Henrys",
+        "nationality": "Scotland"
     },
     {
         "appearances": "6",
         "first_name": "Thomas",
-        "last_name": "Sawyer"
+        "goals": "0",
+        "last_name": "Sawyer",
+        "nationality": "unknown"
     },
     {
         "appearances": "6",
         "first_name": "James",
-        "last_name": "Garvey"
+        "goals": "0",
+        "last_name": "Garvey",
+        "nationality": "England"
     },
     {
         "appearances": "6",
         "first_name": "Arthur",
-        "last_name": "Marshall"
+        "goals": "0",
+        "last_name": "Marshall",
+        "nationality": "England"
     },
     {
         "appearances": "6",
         "first_name": "James",
-        "last_name": "Thomson"
+        "goals": "1",
+        "last_name": "Thomson",
+        "nationality": "Scotland"
     },
     {
         "appearances": "6",
         "first_name": "Sidney",
-        "last_name": "Evans"
+        "goals": "2",
+        "last_name": "Evans",
+        "nationality": "England"
     },
     {
         "appearances": "6",
         "first_name": "Billy",
-        "last_name": "Boyd"
+        "goals": "4",
+        "last_name": "Boyd",
+        "nationality": "Scotland"
     },
     {
         "appearances": "6",
         "first_name": "Harry",
-        "last_name": "Worrall"
+        "goals": "0",
+        "last_name": "Worrall",
+        "nationality": "England"
     },
     {
         "appearances": "6",
         "first_name": "Frank",
-        "last_name": "Haydock"
+        "goals": "0",
+        "last_name": "Haydock",
+        "nationality": "England"
     },
     {
         "appearances": "6",
         "first_name": "Ian",
-        "last_name": "Donald"
+        "goals": "0",
+        "last_name": "Donald",
+        "nationality": "Scotland"
     },
     {
         "appearances": "6",
         "first_name": "David",
-        "last_name": "Wilson"
+        "goals": "0",
+        "last_name": "Wilson",
+        "nationality": "England"
     },
     {
         "appearances": "6",
         "first_name": "Ritchie",
-        "last_name": "De Laet"
+        "goals": "0",
+        "last_name": "De Laet",
+        "nationality": "Belgium"
     },
     {
         "appearances": "6",
         "first_name": "Zeki",
-        "last_name": "Fryers"
+        "goals": "0",
+        "last_name": "Fryers",
+        "nationality": "England"
     },
     {
         "appearances": "5",
         "first_name": "William",
-        "last_name": "Campbell"
+        "goals": "1",
+        "last_name": "Campbell",
+        "nationality": "Scotland"
     },
     {
         "appearances": "5",
         "first_name": "James",
-        "last_name": "Higson"
+        "goals": "1",
+        "last_name": "Higson",
+        "nationality": "England"
     },
     {
         "appearances": "5",
         "first_name": "George",
-        "last_name": "Lyons"
+        "goals": "0",
+        "last_name": "Lyons",
+        "nationality": "Scotland"
     },
     {
         "appearances": "5",
         "first_name": "Joe",
-        "last_name": "Ford"
+        "goals": "0",
+        "last_name": "Ford",
+        "nationality": "England"
     },
     {
         "appearances": "5",
         "first_name": "Harry",
-        "last_name": "Williams"
+        "goals": "2",
+        "last_name": "Williams",
+        "nationality": "England"
     },
     {
         "appearances": "5",
         "first_name": "Albert",
-        "last_name": "Smith"
+        "goals": "1",
+        "last_name": "Smith",
+        "nationality": "Scotland"
     },
     {
         "appearances": "5",
         "first_name": "Arthur",
-        "last_name": "Thomson"
+        "goals": "1",
+        "last_name": "Thomson",
+        "nationality": "England"
     },
     {
         "appearances": "5",
         "first_name": "Jimmy",
-        "last_name": "McClelland"
+        "goals": "1",
+        "last_name": "McClelland",
+        "nationality": "Scotland"
     },
     {
         "appearances": "5",
         "first_name": "Ted",
-        "last_name": "Savage"
+        "goals": "0",
+        "last_name": "Savage",
+        "nationality": "England"
     },
     {
         "appearances": "5",
         "first_name": "Laurie",
-        "last_name": "Cunningham"
+        "goals": "2",
+        "last_name": "Cunningham",
+        "nationality": "England"
     },
     {
         "appearances": "5",
         "first_name": "Stephen",
-        "last_name": "Pears"
+        "goals": "0",
+        "last_name": "Pears",
+        "nationality": "England"
     },
     {
         "appearances": "5",
         "first_name": "Erik",
-        "last_name": "Nevland"
+        "goals": "1",
+        "last_name": "Nevland",
+        "nationality": "Norway"
     },
     {
         "appearances": "5",
         "first_name": "Mr.",
-        "last_name": "Ricardo"
+        "goals": "0",
+        "last_name": "Ricardo",
+        "nationality": "Spain"
     },
     {
         "appearances": "5",
         "first_name": "Ritchie",
-        "last_name": "Jones"
+        "goals": "0",
+        "last_name": "Jones",
+        "nationality": "England"
     },
     {
         "appearances": "5",
         "first_name": "Zoran",
-        "last_name": "To\u0161i\u0107"
+        "goals": "0",
+        "last_name": "To\u0161i\u0107",
+        "nationality": "Serbia"
     },
     {
         "appearances": "5",
         "first_name": "Michael",
-        "last_name": "Keane"
+        "goals": "0",
+        "last_name": "Keane",
+        "nationality": "England"
     },
     {
         "appearances": "5",
         "first_name": "Amad",
-        "last_name": "Diallo"
+        "goals": "1",
+        "last_name": "Diallo",
+        "nationality": "Ivory Coast"
     },
     {
         "appearances": "4",
         "first_name": "Jack",
-        "last_name": "Powell"
+        "goals": "0",
+        "last_name": "Powell",
+        "nationality": "Wales"
     },
     {
         "appearances": "4",
         "first_name": "J",
-        "last_name": "Slater"
+        "goals": "0",
+        "last_name": "Slater",
+        "nationality": "unknown"
     },
     {
         "appearances": "4",
         "first_name": "John",
-        "last_name": "Graham"
+        "goals": "0",
+        "last_name": "Graham",
+        "nationality": "England"
     },
     {
         "appearances": "4",
         "first_name": "James",
-        "last_name": "Connachan"
+        "goals": "1",
+        "last_name": "Connachan",
+        "nationality": "Scotland"
     },
     {
         "appearances": "4",
         "first_name": "Bill",
-        "last_name": "Williams"
+        "goals": "0",
+        "last_name": "Williams",
+        "nationality": "England"
     },
     {
         "appearances": "4",
         "first_name": "Billy",
-        "last_name": "Ball"
+        "goals": "0",
+        "last_name": "Ball",
+        "nationality": "England"
     },
     {
         "appearances": "4",
         "first_name": "William",
-        "last_name": "Hartwell"
+        "goals": "0",
+        "last_name": "Hartwell",
+        "nationality": "England"
     },
     {
         "appearances": "4",
         "first_name": "Ernest",
-        "last_name": "Thomson"
+        "goals": "0",
+        "last_name": "Thomson",
+        "nationality": "England"
     },
     {
         "appearances": "4",
         "first_name": "Aaron",
-        "last_name": "Hulme"
+        "goals": "0",
+        "last_name": "Hulme",
+        "nationality": "England"
     },
     {
         "appearances": "4",
         "first_name": "John",
-        "last_name": "McGillivray"
+        "goals": "0",
+        "last_name": "McGillivray",
+        "nationality": "England"
     },
     {
         "appearances": "4",
         "first_name": "Harold",
-        "last_name": "Hardman"
+        "goals": "0",
+        "last_name": "Hardman",
+        "nationality": "England"
     },
     {
         "appearances": "4",
         "first_name": "Tom",
-        "last_name": "Chorlton"
+        "goals": "0",
+        "last_name": "Chorlton",
+        "nationality": "England"
     },
     {
         "appearances": "4",
         "first_name": "John",
-        "last_name": "Howarth"
+        "goals": "0",
+        "last_name": "Howarth",
+        "nationality": "England"
     },
     {
         "appearances": "4",
         "first_name": "Jack",
-        "last_name": "Barber"
+        "goals": "2",
+        "last_name": "Barber",
+        "nationality": "England"
     },
     {
         "appearances": "4",
         "first_name": "James",
-        "last_name": "Miller"
+        "goals": "1",
+        "last_name": "Miller",
+        "nationality": "Scotland"
     },
     {
         "appearances": "4",
         "first_name": "Jimmy",
-        "last_name": "Bain"
+        "goals": "0",
+        "last_name": "Bain",
+        "nationality": "Scotland"
     },
     {
         "appearances": "4",
         "first_name": "Tom",
-        "last_name": "Harris"
+        "goals": "1",
+        "last_name": "Harris",
+        "nationality": "England"
     },
     {
         "appearances": "4",
         "first_name": "Danny",
-        "last_name": "Ferguson"
+        "goals": "0",
+        "last_name": "Ferguson",
+        "nationality": "England"
     },
     {
         "appearances": "4",
         "first_name": "David",
-        "last_name": "Byrne"
+        "goals": "3",
+        "last_name": "Byrne",
+        "nationality": "Ireland"
     },
     {
         "appearances": "4",
         "first_name": "Herbert",
-        "last_name": "Heywood"
+        "goals": "2",
+        "last_name": "Heywood",
+        "nationality": "England"
     },
     {
         "appearances": "4",
         "first_name": "George",
-        "last_name": "Nevin"
+        "goals": "0",
+        "last_name": "Nevin",
+        "nationality": "England"
     },
     {
         "appearances": "4",
         "first_name": "Reg",
-        "last_name": "Halton"
+        "goals": "1",
+        "last_name": "Halton",
+        "nationality": "England"
     },
     {
         "appearances": "4",
         "first_name": "Robert",
-        "last_name": "Murray"
+        "goals": "0",
+        "last_name": "Murray",
+        "nationality": "Scotland"
     },
     {
         "appearances": "4",
         "first_name": "Tommy",
-        "last_name": "Dougan"
+        "goals": "0",
+        "last_name": "Dougan",
+        "nationality": "Scotland"
     },
     {
         "appearances": "4",
         "first_name": "Berry",
-        "last_name": "Brown"
+        "goals": "0",
+        "last_name": "Brown",
+        "nationality": "England"
     },
     {
         "appearances": "4",
         "first_name": "Laurie",
-        "last_name": "Cassidy"
+        "goals": "0",
+        "last_name": "Cassidy",
+        "nationality": "England"
     },
     {
         "appearances": "4",
         "first_name": "Joe",
-        "last_name": "Lancaster"
+        "goals": "0",
+        "last_name": "Lancaster",
+        "nationality": "England"
     },
     {
         "appearances": "4",
         "first_name": "Mike",
-        "last_name": "Pinner"
+        "goals": "0",
+        "last_name": "Pinner",
+        "nationality": "England"
     },
     {
         "appearances": "4",
         "first_name": "Paul",
-        "last_name": "Bielby"
+        "goals": "0",
+        "last_name": "Bielby",
+        "nationality": "England"
     },
     {
         "appearances": "4",
         "first_name": "George",
-        "last_name": "Buchan"
+        "goals": "0",
+        "last_name": "Buchan",
+        "nationality": "Scotland"
     },
     {
         "appearances": "4",
         "first_name": "Colin",
-        "last_name": "Waldron"
+        "goals": "0",
+        "last_name": "Waldron",
+        "nationality": "England"
     },
     {
         "appearances": "4",
         "first_name": "Nicky",
-        "last_name": "Wood"
+        "goals": "0",
+        "last_name": "Wood",
+        "nationality": "England"
     },
     {
         "appearances": "4",
         "first_name": "Phil",
-        "last_name": "Mulryne"
+        "goals": "0",
+        "last_name": "Mulryne",
+        "nationality": "Northern Ireland"
     },
     {
         "appearances": "4",
         "first_name": "Massimo",
-        "last_name": "Taibi"
+        "goals": "0",
+        "last_name": "Taibi",
+        "nationality": "Italy"
     },
     {
         "appearances": "4",
         "first_name": "Daniel",
-        "last_name": "Nardiello"
+        "goals": "0",
+        "last_name": "Nardiello",
+        "nationality": "Wales"
     },
     {
         "appearances": "4",
         "first_name": "David",
-        "last_name": "Jones"
+        "goals": "0",
+        "last_name": "Jones",
+        "nationality": "England"
     },
     {
         "appearances": "4",
         "first_name": "Fraizer",
-        "last_name": "Campbell"
+        "goals": "0",
+        "last_name": "Campbell",
+        "nationality": "England"
     },
     {
         "appearances": "4",
         "first_name": "Richard",
-        "last_name": "Eckersley"
+        "goals": "0",
+        "last_name": "Eckersley",
+        "nationality": "England"
     },
     {
         "appearances": "4",
         "first_name": "Scott",
-        "last_name": "Wootton"
+        "goals": "0",
+        "last_name": "Wootton",
+        "nationality": "England"
     },
     {
         "appearances": "4",
         "first_name": "Wilfried",
-        "last_name": "Zaha"
+        "goals": "0",
+        "last_name": "Zaha",
+        "nationality": "England\n Ivory Coast2"
     },
     {
         "appearances": "3",
         "first_name": "Jack",
-        "last_name": "Doughty"
+        "goals": "3",
+        "last_name": "Doughty",
+        "nationality": "Wales"
     },
     {
         "appearances": "3",
         "first_name": "John",
-        "last_name": "Mitchell"
+        "goals": "0",
+        "last_name": "Mitchell",
+        "nationality": "unknown"
     },
     {
         "appearances": "3",
         "first_name": "Alf",
-        "last_name": "Edge"
+        "goals": "3",
+        "last_name": "Edge",
+        "nationality": "England"
     },
     {
         "appearances": "3",
         "first_name": "Bob",
-        "last_name": "McFarlane"
+        "goals": "0",
+        "last_name": "McFarlane",
+        "nationality": "Scotland"
     },
     {
         "appearances": "3",
         "first_name": "John",
-        "last_name": "Sneddon"
+        "goals": "1",
+        "last_name": "Sneddon",
+        "nationality": "Scotland"
     },
     {
         "appearances": "3",
         "first_name": "William",
-        "last_name": "Thompson"
+        "goals": "0",
+        "last_name": "Thompson",
+        "nationality": "Scotland"
     },
     {
         "appearances": "3",
         "first_name": "Charles",
-        "last_name": "Rothwell"
+        "goals": "3",
+        "last_name": "Rothwell",
+        "nationality": "England"
     },
     {
         "appearances": "3",
         "first_name": "Walter",
-        "last_name": "Whittaker"
+        "goals": "0",
+        "last_name": "Whittaker",
+        "nationality": "England"
     },
     {
         "appearances": "3",
         "first_name": "John",
-        "last_name": "Whitney"
+        "goals": "0",
+        "last_name": "Whitney",
+        "nationality": "England"
     },
     {
         "appearances": "3",
         "first_name": "James",
-        "last_name": "Carman"
+        "goals": "1",
+        "last_name": "Carman",
+        "nationality": "England"
     },
     {
         "appearances": "3",
         "first_name": "William",
-        "last_name": "Brooks"
+        "goals": "3",
+        "last_name": "Brooks",
+        "nationality": "England"
     },
     {
         "appearances": "3",
         "first_name": "John",
-        "last_name": "Turner"
+        "goals": "0",
+        "last_name": "Turner",
+        "nationality": "England"
     },
     {
         "appearances": "3",
         "first_name": "Wilson",
-        "last_name": "Greenwood"
+        "goals": "0",
+        "last_name": "Greenwood",
+        "nationality": "England"
     },
     {
         "appearances": "3",
         "first_name": "Reg",
-        "last_name": "Lawson"
+        "goals": "0",
+        "last_name": "Lawson",
+        "nationality": "England"
     },
     {
         "appearances": "3",
         "first_name": "Ernest",
-        "last_name": "Street"
+        "goals": "0",
+        "last_name": "Street",
+        "nationality": "England"
     },
     {
         "appearances": "3",
         "first_name": "Tom",
-        "last_name": "Robertson"
+        "goals": "0",
+        "last_name": "Robertson",
+        "nationality": "Scotland"
     },
     {
         "appearances": "3",
         "first_name": "Bernard",
-        "last_name": "Donaghey"
+        "goals": "0",
+        "last_name": "Donaghey",
+        "nationality": "Ireland"
     },
     {
         "appearances": "3",
         "first_name": "Archie",
-        "last_name": "Montgomery"
+        "goals": "0",
+        "last_name": "Montgomery",
+        "nationality": "Scotland"
     },
     {
         "appearances": "3",
         "first_name": "Frank",
-        "last_name": "Buckley"
+        "goals": "0",
+        "last_name": "Buckley",
+        "nationality": "England"
     },
     {
         "appearances": "3",
         "first_name": "William",
-        "last_name": "Yates"
+        "goals": "0",
+        "last_name": "Yates",
+        "nationality": "England"
     },
     {
         "appearances": "3",
         "first_name": "Joe",
-        "last_name": "Williams"
+        "goals": "1",
+        "last_name": "Williams",
+        "nationality": "England"
     },
     {
         "appearances": "3",
         "first_name": "William",
-        "last_name": "Hunter"
+        "goals": "2",
+        "last_name": "Hunter",
+        "nationality": "England"
     },
     {
         "appearances": "3",
         "first_name": "Arthur",
-        "last_name": "Cashmore"
+        "goals": "0",
+        "last_name": "Cashmore",
+        "nationality": "England"
     },
     {
         "appearances": "3",
         "first_name": "Bert",
-        "last_name": "Cartman"
+        "goals": "0",
+        "last_name": "Cartman",
+        "nationality": "England"
     },
     {
         "appearances": "3",
         "first_name": "David",
-        "last_name": "Lyner"
+        "goals": "0",
+        "last_name": "Lyner",
+        "nationality": "Ireland"
     },
     {
         "appearances": "3",
         "first_name": "Wilfred",
-        "last_name": "Lievesley"
+        "goals": "0",
+        "last_name": "Lievesley",
+        "nationality": "England"
     },
     {
         "appearances": "3",
         "first_name": "Billy",
-        "last_name": "Dennis"
+        "goals": "0",
+        "last_name": "Dennis",
+        "nationality": "England"
     },
     {
         "appearances": "3",
         "first_name": "Jack",
-        "last_name": "Hall"
+        "goals": "0",
+        "last_name": "Hall",
+        "nationality": "England"
     },
     {
         "appearances": "3",
         "first_name": "Frank",
-        "last_name": "Williams"
+        "goals": "0",
+        "last_name": "Williams",
+        "nationality": "England"
     },
     {
         "appearances": "3",
         "first_name": "George",
-        "last_name": "Lydon"
+        "goals": "0",
+        "last_name": "Lydon",
+        "nationality": "England"
     },
     {
         "appearances": "3",
         "first_name": "Leslie",
-        "last_name": "Lievesley"
+        "goals": "0",
+        "last_name": "Lievesley",
+        "nationality": "England"
     },
     {
         "appearances": "3",
         "first_name": "Ernie",
-        "last_name": "Thompson"
+        "goals": "1",
+        "last_name": "Thompson",
+        "nationality": "England"
     },
     {
         "appearances": "3",
         "first_name": "Jackie",
-        "last_name": "Scott"
+        "goals": "0",
+        "last_name": "Scott",
+        "nationality": "Northern Ireland"
     },
     {
         "appearances": "3",
         "first_name": "Tommy",
-        "last_name": "Heron"
+        "goals": "0",
+        "last_name": "Heron",
+        "nationality": "Scotland"
     },
     {
         "appearances": "3",
         "first_name": "John",
-        "last_name": "Connaughton"
+        "goals": "0",
+        "last_name": "Connaughton",
+        "nationality": "England"
     },
     {
         "appearances": "3",
         "first_name": "Alan",
-        "last_name": "Foggon"
+        "goals": "0",
+        "last_name": "Foggon",
+        "nationality": "England"
     },
     {
         "appearances": "3",
         "first_name": "Deiniol",
-        "last_name": "Graham"
+        "goals": "1",
+        "last_name": "Graham",
+        "nationality": "Wales"
     },
     {
         "appearances": "3",
         "first_name": "David",
-        "last_name": "Healy"
+        "goals": "0",
+        "last_name": "Healy",
+        "nationality": "Northern Ireland"
     },
     {
         "appearances": "3",
         "first_name": "Paul",
-        "last_name": "Rachubka"
+        "goals": "0",
+        "last_name": "Rachubka",
+        "nationality": "United States"
     },
     {
         "appearances": "3",
         "first_name": "Danny",
-        "last_name": "Webber"
+        "goals": "0",
+        "last_name": "Webber",
+        "nationality": "England"
     },
     {
         "appearances": "3",
         "first_name": "Lee",
-        "last_name": "Roche"
+        "goals": "0",
+        "last_name": "Roche",
+        "nationality": "England"
     },
     {
         "appearances": "3",
         "first_name": "Lee",
-        "last_name": "Martin"
+        "goals": "0",
+        "last_name": "Martin",
+        "nationality": "England"
     },
     {
         "appearances": "3",
         "first_name": "Kieran",
-        "last_name": "Lee"
+        "goals": "1",
+        "last_name": "Lee",
+        "nationality": "England"
     },
     {
         "appearances": "3",
         "first_name": "Dong",
-        "last_name": "Fangzhuo"
+        "goals": "0",
+        "last_name": "Fangzhuo",
+        "nationality": "China"
     },
     {
         "appearances": "3",
         "first_name": "Mr.",
-        "last_name": "Manucho"
+        "goals": "0",
+        "last_name": "Manucho",
+        "nationality": "Angola"
     },
     {
         "appearances": "3",
         "first_name": "Ravel",
-        "last_name": "Morrison"
+        "goals": "0",
+        "last_name": "Morrison",
+        "nationality": "England\n Jamaica2"
     },
     {
         "appearances": "3",
         "first_name": "Will",
-        "last_name": "Keane"
+        "goals": "0",
+        "last_name": "Keane",
+        "nationality": "England"
     },
     {
         "appearances": "3",
         "first_name": "Joel",
-        "last_name": "Castro Pereira"
+        "goals": "0",
+        "last_name": "Castro Pereira",
+        "nationality": "Portugal"
     },
     {
         "appearances": "2",
         "first_name": "Joe",
-        "last_name": "Davies"
+        "goals": "0",
+        "last_name": "Davies",
+        "nationality": "Wales"
     },
     {
         "appearances": "2",
         "first_name": "T",
-        "last_name": "Craig"
+        "goals": "1",
+        "last_name": "Craig",
+        "nationality": "unknown"
     },
     {
         "appearances": "2",
         "first_name": "William",
-        "last_name": "Sharpe"
+        "goals": "0",
+        "last_name": "Sharpe",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "James",
-        "last_name": "Hendry"
+        "goals": "1",
+        "last_name": "Hendry",
+        "nationality": "Scotland"
     },
     {
         "appearances": "2",
         "first_name": "D",
-        "last_name": "Prince"
+        "goals": "0",
+        "last_name": "Prince",
+        "nationality": "unknown"
     },
     {
         "appearances": "2",
         "first_name": "John",
-        "last_name": "Aitken"
+        "goals": "1",
+        "last_name": "Aitken",
+        "nationality": "Scotland"
     },
     {
         "appearances": "2",
         "first_name": "Joe",
-        "last_name": "Wetherell"
+        "goals": "0",
+        "last_name": "Wetherell",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Frank",
-        "last_name": "Wedge"
+        "goals": "2",
+        "last_name": "Wedge",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "John",
-        "last_name": "Jones"
+        "goals": "0",
+        "last_name": "Jones",
+        "nationality": "Wales"
     },
     {
         "appearances": "2",
         "first_name": "Bob",
-        "last_name": "Turner"
+        "goals": "0",
+        "last_name": "Turner",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Robert",
-        "last_name": "Walker"
+        "goals": "0",
+        "last_name": "Walker",
+        "nationality": "unknown"
     },
     {
         "appearances": "2",
         "first_name": "James",
-        "last_name": "Bain"
+        "goals": "1",
+        "last_name": "Bain",
+        "nationality": "Scotland"
     },
     {
         "appearances": "2",
         "first_name": "Peter",
-        "last_name": "Blackmore"
+        "goals": "0",
+        "last_name": "Blackmore",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "William",
-        "last_name": "Booth"
+        "goals": "0",
+        "last_name": "Booth",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "William",
-        "last_name": "Bunce"
+        "goals": "0",
+        "last_name": "Bunce",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Hugh",
-        "last_name": "Kerr"
+        "goals": "0",
+        "last_name": "Kerr",
+        "nationality": "Scotland"
     },
     {
         "appearances": "2",
         "first_name": "Joe",
-        "last_name": "Schofield"
+        "goals": "0",
+        "last_name": "Schofield",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Arthur",
-        "last_name": "Young"
+        "goals": "0",
+        "last_name": "Young",
+        "nationality": "Scotland"
     },
     {
         "appearances": "2",
         "first_name": "David",
-        "last_name": "Christie"
+        "goals": "0",
+        "last_name": "Christie",
+        "nationality": "Scotland"
     },
     {
         "appearances": "2",
         "first_name": "Tom",
-        "last_name": "Wilcox"
+        "goals": "0",
+        "last_name": "Wilcox",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Ernest",
-        "last_name": "Payne"
+        "goals": "1",
+        "last_name": "Payne",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Jack",
-        "last_name": "Quin"
+        "goals": "0",
+        "last_name": "Quin",
+        "nationality": "Scotland"
     },
     {
         "appearances": "2",
         "first_name": "Elijah",
-        "last_name": "Round"
+        "goals": "0",
+        "last_name": "Round",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Bob",
-        "last_name": "Roberts"
+        "goals": "0",
+        "last_name": "Roberts",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "John",
-        "last_name": "Williamson"
+        "goals": "0",
+        "last_name": "Williamson",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "James",
-        "last_name": "Pugh"
+        "goals": "0",
+        "last_name": "Pugh",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Richard",
-        "last_name": "Iddon"
+        "goals": "0",
+        "last_name": "Iddon",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Joe",
-        "last_name": "Astley"
+        "goals": "0",
+        "last_name": "Astley",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Ron",
-        "last_name": "Haworth"
+        "goals": "0",
+        "last_name": "Haworth",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Harold",
-        "last_name": "Dean"
+        "goals": "0",
+        "last_name": "Dean",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Percy",
-        "last_name": "Newton"
+        "goals": "0",
+        "last_name": "Newton",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Alf",
-        "last_name": "Ainsworth"
+        "goals": "0",
+        "last_name": "Ainsworth",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Tom",
-        "last_name": "Manns"
+        "goals": "0",
+        "last_name": "Manns",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Len",
-        "last_name": "Bradbury"
+        "goals": "1",
+        "last_name": "Bradbury",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "John",
-        "last_name": "Roach"
+        "goals": "0",
+        "last_name": "Roach",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Joe",
-        "last_name": "Dale"
+        "goals": "0",
+        "last_name": "Dale",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Jimmy",
-        "last_name": "Pegg"
+        "goals": "0",
+        "last_name": "Pegg",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Eddie",
-        "last_name": "McIlvenny"
+        "goals": "0",
+        "last_name": "McIlvenny",
+        "nationality": "United States"
     },
     {
         "appearances": "2",
         "first_name": "Johnny",
-        "last_name": "Walton"
+        "goals": "0",
+        "last_name": "Walton",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Les",
-        "last_name": "Olive"
+        "goals": "0",
+        "last_name": "Olive",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Gordon",
-        "last_name": "Clayton"
+        "goals": "0",
+        "last_name": "Clayton",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Tommy",
-        "last_name": "Baldwin"
+        "goals": "0",
+        "last_name": "Baldwin",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Peter",
-        "last_name": "Coyne"
+        "goals": "1",
+        "last_name": "Coyne",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Tony",
-        "last_name": "Grimshaw"
+        "goals": "0",
+        "last_name": "Grimshaw",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Tom",
-        "last_name": "Connell"
+        "goals": "0",
+        "last_name": "Connell",
+        "nationality": "Northern Ireland"
     },
     {
         "appearances": "2",
         "first_name": "Mark",
-        "last_name": "Dempsey"
+        "goals": "0",
+        "last_name": "Dempsey",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Derek",
-        "last_name": "Brazil"
+        "goals": "0",
+        "last_name": "Brazil",
+        "nationality": "Ireland"
     },
     {
         "appearances": "2",
         "first_name": "Paul",
-        "last_name": "Wratten"
+        "goals": "0",
+        "last_name": "Wratten",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Graeme",
-        "last_name": "Tomlinson"
+        "goals": "0",
+        "last_name": "Tomlinson",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "William",
-        "last_name": "Prunier"
+        "goals": "0",
+        "last_name": "Prunier",
+        "nationality": "France"
     },
     {
         "appearances": "2",
         "first_name": "Michael",
-        "last_name": "Appleton"
+        "goals": "0",
+        "last_name": "Appleton",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Michael",
-        "last_name": "Twiss"
+        "goals": "0",
+        "last_name": "Twiss",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Andy",
-        "last_name": "Goram"
+        "goals": "0",
+        "last_name": "Goram",
+        "nationality": "Scotland"
     },
     {
         "appearances": "2",
         "first_name": "Bojan",
-        "last_name": "Djordjic"
+        "goals": "0",
+        "last_name": "Djordjic",
+        "nationality": "Sweden"
     },
     {
         "appearances": "2",
         "first_name": "Sylvan",
-        "last_name": "Ebanks-Blake"
+        "goals": "1",
+        "last_name": "Ebanks-Blake",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Ryan",
-        "last_name": "Shawcross"
+        "goals": "0",
+        "last_name": "Shawcross",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Joshua",
-        "last_name": "King"
+        "goals": "0",
+        "last_name": "King",
+        "nationality": "Norway"
     },
     {
         "appearances": "2",
         "first_name": "Marnick",
-        "last_name": "Vermijl"
+        "goals": "0",
+        "last_name": "Vermijl",
+        "nationality": "Belgium"
     },
     {
         "appearances": "2",
         "first_name": "Ryan",
-        "last_name": "Tunnicliffe"
+        "goals": "0",
+        "last_name": "Tunnicliffe",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "V\u00edctor",
-        "last_name": "Vald\u00e9s"
+        "goals": "0",
+        "last_name": "Vald\u00e9s",
+        "nationality": "Spain"
     },
     {
         "appearances": "2",
         "first_name": "Donald",
-        "last_name": "Love"
+        "goals": "0",
+        "last_name": "Love",
+        "nationality": "Scotland"
     },
     {
         "appearances": "2",
         "first_name": "Joe",
-        "last_name": "Riley"
+        "goals": "0",
+        "last_name": "Riley",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Lee",
-        "last_name": "Grant"
+        "goals": "0",
+        "last_name": "Grant",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Ethan",
-        "last_name": "Laird"
+        "goals": "0",
+        "last_name": "Laird",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Shola",
-        "last_name": "Shoretire"
+        "goals": "0",
+        "last_name": "Shoretire",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Robert",
-        "last_name": "Beckett"
+        "goals": "0",
+        "last_name": "Beckett",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Tom",
-        "last_name": "Burke"
+        "goals": "0",
+        "last_name": "Burke",
+        "nationality": "Wales"
     },
     {
         "appearances": "1",
         "first_name": "L",
-        "last_name": "Davies"
+        "goals": "0",
+        "last_name": "Davies",
+        "nationality": "unknown"
     },
     {
         "appearances": "1",
         "first_name": "John",
-        "last_name": "Earp"
+        "goals": "0",
+        "last_name": "Earp",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "James",
-        "last_name": "Gotheridge"
+        "goals": "0",
+        "last_name": "Gotheridge",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "E",
-        "last_name": "Howells"
+        "goals": "0",
+        "last_name": "Howells",
+        "nationality": "unknown"
     },
     {
         "appearances": "1",
         "first_name": "A",
-        "last_name": "Longton"
+        "goals": "0",
+        "last_name": "Longton",
+        "nationality": "unknown"
     },
     {
         "appearances": "1",
         "first_name": "Charlie",
-        "last_name": "Harrison"
+        "goals": "0",
+        "last_name": "Harrison",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Tom",
-        "last_name": "Hay"
+        "goals": "0",
+        "last_name": "Hay",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "George",
-        "last_name": "Owen"
+        "goals": "0",
+        "last_name": "Owen",
+        "nationality": "Wales"
     },
     {
         "appearances": "1",
         "first_name": "Mr.",
-        "last_name": "Wilson"
+        "goals": "0",
+        "last_name": "Wilson",
+        "nationality": "unknown"
     },
     {
         "appearances": "1",
         "first_name": "George",
-        "last_name": "Evans"
+        "goals": "1",
+        "last_name": "Evans",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Bob",
-        "last_name": "Milarvie"
+        "goals": "0",
+        "last_name": "Milarvie",
+        "nationality": "Scotland"
     },
     {
         "appearances": "1",
         "first_name": "Bob",
-        "last_name": "Ramsay"
+        "goals": "0",
+        "last_name": "Ramsay",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Herbert",
-        "last_name": "Dale"
+        "goals": "0",
+        "last_name": "Dale",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Mr.",
-        "last_name": "Donnelly"
+        "goals": "0",
+        "last_name": "Donnelly",
+        "nationality": "unknown"
     },
     {
         "appearances": "1",
         "first_name": "G",
-        "last_name": "Felton"
+        "goals": "0",
+        "last_name": "Felton",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "William",
-        "last_name": "Gyves"
+        "goals": "0",
+        "last_name": "Gyves",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "T",
-        "last_name": "O'Shaughnessy"
+        "goals": "0",
+        "last_name": "O'Shaughnessy",
+        "nationality": "unknown"
     },
     {
         "appearances": "1",
         "first_name": "Mr.",
-        "last_name": "Rattigan"
+        "goals": "0",
+        "last_name": "Rattigan",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Mr.",
-        "last_name": "Turner"
+        "goals": "0",
+        "last_name": "Turner",
+        "nationality": "unknown"
     },
     {
         "appearances": "1",
         "first_name": "J",
-        "last_name": "Denman"
+        "goals": "0",
+        "last_name": "Denman",
+        "nationality": "unknown"
     },
     {
         "appearances": "1",
         "first_name": "Joe",
-        "last_name": "Kinloch"
+        "goals": "0",
+        "last_name": "Kinloch",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "William",
-        "last_name": "Brady"
+        "goals": "0",
+        "last_name": "Brady",
+        "nationality": "Scotland"
     },
     {
         "appearances": "1",
         "first_name": "David",
-        "last_name": "McFetteridge"
+        "goals": "0",
+        "last_name": "McFetteridge",
+        "nationality": "Scotland"
     },
     {
         "appearances": "1",
         "first_name": "William",
-        "last_name": "Longair"
+        "goals": "0",
+        "last_name": "Longair",
+        "nationality": "Scotland"
     },
     {
         "appearances": "1",
         "first_name": "James",
-        "last_name": "Cairns"
+        "goals": "0",
+        "last_name": "Cairns",
+        "nationality": "unknown"
     },
     {
         "appearances": "1",
         "first_name": "Robert",
-        "last_name": "Stephenson"
+        "goals": "1",
+        "last_name": "Stephenson",
+        "nationality": "unknown"
     },
     {
         "appearances": "1",
         "first_name": "James",
-        "last_name": "Cairns"
+        "goals": "0",
+        "last_name": "Cairns",
+        "nationality": "unknown"
     },
     {
         "appearances": "1",
         "first_name": "W",
-        "last_name": "Owen"
+        "goals": "0",
+        "last_name": "Owen",
+        "nationality": "Wales"
     },
     {
         "appearances": "1",
         "first_name": "George",
-        "last_name": "Radcliffe"
+        "goals": "0",
+        "last_name": "Radcliffe",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "John",
-        "last_name": "Gourlay"
+        "goals": "0",
+        "last_name": "Gourlay",
+        "nationality": "Scotland"
     },
     {
         "appearances": "1",
         "first_name": "James",
-        "last_name": "Hopkins"
+        "goals": "0",
+        "last_name": "Hopkins",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Edward",
-        "last_name": "Holt"
+        "goals": "1",
+        "last_name": "Holt",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Samuel",
-        "last_name": "Johnson"
+        "goals": "0",
+        "last_name": "Johnson",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "George",
-        "last_name": "O'Brien"
+        "goals": "0",
+        "last_name": "O'Brien",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "John",
-        "last_name": "Christie"
+        "goals": "0",
+        "last_name": "Christie",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Harry",
-        "last_name": "Cleaver"
+        "goals": "0",
+        "last_name": "Cleaver",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Jimmy",
-        "last_name": "Dyer"
+        "goals": "0",
+        "last_name": "Dyer",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Horace",
-        "last_name": "Blew"
+        "goals": "0",
+        "last_name": "Blew",
+        "nationality": "Wales"
     },
     {
         "appearances": "1",
         "first_name": "Ted",
-        "last_name": "Dalton"
+        "goals": "0",
+        "last_name": "Dalton",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Kerr",
-        "last_name": "Whiteside"
+        "goals": "0",
+        "last_name": "Whiteside",
+        "nationality": "Scotland"
     },
     {
         "appearances": "1",
         "first_name": "Tommy",
-        "last_name": "Wilson"
+        "goals": "0",
+        "last_name": "Wilson",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Freddy",
-        "last_name": "Capper"
+        "goals": "0",
+        "last_name": "Capper",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Pat",
-        "last_name": "McCarthy"
+        "goals": "0",
+        "last_name": "McCarthy",
+        "nationality": "Wales"
     },
     {
         "appearances": "1",
         "first_name": "Jocelyn",
-        "last_name": "Rowe"
+        "goals": "0",
+        "last_name": "Rowe",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Albert",
-        "last_name": "Prince"
+        "goals": "0",
+        "last_name": "Prince",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "John",
-        "last_name": "Prentice"
+        "goals": "0",
+        "last_name": "Prentice",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "George",
-        "last_name": "Schofield"
+        "goals": "0",
+        "last_name": "Schofield",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "George",
-        "last_name": "Albinson"
+        "goals": "0",
+        "last_name": "Albinson",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Percy",
-        "last_name": "Schofield"
+        "goals": "0",
+        "last_name": "Schofield",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Walter",
-        "last_name": "Taylor"
+        "goals": "0",
+        "last_name": "Taylor",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "William",
-        "last_name": "Sarvis"
+        "goals": "0",
+        "last_name": "Sarvis",
+        "nationality": "Wales"
     },
     {
         "appearances": "1",
         "first_name": "Albert",
-        "last_name": "Broome"
+        "goals": "0",
+        "last_name": "Broome",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Sidney",
-        "last_name": "Tyler"
+        "goals": "0",
+        "last_name": "Tyler",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "John",
-        "last_name": "Whittle"
+        "goals": "0",
+        "last_name": "Whittle",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Andy",
-        "last_name": "Mitchell"
+        "goals": "0",
+        "last_name": "Mitchell",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Billy",
-        "last_name": "Behan"
+        "goals": "0",
+        "last_name": "Behan",
+        "nationality": "Ireland"
     },
     {
         "appearances": "1",
         "first_name": "Ben",
-        "last_name": "Morton"
+        "goals": "0",
+        "last_name": "Morton",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "David",
-        "last_name": "Robbie"
+        "goals": "0",
+        "last_name": "Robbie",
+        "nationality": "Scotland"
     },
     {
         "appearances": "1",
         "first_name": "David",
-        "last_name": "Jones"
+        "goals": "0",
+        "last_name": "Jones",
+        "nationality": "Wales"
     },
     {
         "appearances": "1",
         "first_name": "Beaumont",
-        "last_name": "Asquith"
+        "goals": "0",
+        "last_name": "Asquith",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Bill",
-        "last_name": "Bainbridge"
+        "goals": "1",
+        "last_name": "Bainbridge",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Noel",
-        "last_name": "McFarlane"
+        "goals": "0",
+        "last_name": "McFarlane",
+        "nationality": "Ireland"
     },
     {
         "appearances": "1",
         "first_name": "Paddy",
-        "last_name": "Kennedy"
+        "goals": "0",
+        "last_name": "Kennedy",
+        "nationality": "Ireland"
     },
     {
         "appearances": "1",
         "first_name": "Walter",
-        "last_name": "Whitehurst"
+        "goals": "0",
+        "last_name": "Whitehurst",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Tony",
-        "last_name": "Hawksworth"
+        "goals": "0",
+        "last_name": "Hawksworth",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Reg",
-        "last_name": "Hunter"
+        "goals": "0",
+        "last_name": "Hunter",
+        "nationality": "Wales"
     },
     {
         "appearances": "1",
         "first_name": "Harold",
-        "last_name": "Bratt"
+        "goals": "0",
+        "last_name": "Bratt",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Dennis",
-        "last_name": "Walker"
+        "goals": "0",
+        "last_name": "Walker",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Wilf",
-        "last_name": "Tranter"
+        "goals": "0",
+        "last_name": "Tranter",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Albert",
-        "last_name": "Kinsey"
+        "goals": "1",
+        "last_name": "Kinsey",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Jimmy",
-        "last_name": "Kelly"
+        "goals": "0",
+        "last_name": "Kelly",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Jonathan",
-        "last_name": "Clark"
+        "goals": "0",
+        "last_name": "Clark",
+        "nationality": "Wales"
     },
     {
         "appearances": "1",
         "first_name": "Martyn",
-        "last_name": "Rogers"
+        "goals": "0",
+        "last_name": "Rogers",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Anto",
-        "last_name": "Whelan"
+        "goals": "0",
+        "last_name": "Whelan",
+        "nationality": "Ireland"
     },
     {
         "appearances": "1",
         "first_name": "Peter",
-        "last_name": "Beardsley"
+        "goals": "0",
+        "last_name": "Beardsley",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Neil",
-        "last_name": "Whitworth"
+        "goals": "0",
+        "last_name": "Whitworth",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Ian",
-        "last_name": "Wilkinson"
+        "goals": "0",
+        "last_name": "Wilkinson",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Colin",
-        "last_name": "McKee"
+        "goals": "0",
+        "last_name": "McKee",
+        "nationality": "Scotland"
     },
     {
         "appearances": "1",
         "first_name": "Pat",
-        "last_name": "McGibbon"
+        "goals": "0",
+        "last_name": "McGibbon",
+        "nationality": "Northern Ireland"
     },
     {
         "appearances": "1",
         "first_name": "Alex",
-        "last_name": "Notman"
+        "goals": "0",
+        "last_name": "Notman",
+        "nationality": "Scotland"
     },
     {
         "appearances": "1",
         "first_name": "Nick",
-        "last_name": "Culkin"
+        "goals": "0",
+        "last_name": "Culkin",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Richie",
-        "last_name": "Wellens"
+        "goals": "0",
+        "last_name": "Wellens",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Jimmy",
-        "last_name": "Davis"
+        "goals": "0",
+        "last_name": "Davis",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Mads",
-        "last_name": "Timm"
+        "goals": "0",
+        "last_name": "Timm",
+        "nationality": "Denmark"
     },
     {
         "appearances": "1",
         "first_name": "Mark",
-        "last_name": "Lynch"
+        "goals": "0",
+        "last_name": "Lynch",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Paul",
-        "last_name": "Tierney"
+        "goals": "0",
+        "last_name": "Tierney",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Eddie",
-        "last_name": "Johnson"
+        "goals": "0",
+        "last_name": "Johnson",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Adam",
-        "last_name": "Eckersley"
+        "goals": "0",
+        "last_name": "Eckersley",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "David",
-        "last_name": "Gray"
+        "goals": "0",
+        "last_name": "Gray",
+        "nationality": "Scotland"
     },
     {
         "appearances": "1",
         "first_name": "Michael",
-        "last_name": "Barnes"
+        "goals": "0",
+        "last_name": "Barnes",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Phil",
-        "last_name": "Marsh"
+        "goals": "0",
+        "last_name": "Marsh",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "James",
-        "last_name": "Chester"
+        "goals": "0",
+        "last_name": "Chester",
+        "nationality": "Wales"
     },
     {
         "appearances": "1",
         "first_name": "Larnell",
-        "last_name": "Cole"
+        "goals": "0",
+        "last_name": "Cole",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Robbie",
-        "last_name": "Brady"
+        "goals": "0",
+        "last_name": "Brady",
+        "nationality": "Ireland"
     },
     {
         "appearances": "1",
         "first_name": "Tom",
-        "last_name": "Lawrence"
+        "goals": "0",
+        "last_name": "Lawrence",
+        "nationality": "Wales"
     },
     {
         "appearances": "1",
         "first_name": "Saidy",
-        "last_name": "Janko"
+        "goals": "0",
+        "last_name": "Janko",
+        "nationality": "Switzerland"
     },
     {
         "appearances": "1",
         "first_name": "Reece",
-        "last_name": "James"
+        "goals": "0",
+        "last_name": "James",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Tom",
-        "last_name": "Thorpe"
+        "goals": "0",
+        "last_name": "Thorpe",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Regan",
-        "last_name": "Poole"
+        "goals": "0",
+        "last_name": "Poole",
+        "nationality": "Wales"
     },
     {
         "appearances": "1",
         "first_name": "James",
-        "last_name": "Weir"
+        "goals": "0",
+        "last_name": "Weir",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Demetri",
-        "last_name": "Mitchell"
+        "goals": "0",
+        "last_name": "Mitchell",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Josh",
-        "last_name": "Harrop"
+        "goals": "1",
+        "last_name": "Harrop",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Di'Shon",
-        "last_name": "Bernard"
+        "goals": "0",
+        "last_name": "Bernard",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Dylan",
-        "last_name": "Levitt"
+        "goals": "0",
+        "last_name": "Levitt",
+        "nationality": "Wales"
     },
     {
         "appearances": "1",
         "first_name": "D'Mani",
-        "last_name": "Mellor"
+        "goals": "0",
+        "last_name": "Mellor",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Largie",
-        "last_name": "Ramazani"
+        "goals": "0",
+        "last_name": "Ramazani",
+        "nationality": "Belgium"
     },
     {
         "appearances": "1",
         "first_name": "Ethan",
-        "last_name": "Galbraith"
+        "goals": "0",
+        "last_name": "Galbraith",
+        "nationality": "Northern Ireland"
     },
     {
         "appearances": "1",
         "first_name": "Teden",
-        "last_name": "Mengi"
+        "goals": "0",
+        "last_name": "Mengi",
+        "nationality": "England"
     },
     {
         "appearances": "72",
         "first_name": "Millie",
-        "last_name": "Turner"
+        "goals": "5",
+        "last_name": "Turner",
+        "nationality": "England"
     },
     {
         "appearances": "70",
         "first_name": "Ella",
-        "last_name": "Toone"
+        "goals": "29",
+        "last_name": "Toone",
+        "nationality": "England"
     },
     {
         "appearances": "66",
         "first_name": "Katie",
-        "last_name": "Zelem"
+        "goals": "20",
+        "last_name": "Zelem",
+        "nationality": "England"
     },
     {
         "appearances": "64",
         "first_name": "Amy",
-        "last_name": "Turner"
+        "goals": "4",
+        "last_name": "Turner",
+        "nationality": "England"
     },
     {
         "appearances": "63",
         "first_name": "Kirsty",
-        "last_name": "Hanson"
+        "goals": "14",
+        "last_name": "Hanson",
+        "nationality": "Scotland"
     },
     {
         "appearances": "62",
         "first_name": "Jessica",
-        "last_name": "Sigsworth"
+        "goals": "24",
+        "last_name": "Sigsworth",
+        "nationality": "England"
     },
     {
         "appearances": "56",
         "first_name": "Lauren",
-        "last_name": "James"
+        "goals": "28",
+        "last_name": "James",
+        "nationality": "England"
     },
     {
         "appearances": "53",
         "first_name": "Leah",
-        "last_name": "Galton"
+        "goals": "14",
+        "last_name": "Galton",
+        "nationality": "England"
     },
     {
         "appearances": "48",
         "first_name": "Kirsty",
-        "last_name": "Smith"
+        "goals": "1",
+        "last_name": "Smith",
+        "nationality": "Scotland"
     },
     {
         "appearances": "44",
         "first_name": "Martha",
-        "last_name": "Harris"
+        "goals": "1",
+        "last_name": "Harris",
+        "nationality": "England"
     },
     {
         "appearances": "42",
         "first_name": "Hayley",
-        "last_name": "Ladd"
+        "goals": "2",
+        "last_name": "Ladd",
+        "nationality": "Wales"
     },
     {
         "appearances": "40",
         "first_name": "Mary",
-        "last_name": "Earps"
+        "goals": "0",
+        "last_name": "Earps",
+        "nationality": "England"
     },
     {
         "appearances": "38",
         "first_name": "Jackie",
-        "last_name": "Groenen"
+        "goals": "0",
+        "last_name": "Groenen",
+        "nationality": "Netherlands"
     },
     {
         "appearances": "34",
         "first_name": "Lizzie",
-        "last_name": "Arnot"
+        "goals": "9",
+        "last_name": "Arnot",
+        "nationality": "Scotland"
     },
     {
         "appearances": "30",
         "first_name": "Jane",
-        "last_name": "Ross"
+        "goals": "6",
+        "last_name": "Ross",
+        "nationality": "Scotland"
     },
     {
         "appearances": "29",
         "first_name": "Mollie",
-        "last_name": "Green"
+        "goals": "16",
+        "last_name": "Green",
+        "nationality": "England"
     },
     {
         "appearances": "27",
         "first_name": "Siobhan",
-        "last_name": "Chamberlain"
+        "goals": "0",
+        "last_name": "Chamberlain",
+        "nationality": "England"
     },
     {
         "appearances": "27",
         "first_name": "Alex",
-        "last_name": "Greenwood"
+        "goals": "5",
+        "last_name": "Greenwood",
+        "nationality": "England"
     },
     {
         "appearances": "25",
         "first_name": "Abbie",
-        "last_name": "McManus"
+        "goals": "2",
+        "last_name": "McManus",
+        "nationality": "England"
     },
     {
         "appearances": "21",
         "first_name": "Charlie",
-        "last_name": "Devlin"
+        "goals": "6",
+        "last_name": "Devlin",
+        "nationality": "England"
     },
     {
         "appearances": "19",
         "first_name": "Ona",
-        "last_name": "Batlle"
+        "goals": "0",
+        "last_name": "Batlle",
+        "nationality": "Spain"
     },
     {
         "appearances": "15",
         "first_name": "Aimee",
-        "last_name": "Palmer"
+        "goals": "1",
+        "last_name": "Palmer",
+        "nationality": "England"
     },
     {
         "appearances": "14",
         "first_name": "Christen",
-        "last_name": "Press"
+        "goals": "3",
+        "last_name": "Press",
+        "nationality": "United States"
     },
     {
         "appearances": "13",
         "first_name": "Lucy",
-        "last_name": "Staniforth"
+        "goals": "1",
+        "last_name": "Staniforth",
+        "nationality": "England"
     },
     {
         "appearances": "11",
         "first_name": "Tobin",
-        "last_name": "Heath"
+        "goals": "4",
+        "last_name": "Heath",
+        "nationality": "United States"
     },
     {
         "appearances": "10",
         "first_name": "Lotta",
-        "last_name": "\u00d6kvist"
+        "goals": "0",
+        "last_name": "\u00d6kvist",
+        "nationality": "Sweden"
     },
     {
         "appearances": "6",
         "first_name": "Emily",
-        "last_name": "Ramsey"
+        "goals": "0",
+        "last_name": "Ramsey",
+        "nationality": "England"
     },
     {
         "appearances": "6",
         "first_name": "Ivana",
-        "last_name": "Fuso"
+        "goals": "0",
+        "last_name": "Fuso",
+        "nationality": "Brazil"
     },
     {
         "appearances": "6",
         "first_name": "Maria",
-        "last_name": "Thorisdottir"
+        "goals": "0",
+        "last_name": "Thorisdottir",
+        "nationality": "Norway"
     },
     {
         "appearances": "5",
         "first_name": "Alessia",
-        "last_name": "Russo"
+        "goals": "3",
+        "last_name": "Russo",
+        "nationality": "England"
     },
     {
         "appearances": "3",
         "first_name": "Naomi",
-        "last_name": "Hartley"
+        "goals": "0",
+        "last_name": "Hartley",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Fran",
-        "last_name": "Bentley"
+        "goals": "0",
+        "last_name": "Bentley",
+        "nationality": "England"
     },
     {
         "appearances": "2",
         "first_name": "Carrie",
-        "last_name": "Jones"
+        "goals": "0",
+        "last_name": "Jones",
+        "nationality": "Wales"
     },
     {
         "appearances": "1",
         "first_name": "Aurora",
-        "last_name": "Mikalsen"
+        "goals": "0",
+        "last_name": "Mikalsen",
+        "nationality": "Norway"
     },
     {
         "appearances": "1",
         "first_name": "Rebecca",
-        "last_name": "May"
+        "goals": "0",
+        "last_name": "May",
+        "nationality": "England"
     },
     {
         "appearances": "1",
         "first_name": "Tara",
-        "last_name": "Bourne"
+        "goals": "0",
+        "last_name": "Bourne",
+        "nationality": "England"
     }
 ]
