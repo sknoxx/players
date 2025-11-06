@@ -1,6 +1,7 @@
 #! /usr/bin/env python
 
 from selenium import webdriver	# pip install selenium
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from wik_page_locators import WikiPageLocators
@@ -15,12 +16,19 @@ URL_LIST = ['https://en.wikipedia.org/wiki/List_of_Manchester_United_F.C._player
 
 def main():
     players_from_webpage_list = []
-    driver = webdriver.Chrome()
+    # driver = webdriver.Chrome('../chromedriver.exe')
+    chrome_options = Options()
+    chrome_options.add_argument("--headless=new")
+    chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("--disable-dev-shm-usage")
+    chrome_options.add_argument("--window-size=1920,1080")
+    driver = webdriver.Chrome(options=chrome_options)
 
     for url in URL_LIST:
         print(url)
         driver.get(url)
-        WebDriverWait(driver, 60).until(EC.visibility_of_element_located(WikiPageLocators.MAIN_PAGE_LINK))
+        WebDriverWait(driver, 60).until(EC.visibility_of_element_located(WikiPageLocators.LIST_OF_PLAYERS_LINK))
+        WebDriverWait(driver, 60).until(EC.visibility_of_element_located(WikiPageLocators.TOTAL_COLUMN_HEADER))
 
         for _ in range(2):
             driver.find_element(*WikiPageLocators.TOTAL_COLUMN_HEADER).click()
@@ -45,7 +53,11 @@ def main():
                 player_dict['first_name'] = first_name
                 player_dict['last_name'] = surname
 
-            print(cell.text, player_dict)
+            # print(cell.text, player_dict)
+            full_name = f"{player_dict['first_name']} {player_dict['last_name']}"
+
+            print(f"| {full_name:<25} | Country: {player_dict['nationality']:<20.20} | "
+                  f"Apps: {player_dict['appearances']:>6} | Goals: {player_dict['goals']:>5} |")
             players_from_webpage_list.append(player_dict)
 
         print(len(players_from_webpage_list))
@@ -56,7 +68,7 @@ def main():
     f.writelines(json.dumps(players_from_webpage_list, sort_keys=True, indent=4, separators=(',', ': ')))
     f.close()
 
-    with open('players.csv', mode='w') as csv_file:
+    with open('players.csv', mode='w', encoding='utf-8', newline='') as csv_file:
         fieldnames = ['first_name', 'last_name', 'nationality', 'appearances', 'goals']
         writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
         writer.writeheader()

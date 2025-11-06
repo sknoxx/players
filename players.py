@@ -44,6 +44,13 @@ players_list = [
         "nationality": "England"
     },
     {
+        "appearances": "545",
+        "first_name": "David",
+        "goals": "0",
+        "last_name": "de Gea",
+        "nationality": "Spain"
+    },
+    {
         "appearances": "539",
         "first_name": "Alex",
         "goals": "2",
@@ -55,14 +62,14 @@ players_list = [
         "first_name": "Tony",
         "goals": "2",
         "last_name": "Dunne",
-        "nationality": "Ireland"
+        "nationality": "Republic of Ireland"
     },
     {
         "appearances": "529",
         "first_name": "Denis",
         "goals": "33",
         "last_name": "Irwin",
-        "nationality": "Ireland"
+        "nationality": "Republic of Ireland"
     },
     {
         "appearances": "510",
@@ -83,7 +90,7 @@ players_list = [
         "first_name": "Roy",
         "goals": "51",
         "last_name": "Keane",
-        "nationality": "Ireland"
+        "nationality": "Republic of Ireland"
     },
     {
         "appearances": "471",
@@ -149,11 +156,11 @@ players_list = [
         "nationality": "England"
     },
     {
-        "appearances": "436",
-        "first_name": "David",
-        "goals": "0",
-        "last_name": "de Gea",
-        "nationality": "Spain"
+        "appearances": "426",
+        "first_name": "Marcus",
+        "goals": "138",
+        "last_name": "Rashford",
+        "nationality": "England"
     },
     {
         "appearances": "424",
@@ -199,7 +206,7 @@ players_list = [
     },
     {
         "appearances": "397",
-        "first_name": "Pat",
+        "first_name": "Paddy",
         "goals": "15",
         "last_name": "Crerand",
         "nationality": "Scotland"
@@ -230,7 +237,7 @@ players_list = [
         "first_name": "John",
         "goals": "15",
         "last_name": "O'Shea",
-        "nationality": "Ireland"
+        "nationality": "Republic of Ireland"
     },
     {
         "appearances": "391",
@@ -300,14 +307,21 @@ players_list = [
         "first_name": "Shay",
         "goals": "6",
         "last_name": "Brennan",
-        "nationality": "Ireland"
+        "nationality": "Republic of Ireland"
+    },
+    {
+        "appearances": "346",
+        "first_name": "Cristiano",
+        "goals": "145",
+        "last_name": "Ronaldo",
+        "nationality": "Portugal"
     },
     {
         "appearances": "344",
         "first_name": "Johnny",
         "goals": "17",
         "last_name": "Carey",
-        "nationality": "Ireland"
+        "nationality": "Ireland\n Republic of Ireland"
     },
     {
         "appearances": "343",
@@ -380,6 +394,13 @@ players_list = [
         "nationality": "England"
     },
     {
+        "appearances": "318",
+        "first_name": "Anthony",
+        "goals": "90",
+        "last_name": "Martial",
+        "nationality": "France"
+    },
+    {
         "appearances": "310",
         "first_name": "Fred",
         "goals": "9",
@@ -408,6 +429,13 @@ players_list = [
         "nationality": "Wales"
     },
     {
+        "appearances": "301",
+        "first_name": "Bruno",
+        "goals": "100",
+        "last_name": "Fernandes",
+        "nationality": "Portugal"
+    },
+    {
         "appearances": "300",
         "first_name": "Nemanja",
         "goals": "21",
@@ -422,6 +450,13 @@ players_list = [
         "nationality": "Scotland"
     },
     {
+        "appearances": "296",
+        "first_name": "Luke",
+        "goals": "4",
+        "last_name": "Shaw",
+        "nationality": "England"
+    },
+    {
         "appearances": "293",
         "first_name": "Dennis",
         "goals": "179",
@@ -429,25 +464,25 @@ players_list = [
         "nationality": "England"
     },
     {
-        "appearances": "292",
-        "first_name": "Cristiano",
-        "goals": "118",
-        "last_name": "Ronaldo",
-        "nationality": "Portugal"
-    },
-    {
         "appearances": "289",
         "first_name": "Kevin",
         "goals": "24",
         "last_name": "Moran",
-        "nationality": "Ireland"
+        "nationality": "Republic of Ireland"
     },
     {
         "appearances": "288",
         "first_name": "Frank",
         "goals": "78",
         "last_name": "Stapleton",
-        "nationality": "Ireland"
+        "nationality": "Republic of Ireland"
+    },
+    {
+        "appearances": "285",
+        "first_name": "Juan",
+        "goals": "51",
+        "last_name": "Mata",
+        "nationality": "Spain"
     },
     {
         "appearances": "284",
@@ -455,6 +490,13 @@ players_list = [
         "goals": "30",
         "last_name": "Aston Sr.",
         "nationality": "England"
+    },
+    {
+        "appearances": "284",
+        "first_name": "Victor",
+        "goals": "4",
+        "last_name": "Lindel\u00f6f",
+        "nationality": "Sweden"
     },
     {
         "appearances": "281",
@@ -513,13 +555,6 @@ players_list = [
         "nationality": "England"
     },
     {
-        "appearances": "268",
-        "first_name": "Juan",
-        "goals": "50",
-        "last_name": "Mata",
-        "nationality": "Spain"
-    },
-    {
         "appearances": "266",
         "first_name": "Harry",
         "goals": "0",
@@ -555,25 +590,11 @@ players_list = [
         "nationality": "England"
     },
     {
-        "appearances": "263",
-        "first_name": "Marcus",
-        "goals": "87",
-        "last_name": "Rashford",
-        "nationality": "England"
-    },
-    {
         "appearances": "261",
         "first_name": "Ashley",
         "goals": "19",
         "last_name": "Young",
         "nationality": "England"
-    },
-    {
-        "appearances": "258",
-        "first_name": "Anthony",
-        "goals": "78",
-        "last_name": "Martial",
-        "nationality": "France"
     },
     {
         "appearances": "257",
@@ -583,10 +604,24 @@ players_list = [
         "nationality": "England"
     },
     {
+        "appearances": "255",
+        "first_name": "Scott",
+        "goals": "29",
+        "last_name": "McTominay",
+        "nationality": "Scotland"
+    },
+    {
         "appearances": "254",
         "first_name": "Dick",
         "goals": "11",
         "last_name": "Duckworth",
+        "nationality": "England"
+    },
+    {
+        "appearances": "253",
+        "first_name": "Harry",
+        "goals": "17",
+        "last_name": "Maguire",
         "nationality": "England"
     },
     {
@@ -625,6 +660,27 @@ players_list = [
         "nationality": "Wales"
     },
     {
+        "appearances": "241",
+        "first_name": "Jonny",
+        "goals": "8",
+        "last_name": "Evans",
+        "nationality": "Northern Ireland"
+    },
+    {
+        "appearances": "233",
+        "first_name": "Paul",
+        "goals": "39",
+        "last_name": "Pogba",
+        "nationality": "France"
+    },
+    {
+        "appearances": "232",
+        "first_name": "Jesse",
+        "goals": "35",
+        "last_name": "Lingard",
+        "nationality": "England"
+    },
+    {
         "appearances": "230",
         "first_name": "Mr.",
         "goals": "40",
@@ -639,7 +695,7 @@ players_list = [
         "nationality": "Scotland"
     },
     {
-        "appearances": "224",
+        "appearances": "229",
         "first_name": "Phil",
         "goals": "6",
         "last_name": "Jones",
@@ -653,17 +709,24 @@ players_list = [
         "nationality": "Netherlands"
     },
     {
+        "appearances": "217",
+        "first_name": "Diogo",
+        "goals": "9",
+        "last_name": "Dalot",
+        "nationality": "Portugal"
+    },
+    {
+        "appearances": "213",
+        "first_name": "Mr.",
+        "goals": "14",
+        "last_name": "Fred",
+        "nationality": "Brazil"
+    },
+    {
         "appearances": "212",
         "first_name": "Jack",
         "goals": "0",
         "last_name": "Crompton",
-        "nationality": "England"
-    },
-    {
-        "appearances": "210",
-        "first_name": "Jesse",
-        "goals": "33",
-        "last_name": "Lingard",
         "nationality": "England"
     },
     {
@@ -734,21 +797,7 @@ players_list = [
         "first_name": "Paul",
         "goals": "16",
         "last_name": "McGrath",
-        "nationality": "Ireland"
-    },
-    {
-        "appearances": "199",
-        "first_name": "Paul",
-        "goals": "37",
-        "last_name": "Pogba",
-        "nationality": "France"
-    },
-    {
-        "appearances": "198",
-        "first_name": "Jonny",
-        "goals": "7",
-        "last_name": "Evans",
-        "nationality": "Northern Ireland"
+        "nationality": "Republic of Ireland"
     },
     {
         "appearances": "197",
@@ -793,11 +842,25 @@ players_list = [
         "nationality": "England"
     },
     {
+        "appearances": "190",
+        "first_name": "Aaron",
+        "goals": "2",
+        "last_name": "Wan-Bissaka",
+        "nationality": "DR Congo"
+    },
+    {
         "appearances": "189",
         "first_name": "Ander",
         "goals": "20",
         "last_name": "Herrera",
         "nationality": "Spain"
+    },
+    {
+        "appearances": "189",
+        "first_name": "Nemanja",
+        "goals": "4",
+        "last_name": "Mati\u0107",
+        "nationality": "Serbia"
     },
     {
         "appearances": "187",
@@ -867,13 +930,6 @@ players_list = [
         "first_name": "Alf",
         "goals": "35",
         "last_name": "Schofield",
-        "nationality": "England"
-    },
-    {
-        "appearances": "179",
-        "first_name": "Luke",
-        "goals": "3",
-        "last_name": "Shaw",
         "nationality": "England"
     },
     {
@@ -996,13 +1052,6 @@ players_list = [
         "nationality": "Scotland"
     },
     {
-        "appearances": "155",
-        "first_name": "Victor",
-        "goals": "3",
-        "last_name": "Lindel\u00f6f",
-        "nationality": "Sweden"
-    },
-    {
         "appearances": "153",
         "first_name": "Arthur",
         "goals": "50",
@@ -1036,13 +1085,6 @@ players_list = [
         "goals": "66",
         "last_name": "Yorke",
         "nationality": "Trinidad and Tobago"
-    },
-    {
-        "appearances": "151",
-        "first_name": "Nemanja",
-        "goals": "4",
-        "last_name": "Mati\u0107",
-        "nationality": "Serbia"
     },
     {
         "appearances": "150",
@@ -1084,7 +1126,7 @@ players_list = [
         "first_name": "Noel",
         "goals": "8",
         "last_name": "Cantwell",
-        "nationality": "Ireland"
+        "nationality": "Republic of Ireland"
     },
     {
         "appearances": "146",
@@ -1101,11 +1143,18 @@ players_list = [
         "nationality": "England"
     },
     {
+        "appearances": "144",
+        "first_name": "Alejandro",
+        "goals": "26",
+        "last_name": "Garnacho",
+        "nationality": "Argentina"
+    },
+    {
         "appearances": "142",
         "first_name": "Gerry",
         "goals": "32",
         "last_name": "Daly",
-        "nationality": "Ireland"
+        "nationality": "Republic of Ireland"
     },
     {
         "appearances": "142",
@@ -1164,6 +1213,20 @@ players_list = [
         "nationality": "England"
     },
     {
+        "appearances": "134",
+        "first_name": "Mr.",
+        "goals": "20",
+        "last_name": "Casemiro",
+        "nationality": "Brazil"
+    },
+    {
+        "appearances": "130",
+        "first_name": "Mason",
+        "goals": "35",
+        "last_name": "Greenwood",
+        "nationality": "England"
+    },
+    {
         "appearances": "128",
         "first_name": "Vince",
         "goals": "2",
@@ -1190,13 +1253,6 @@ players_list = [
         "goals": "1",
         "last_name": "Stam",
         "nationality": "Netherlands"
-    },
-    {
-        "appearances": "127",
-        "first_name": "Scott",
-        "goals": "14",
-        "last_name": "McTominay",
-        "nationality": "Scotland"
     },
     {
         "appearances": "126",
@@ -1371,14 +1427,7 @@ players_list = [
         "first_name": "Johnny",
         "goals": "13",
         "last_name": "Giles",
-        "nationality": "Ireland"
-    },
-    {
-        "appearances": "114",
-        "first_name": "Mr.",
-        "goals": "4",
-        "last_name": "Fred",
-        "nationality": "Brazil"
+        "nationality": "Republic of Ireland"
     },
     {
         "appearances": "113",
@@ -1386,6 +1435,13 @@ players_list = [
         "goals": "35",
         "last_name": "Connelly",
         "nationality": "England"
+    },
+    {
+        "appearances": "113",
+        "first_name": "Eric",
+        "goals": "1",
+        "last_name": "Bailly",
+        "nationality": "Ivory Coast"
     },
     {
         "appearances": "112",
@@ -1462,7 +1518,14 @@ players_list = [
         "first_name": "Ashley",
         "goals": "11",
         "last_name": "Grimes",
-        "nationality": "Ireland"
+        "nationality": "Republic of Ireland"
+    },
+    {
+        "appearances": "107",
+        "first_name": "Christian",
+        "goals": "8",
+        "last_name": "Eriksen",
+        "nationality": "Denmark"
     },
     {
         "appearances": "106",
@@ -1500,10 +1563,24 @@ players_list = [
         "nationality": "Norway"
     },
     {
-        "appearances": "103",
-        "first_name": "Harry",
-        "goals": "5",
-        "last_name": "Maguire",
+        "appearances": "102",
+        "first_name": "George",
+        "goals": "0",
+        "last_name": "Perrins",
+        "nationality": "England"
+    },
+    {
+        "appearances": "102",
+        "first_name": "Andr\u00e9",
+        "goals": "0",
+        "last_name": "Onana",
+        "nationality": "Cameroon"
+    },
+    {
+        "appearances": "101",
+        "first_name": "Dick",
+        "goals": "37",
+        "last_name": "Smith",
         "nationality": "England"
     },
     {
@@ -1514,20 +1591,6 @@ players_list = [
         "nationality": "Scotland"
     },
     {
-        "appearances": "100",
-        "first_name": "Dick",
-        "goals": "37",
-        "last_name": "Smith",
-        "nationality": "England"
-    },
-    {
-        "appearances": "100",
-        "first_name": "Eric",
-        "goals": "1",
-        "last_name": "Bailly",
-        "nationality": "Ivory Coast"
-    },
-    {
         "appearances": "99",
         "first_name": "Carlos",
         "goals": "34",
@@ -1536,17 +1599,10 @@ players_list = [
     },
     {
         "appearances": "98",
-        "first_name": "George",
-        "goals": "0",
-        "last_name": "Perrins",
-        "nationality": "England"
-    },
-    {
-        "appearances": "98",
         "first_name": "Billy",
         "goals": "52",
         "last_name": "Whelan",
-        "nationality": "Ireland"
+        "nationality": "Republic of Ireland"
     },
     {
         "appearances": "98",
@@ -1567,13 +1623,6 @@ players_list = [
         "first_name": "Tony",
         "goals": "1",
         "last_name": "Young",
-        "nationality": "England"
-    },
-    {
-        "appearances": "97",
-        "first_name": "Mason",
-        "goals": "26",
-        "last_name": "Greenwood",
         "nationality": "England"
     },
     {
@@ -1598,6 +1647,13 @@ players_list = [
         "nationality": "Belgium"
     },
     {
+        "appearances": "96",
+        "first_name": "Mr.",
+        "goals": "12",
+        "last_name": "Antony",
+        "nationality": "Brazil"
+    },
+    {
         "appearances": "95",
         "first_name": "Billy",
         "goals": "6",
@@ -1617,6 +1673,20 @@ players_list = [
         "goals": "9",
         "last_name": "Gibson",
         "nationality": "England"
+    },
+    {
+        "appearances": "95",
+        "first_name": "Rapha\u00ebl",
+        "goals": "2",
+        "last_name": "Varane",
+        "nationality": "France"
+    },
+    {
+        "appearances": "95",
+        "first_name": "Rasmus",
+        "goals": "26",
+        "last_name": "H\u00f8jlund",
+        "nationality": "Denmark"
     },
     {
         "appearances": "94",
@@ -1647,13 +1717,6 @@ players_list = [
         "nationality": "England"
     },
     {
-        "appearances": "93",
-        "first_name": "Aaron",
-        "goals": "2",
-        "last_name": "Wan-Bissaka",
-        "nationality": "England"
-    },
-    {
         "appearances": "92",
         "first_name": "George",
         "goals": "0",
@@ -1666,6 +1729,13 @@ players_list = [
         "goals": "1",
         "last_name": "Darmian",
         "nationality": "Italy"
+    },
+    {
+        "appearances": "91",
+        "first_name": "Lisandro",
+        "goals": "3",
+        "last_name": "Mart\u00ednez",
+        "nationality": "Argentina"
     },
     {
         "appearances": "90",
@@ -1697,7 +1767,7 @@ players_list = [
     },
     {
         "appearances": "86",
-        "first_name": "James",
+        "first_name": "Jimmy",
         "goals": "2",
         "last_name": "Hodge",
         "nationality": "Scotland"
@@ -1722,6 +1792,13 @@ players_list = [
         "goals": "4",
         "last_name": "Heinze",
         "nationality": "Argentina"
+    },
+    {
+        "appearances": "83",
+        "first_name": "Jadon",
+        "goals": "12",
+        "last_name": "Sancho",
+        "nationality": "England"
     },
     {
         "appearances": "82",
@@ -1749,6 +1826,13 @@ players_list = [
         "first_name": "Mark",
         "goals": "14",
         "last_name": "Pearson",
+        "nationality": "England"
+    },
+    {
+        "appearances": "80",
+        "first_name": "Kobbie",
+        "goals": "7",
+        "last_name": "Mainoo",
         "nationality": "England"
     },
     {
@@ -1795,7 +1879,7 @@ players_list = [
     },
     {
         "appearances": "76",
-        "first_name": "Stan",
+        "first_name": "Stanley",
         "goals": "20",
         "last_name": "Gallimore",
         "nationality": "England"
@@ -1836,6 +1920,13 @@ players_list = [
         "nationality": "England"
     },
     {
+        "appearances": "74",
+        "first_name": "Daniel",
+        "goals": "9",
+        "last_name": "James",
+        "nationality": "Wales"
+    },
+    {
         "appearances": "73",
         "first_name": "Jack",
         "goals": "0",
@@ -1858,10 +1949,10 @@ players_list = [
     },
     {
         "appearances": "72",
-        "first_name": "Bruno",
-        "goals": "36",
-        "last_name": "Fernandes",
-        "nationality": "Portugal"
+        "first_name": "Amad",
+        "goals": "15",
+        "last_name": "Diallo",
+        "nationality": "Ivory Coast"
     },
     {
         "appearances": "71",
@@ -1875,14 +1966,14 @@ players_list = [
         "first_name": "Tommy",
         "goals": "0",
         "last_name": "Breen",
-        "nationality": "Ireland"
+        "nationality": "Ireland\n Republic of Ireland"
     },
     {
         "appearances": "71",
         "first_name": "Joe",
         "goals": "0",
         "last_name": "Carolan",
-        "nationality": "Ireland"
+        "nationality": "Republic of Ireland"
     },
     {
         "appearances": "71",
@@ -1918,13 +2009,6 @@ players_list = [
         "goals": "4",
         "last_name": "Anderson",
         "nationality": "England"
-    },
-    {
-        "appearances": "69",
-        "first_name": "Daniel",
-        "goals": "9",
-        "last_name": "James",
-        "nationality": "Wales"
     },
     {
         "appearances": "68",
@@ -1973,11 +2057,11 @@ players_list = [
         "first_name": "Pat",
         "goals": "0",
         "last_name": "Dunne",
-        "nationality": "Ireland"
+        "nationality": "Republic of Ireland"
     },
     {
         "appearances": "65",
-        "first_name": "Ernie",
+        "first_name": "Ernest",
         "goals": "1",
         "last_name": "Vincent",
         "nationality": "England"
@@ -2053,6 +2137,13 @@ players_list = [
         "nationality": "Scotland"
     },
     {
+        "appearances": "62",
+        "first_name": "Donny",
+        "goals": "2",
+        "last_name": "van de Beek",
+        "nationality": "Netherlands"
+    },
+    {
         "appearances": "61",
         "first_name": "Andrew",
         "goals": "0",
@@ -2113,7 +2204,7 @@ players_list = [
         "first_name": "Darron",
         "goals": "10",
         "last_name": "Gibson",
-        "nationality": "Ireland"
+        "nationality": "Republic of Ireland"
     },
     {
         "appearances": "59",
@@ -2124,10 +2215,24 @@ players_list = [
     },
     {
         "appearances": "59",
-        "first_name": "Tommy",
+        "first_name": "Thomas",
         "goals": "0",
         "last_name": "McNulty",
         "nationality": "England"
+    },
+    {
+        "appearances": "59",
+        "first_name": "Edinson",
+        "goals": "19",
+        "last_name": "Cavani",
+        "nationality": "Uruguay"
+    },
+    {
+        "appearances": "59",
+        "first_name": "Noussair",
+        "goals": "0",
+        "last_name": "Mazraoui",
+        "nationality": "Morocco"
     },
     {
         "appearances": "58",
@@ -2179,11 +2284,25 @@ players_list = [
         "nationality": "Brazil"
     },
     {
+        "appearances": "55",
+        "first_name": "Anthony",
+        "goals": "4",
+        "last_name": "Elanga",
+        "nationality": "Sweden"
+    },
+    {
         "appearances": "54",
         "first_name": "Herbert",
         "goals": "0",
         "last_name": "Burgess",
         "nationality": "England"
+    },
+    {
+        "appearances": "54",
+        "first_name": "Manuel",
+        "goals": "2",
+        "last_name": "Ugarte",
+        "nationality": "Uruguay"
     },
     {
         "appearances": "53",
@@ -2201,7 +2320,7 @@ players_list = [
     },
     {
         "appearances": "53",
-        "first_name": "Sam",
+        "first_name": "Samuel",
         "goals": "12",
         "last_name": "Hopkinson",
         "nationality": "England"
@@ -2218,14 +2337,14 @@ players_list = [
         "first_name": "Harry",
         "goals": "18",
         "last_name": "Baird",
-        "nationality": "Northern Ireland"
+        "nationality": "Ireland"
     },
     {
         "appearances": "53",
         "first_name": "Paddy",
         "goals": "0",
         "last_name": "Roche",
-        "nationality": "Ireland"
+        "nationality": "Republic of Ireland"
     },
     {
         "appearances": "53",
@@ -2240,6 +2359,20 @@ players_list = [
         "goals": "29",
         "last_name": "Ibrahimovi\u0107",
         "nationality": "Sweden"
+    },
+    {
+        "appearances": "53",
+        "first_name": "Joshua",
+        "goals": "7",
+        "last_name": "Zirkzee",
+        "nationality": "Netherlands"
+    },
+    {
+        "appearances": "53",
+        "first_name": "Matthijs",
+        "goals": "2",
+        "last_name": "de Ligt",
+        "nationality": "Netherlands"
     },
     {
         "appearances": "52",
@@ -2260,6 +2393,13 @@ players_list = [
         "first_name": "Michael",
         "goals": "17",
         "last_name": "Owen",
+        "nationality": "England"
+    },
+    {
+        "appearances": "52",
+        "first_name": "Mason",
+        "goals": "4",
+        "last_name": "Mount",
         "nationality": "England"
     },
     {
@@ -2305,6 +2445,13 @@ players_list = [
         "nationality": "England"
     },
     {
+        "appearances": "51",
+        "first_name": "Brandon",
+        "goals": "1",
+        "last_name": "Williams",
+        "nationality": "England"
+    },
+    {
         "appearances": "50",
         "first_name": "John",
         "goals": "6",
@@ -2324,6 +2471,13 @@ players_list = [
         "goals": "1",
         "last_name": "Robertson",
         "nationality": "Scotland"
+    },
+    {
+        "appearances": "50",
+        "first_name": "Alex",
+        "goals": "1",
+        "last_name": "Telles",
+        "nationality": "Brazil"
     },
     {
         "appearances": "49",
@@ -2390,14 +2544,14 @@ players_list = [
     },
     {
         "appearances": "47",
-        "first_name": "Brandon",
-        "goals": "1",
-        "last_name": "Williams",
-        "nationality": "England"
+        "first_name": "Tyrell",
+        "goals": "0",
+        "last_name": "Malacia",
+        "nationality": "Netherlands"
     },
     {
         "appearances": "46",
-        "first_name": "Thomas",
+        "first_name": "Tommy",
         "goals": "15",
         "last_name": "Leigh",
         "nationality": "England"
@@ -2456,7 +2610,7 @@ players_list = [
         "first_name": "Will",
         "goals": "2",
         "last_name": "Davidson",
-        "nationality": "unknown"
+        "nationality": "Scotland"
     },
     {
         "appearances": "44",
@@ -2498,7 +2652,14 @@ players_list = [
         "first_name": "Mick",
         "goals": "2",
         "last_name": "Martin",
-        "nationality": "Ireland"
+        "nationality": "Republic of Ireland"
+    },
+    {
+        "appearances": "43",
+        "first_name": "Leny",
+        "goals": "1",
+        "last_name": "Yoro",
+        "nationality": "France"
     },
     {
         "appearances": "42",
@@ -2610,7 +2771,7 @@ players_list = [
         "first_name": "Billy",
         "goals": "6",
         "last_name": "Hood",
-        "nationality": "unknown"
+        "nationality": "England"
     },
     {
         "appearances": "38",
@@ -2676,6 +2837,13 @@ players_list = [
         "nationality": "England"
     },
     {
+        "appearances": "37",
+        "first_name": "Axel",
+        "goals": "0",
+        "last_name": "Tuanzebe",
+        "nationality": "DR Congo"
+    },
+    {
         "appearances": "36",
         "first_name": "Tommy",
         "goals": "8",
@@ -2705,7 +2873,7 @@ players_list = [
     },
     {
         "appearances": "36",
-        "first_name": "William",
+        "first_name": "Bill",
         "goals": "17",
         "last_name": "Henderson",
         "nationality": "Scotland"
@@ -2729,7 +2897,7 @@ players_list = [
         "first_name": "Liam",
         "goals": "2",
         "last_name": "O'Brien",
-        "nationality": "Ireland"
+        "nationality": "Republic of Ireland"
     },
     {
         "appearances": "36",
@@ -2747,7 +2915,7 @@ players_list = [
     },
     {
         "appearances": "35",
-        "first_name": "Pat",
+        "first_name": "Patrick",
         "goals": "2",
         "last_name": "O'Connell",
         "nationality": "Ireland"
@@ -2786,13 +2954,6 @@ players_list = [
         "goals": "2",
         "last_name": "Schweinsteiger",
         "nationality": "Germany"
-    },
-    {
-        "appearances": "35",
-        "first_name": "Diogo",
-        "goals": "1",
-        "last_name": "Dalot",
-        "nationality": "Portugal"
     },
     {
         "appearances": "34",
@@ -2886,13 +3047,6 @@ players_list = [
         "nationality": "England"
     },
     {
-        "appearances": "33",
-        "first_name": "Axel",
-        "goals": "0",
-        "last_name": "Tuanzebe",
-        "nationality": "England"
-    },
-    {
         "appearances": "32",
         "first_name": "Jack",
         "goals": "8",
@@ -2922,17 +3076,10 @@ players_list = [
     },
     {
         "appearances": "31",
-        "first_name": "Donny",
-        "goals": "1",
-        "last_name": "van de Beek",
+        "first_name": "Wout",
+        "goals": "2",
+        "last_name": "Weghorst",
         "nationality": "Netherlands"
-    },
-    {
-        "appearances": "31",
-        "first_name": "Edinson",
-        "goals": "10",
-        "last_name": "Cavani",
-        "nationality": "Uruguay"
     },
     {
         "appearances": "30",
@@ -3012,6 +3159,20 @@ players_list = [
         "nationality": "Netherlands"
     },
     {
+        "appearances": "30",
+        "first_name": "Sofyan",
+        "goals": "0",
+        "last_name": "Amrabat",
+        "nationality": "Morocco"
+    },
+    {
+        "appearances": "30",
+        "first_name": "Patrick",
+        "goals": "0",
+        "last_name": "Dorgu",
+        "nationality": "Denmark"
+    },
+    {
         "appearances": "29",
         "first_name": "Arthur",
         "goals": "5",
@@ -3023,7 +3184,7 @@ players_list = [
         "first_name": "Walter",
         "goals": "2",
         "last_name": "McMillen",
-        "nationality": "Northern Ireland"
+        "nationality": "Ireland"
     },
     {
         "appearances": "29",
@@ -3040,6 +3201,13 @@ players_list = [
         "nationality": "Colombia"
     },
     {
+        "appearances": "29",
+        "first_name": "Dean",
+        "goals": "0",
+        "last_name": "Henderson",
+        "nationality": "England"
+    },
+    {
         "appearances": "28",
         "first_name": "Herbert",
         "goals": "0",
@@ -3050,7 +3218,7 @@ players_list = [
         "appearances": "28",
         "first_name": "John",
         "goals": "0",
-        "last_name": "Sutcliffe",
+        "last_name": "Willie Sutcliffe",
         "nationality": "England"
     },
     {
@@ -3222,6 +3390,13 @@ players_list = [
         "nationality": "England"
     },
     {
+        "appearances": "25",
+        "first_name": "Facundo",
+        "goals": "0",
+        "last_name": "Pellistri",
+        "nationality": "Uruguay"
+    },
+    {
         "appearances": "24",
         "first_name": "John",
         "goals": "0",
@@ -3345,14 +3520,7 @@ players_list = [
         "first_name": "Liam",
         "goals": "2",
         "last_name": "Miller",
-        "nationality": "Ireland"
-    },
-    {
-        "appearances": "22",
-        "first_name": "Dean",
-        "goals": "0",
-        "last_name": "Henderson",
-        "nationality": "England"
+        "nationality": "Republic of Ireland"
     },
     {
         "appearances": "21",
@@ -3423,13 +3591,6 @@ players_list = [
         "goals": "4",
         "last_name": "Wilson",
         "nationality": "England"
-    },
-    {
-        "appearances": "20",
-        "first_name": "Alex",
-        "goals": "0",
-        "last_name": "Telles",
-        "nationality": "Brazil"
     },
     {
         "appearances": "19",
@@ -3516,6 +3677,13 @@ players_list = [
         "nationality": "England"
     },
     {
+        "appearances": "18",
+        "first_name": "Marcel",
+        "goals": "3",
+        "last_name": "Sabitzer",
+        "nationality": "Austria"
+    },
+    {
         "appearances": "17",
         "first_name": "Joe",
         "goals": "0",
@@ -3531,7 +3699,7 @@ players_list = [
     },
     {
         "appearances": "17",
-        "first_name": "William",
+        "first_name": "Stockport",
         "goals": "0",
         "last_name": "Smith",
         "nationality": "England"
@@ -3577,6 +3745,13 @@ players_list = [
         "goals": "1",
         "last_name": "Eagles",
         "nationality": "England"
+    },
+    {
+        "appearances": "17",
+        "first_name": "Altay",
+        "goals": "0",
+        "last_name": "Bay\u0131nd\u0131r",
+        "nationality": "Turkey"
     },
     {
         "appearances": "16",
@@ -3702,7 +3877,7 @@ players_list = [
         "first_name": "Sonny",
         "goals": "0",
         "last_name": "Feehan",
-        "nationality": "Ireland"
+        "nationality": "Republic of Ireland"
     },
     {
         "appearances": "14",
@@ -3845,6 +4020,20 @@ players_list = [
         "nationality": "Sweden"
     },
     {
+        "appearances": "13",
+        "first_name": "Hannibal",
+        "goals": "1",
+        "last_name": "Mejbri",
+        "nationality": "Tunisia"
+    },
+    {
+        "appearances": "13",
+        "first_name": "Toby",
+        "goals": "0",
+        "last_name": "Collyer",
+        "nationality": "England"
+    },
+    {
         "appearances": "12",
         "first_name": "William",
         "goals": "0",
@@ -3922,6 +4111,13 @@ players_list = [
         "nationality": "England"
     },
     {
+        "appearances": "12",
+        "first_name": "Sergio",
+        "goals": "0",
+        "last_name": "Reguil\u00f3n",
+        "nationality": "Spain"
+    },
+    {
         "appearances": "11",
         "first_name": "Samuel",
         "goals": "0",
@@ -3944,7 +4140,7 @@ players_list = [
     },
     {
         "appearances": "11",
-        "first_name": "John",
+        "first_name": "Jack",
         "goals": "3",
         "last_name": "Grundy",
         "nationality": "England"
@@ -3972,7 +4168,7 @@ players_list = [
     },
     {
         "appearances": "11",
-        "first_name": "Charles",
+        "first_name": "Charlie",
         "goals": "0",
         "last_name": "Hannaford",
         "nationality": "England"
@@ -4011,6 +4207,20 @@ players_list = [
         "goals": "0",
         "last_name": "Varela",
         "nationality": "Uruguay"
+    },
+    {
+        "appearances": "11",
+        "first_name": "Bryan",
+        "goals": "5",
+        "last_name": "Mbeumo",
+        "nationality": "Cameroon"
+    },
+    {
+        "appearances": "11",
+        "first_name": "Benjamin",
+        "goals": "2",
+        "last_name": "\u0160e\u0161ko",
+        "nationality": "Slovenia"
     },
     {
         "appearances": "10",
@@ -4139,6 +4349,20 @@ players_list = [
         "nationality": "England"
     },
     {
+        "appearances": "10",
+        "first_name": "Willy",
+        "goals": "0",
+        "last_name": "Kambwala",
+        "nationality": "DR Congo"
+    },
+    {
+        "appearances": "10",
+        "first_name": "Matheus",
+        "goals": "1",
+        "last_name": "Cunha",
+        "nationality": "Brazil"
+    },
+    {
         "appearances": "9",
         "first_name": "Harry",
         "goals": "0",
@@ -4213,13 +4437,20 @@ players_list = [
         "first_name": "Don",
         "goals": "1",
         "last_name": "Givens",
-        "nationality": "Ireland"
+        "nationality": "Republic of Ireland"
     },
     {
         "appearances": "9",
         "first_name": "Nick",
         "goals": "1",
         "last_name": "Powell",
+        "nationality": "England"
+    },
+    {
+        "appearances": "9",
+        "first_name": "Ayden",
+        "goals": "0",
+        "last_name": "Heaven",
         "nationality": "England"
     },
     {
@@ -4342,6 +4573,13 @@ players_list = [
         "nationality": "Senegal"
     },
     {
+        "appearances": "8",
+        "first_name": "Chido",
+        "goals": "0",
+        "last_name": "Obi",
+        "nationality": "Denmark"
+    },
+    {
         "appearances": "7",
         "first_name": "James",
         "goals": "0",
@@ -4371,7 +4609,7 @@ players_list = [
     },
     {
         "appearances": "7",
-        "first_name": "G",
+        "first_name": "George",
         "goals": "1",
         "last_name": "Foley",
         "nationality": "England"
@@ -4486,13 +4724,27 @@ players_list = [
         "first_name": "Mr.",
         "goals": "2",
         "last_name": "Beb\u00e9",
-        "nationality": "Portugal"
+        "nationality": "Cape Verde"
     },
     {
         "appearances": "7",
         "first_name": "James",
         "goals": "0",
         "last_name": "Garner",
+        "nationality": "England"
+    },
+    {
+        "appearances": "7",
+        "first_name": "Omari",
+        "goals": "0",
+        "last_name": "Forson",
+        "nationality": "England"
+    },
+    {
+        "appearances": "7",
+        "first_name": "Harry",
+        "goals": "0",
+        "last_name": "Amass",
         "nationality": "England"
     },
     {
@@ -4707,10 +4959,10 @@ players_list = [
     },
     {
         "appearances": "5",
-        "first_name": "Amad",
-        "goals": "1",
-        "last_name": "Diallo",
-        "nationality": "Ivory Coast"
+        "first_name": "Shola",
+        "goals": "0",
+        "last_name": "Shoretire",
+        "nationality": "England"
     },
     {
         "appearances": "4",
@@ -4721,10 +4973,10 @@ players_list = [
     },
     {
         "appearances": "4",
-        "first_name": "J",
+        "first_name": "John",
         "goals": "0",
         "last_name": "Slater",
-        "nationality": "unknown"
+        "nationality": "England"
     },
     {
         "appearances": "4",
@@ -4843,7 +5095,7 @@ players_list = [
         "first_name": "David",
         "goals": "3",
         "last_name": "Byrne",
-        "nationality": "Ireland"
+        "nationality": "Republic of Ireland"
     },
     {
         "appearances": "4",
@@ -4910,17 +5162,17 @@ players_list = [
     },
     {
         "appearances": "4",
-        "first_name": "Paul",
-        "goals": "0",
-        "last_name": "Bielby",
-        "nationality": "England"
-    },
-    {
-        "appearances": "4",
         "first_name": "George",
         "goals": "0",
         "last_name": "Buchan",
         "nationality": "Scotland"
+    },
+    {
+        "appearances": "4",
+        "first_name": "Paul",
+        "goals": "0",
+        "last_name": "Bielby",
+        "nationality": "England"
     },
     {
         "appearances": "4",
@@ -4935,6 +5187,13 @@ players_list = [
         "goals": "0",
         "last_name": "Wood",
         "nationality": "England"
+    },
+    {
+        "appearances": "4",
+        "first_name": "Deiniol",
+        "goals": "1",
+        "last_name": "Graham",
+        "nationality": "Wales"
     },
     {
         "appearances": "4",
@@ -4991,6 +5250,20 @@ players_list = [
         "goals": "0",
         "last_name": "Zaha",
         "nationality": "England\n Ivory Coast2"
+    },
+    {
+        "appearances": "4",
+        "first_name": "Ethan",
+        "goals": "0",
+        "last_name": "Wheatley",
+        "nationality": "England"
+    },
+    {
+        "appearances": "4",
+        "first_name": "Senne",
+        "goals": "0",
+        "last_name": "Lammens",
+        "nationality": "Belgium"
     },
     {
         "appearances": "3",
@@ -5099,7 +5372,7 @@ players_list = [
     },
     {
         "appearances": "3",
-        "first_name": "Tom",
+        "first_name": "Tommy",
         "goals": "0",
         "last_name": "Robertson",
         "nationality": "Scotland"
@@ -5246,13 +5519,6 @@ players_list = [
     },
     {
         "appearances": "3",
-        "first_name": "Deiniol",
-        "goals": "1",
-        "last_name": "Graham",
-        "nationality": "Wales"
-    },
-    {
-        "appearances": "3",
         "first_name": "David",
         "goals": "0",
         "last_name": "Healy",
@@ -5263,7 +5529,7 @@ players_list = [
         "first_name": "Paul",
         "goals": "0",
         "last_name": "Rachubka",
-        "nationality": "United States"
+        "nationality": "England"
     },
     {
         "appearances": "3",
@@ -5312,14 +5578,14 @@ players_list = [
         "first_name": "Ravel",
         "goals": "0",
         "last_name": "Morrison",
-        "nationality": "England\n Jamaica2"
+        "nationality": "Jamaica"
     },
     {
         "appearances": "3",
         "first_name": "Will",
         "goals": "0",
         "last_name": "Keane",
-        "nationality": "England"
+        "nationality": "Republic of Ireland"
     },
     {
         "appearances": "3",
@@ -5327,6 +5593,20 @@ players_list = [
         "goals": "0",
         "last_name": "Castro Pereira",
         "nationality": "Portugal"
+    },
+    {
+        "appearances": "3",
+        "first_name": "Tom",
+        "goals": "0",
+        "last_name": "Heaton",
+        "nationality": "England"
+    },
+    {
+        "appearances": "3",
+        "first_name": "Tyler",
+        "goals": "0",
+        "last_name": "Fredricson",
+        "nationality": "England"
     },
     {
         "appearances": "2",
@@ -5337,7 +5617,7 @@ players_list = [
     },
     {
         "appearances": "2",
-        "first_name": "T",
+        "first_name": "Thomas",
         "goals": "1",
         "last_name": "Craig",
         "nationality": "unknown"
@@ -5358,10 +5638,10 @@ players_list = [
     },
     {
         "appearances": "2",
-        "first_name": "D",
+        "first_name": "S",
         "goals": "0",
         "last_name": "Prince",
-        "nationality": "unknown"
+        "nationality": "England"
     },
     {
         "appearances": "2",
@@ -5386,14 +5666,14 @@ players_list = [
     },
     {
         "appearances": "2",
-        "first_name": "John",
+        "first_name": "Owen",
         "goals": "0",
         "last_name": "Jones",
         "nationality": "Wales"
     },
     {
         "appearances": "2",
-        "first_name": "Bob",
+        "first_name": "Robert",
         "goals": "0",
         "last_name": "Turner",
         "nationality": "England"
@@ -5491,7 +5771,7 @@ players_list = [
     },
     {
         "appearances": "2",
-        "first_name": "Bob",
+        "first_name": "Robert",
         "goals": "0",
         "last_name": "Roberts",
         "nationality": "England"
@@ -5589,14 +5869,14 @@ players_list = [
     },
     {
         "appearances": "2",
-        "first_name": "Eddie",
+        "first_name": "Ed",
         "goals": "0",
         "last_name": "McIlvenny",
         "nationality": "United States"
     },
     {
         "appearances": "2",
-        "first_name": "Johnny",
+        "first_name": "John",
         "goals": "0",
         "last_name": "Walton",
         "nationality": "England"
@@ -5624,16 +5904,16 @@ players_list = [
     },
     {
         "appearances": "2",
-        "first_name": "Peter",
-        "goals": "1",
-        "last_name": "Coyne",
+        "first_name": "Tony",
+        "goals": "0",
+        "last_name": "Grimshaw",
         "nationality": "England"
     },
     {
         "appearances": "2",
-        "first_name": "Tony",
-        "goals": "0",
-        "last_name": "Grimshaw",
+        "first_name": "Peter",
+        "goals": "1",
+        "last_name": "Coyne",
         "nationality": "England"
     },
     {
@@ -5655,7 +5935,7 @@ players_list = [
         "first_name": "Derek",
         "goals": "0",
         "last_name": "Brazil",
-        "nationality": "Ireland"
+        "nationality": "Republic of Ireland"
     },
     {
         "appearances": "2",
@@ -5778,9 +6058,23 @@ players_list = [
     },
     {
         "appearances": "2",
-        "first_name": "Shola",
+        "first_name": "Teden",
         "goals": "0",
-        "last_name": "Shoretire",
+        "last_name": "Mengi",
+        "nationality": "England"
+    },
+    {
+        "appearances": "2",
+        "first_name": "Martin",
+        "goals": "0",
+        "last_name": "D\u00fabravka",
+        "nationality": "Slovakia"
+    },
+    {
+        "appearances": "2",
+        "first_name": "Dan",
+        "goals": "0",
+        "last_name": "Gore",
         "nationality": "England"
     },
     {
@@ -5799,10 +6093,10 @@ players_list = [
     },
     {
         "appearances": "1",
-        "first_name": "L",
+        "first_name": "Heber",
         "goals": "0",
         "last_name": "Davies",
-        "nationality": "unknown"
+        "nationality": "Wales"
     },
     {
         "appearances": "1",
@@ -5820,10 +6114,10 @@ players_list = [
     },
     {
         "appearances": "1",
-        "first_name": "E",
+        "first_name": "Edward",
         "goals": "0",
-        "last_name": "Howells",
-        "nationality": "unknown"
+        "last_name": "Howles",
+        "nationality": "England"
     },
     {
         "appearances": "1",
@@ -5855,10 +6149,10 @@ players_list = [
     },
     {
         "appearances": "1",
-        "first_name": "Mr.",
+        "first_name": "Edgar",
         "goals": "0",
         "last_name": "Wilson",
-        "nationality": "unknown"
+        "nationality": "England"
     },
     {
         "appearances": "1",
@@ -5890,14 +6184,14 @@ players_list = [
     },
     {
         "appearances": "1",
-        "first_name": "Mr.",
+        "first_name": "John",
         "goals": "0",
         "last_name": "Donnelly",
-        "nationality": "unknown"
+        "nationality": "England"
     },
     {
         "appearances": "1",
-        "first_name": "G",
+        "first_name": "Charles",
         "goals": "0",
         "last_name": "Felton",
         "nationality": "England"
@@ -5911,31 +6205,31 @@ players_list = [
     },
     {
         "appearances": "1",
-        "first_name": "T",
+        "first_name": "Thomas",
         "goals": "0",
         "last_name": "O'Shaughnessy",
-        "nationality": "unknown"
+        "nationality": "Wales"
     },
     {
         "appearances": "1",
-        "first_name": "Mr.",
+        "first_name": "William",
         "goals": "0",
         "last_name": "Rattigan",
         "nationality": "England"
     },
     {
         "appearances": "1",
-        "first_name": "Mr.",
+        "first_name": "William",
         "goals": "0",
         "last_name": "Turner",
-        "nationality": "unknown"
+        "nationality": "England"
     },
     {
         "appearances": "1",
-        "first_name": "J",
+        "first_name": "Joseph",
         "goals": "0",
         "last_name": "Denman",
-        "nationality": "unknown"
+        "nationality": "England"
     },
     {
         "appearances": "1",
@@ -5988,7 +6282,7 @@ players_list = [
     },
     {
         "appearances": "1",
-        "first_name": "W",
+        "first_name": "William",
         "goals": "0",
         "last_name": "Owen",
         "nationality": "Wales"
@@ -6163,7 +6457,7 @@ players_list = [
     },
     {
         "appearances": "1",
-        "first_name": "Sidney",
+        "first_name": "Syd",
         "goals": "0",
         "last_name": "Tyler",
         "nationality": "England"
@@ -6187,7 +6481,7 @@ players_list = [
         "first_name": "Billy",
         "goals": "0",
         "last_name": "Behan",
-        "nationality": "Ireland"
+        "nationality": "Republic of Ireland"
     },
     {
         "appearances": "1",
@@ -6229,14 +6523,14 @@ players_list = [
         "first_name": "Noel",
         "goals": "0",
         "last_name": "McFarlane",
-        "nationality": "Ireland"
+        "nationality": "Republic of Ireland"
     },
     {
         "appearances": "1",
         "first_name": "Paddy",
         "goals": "0",
         "last_name": "Kennedy",
-        "nationality": "Ireland"
+        "nationality": "Republic of Ireland"
     },
     {
         "appearances": "1",
@@ -6313,7 +6607,7 @@ players_list = [
         "first_name": "Anto",
         "goals": "0",
         "last_name": "Whelan",
-        "nationality": "Ireland"
+        "nationality": "Republic of Ireland"
     },
     {
         "appearances": "1",
@@ -6453,7 +6747,7 @@ players_list = [
         "first_name": "Robbie",
         "goals": "0",
         "last_name": "Brady",
-        "nationality": "Ireland"
+        "nationality": "Republic of Ireland"
     },
     {
         "appearances": "1",
@@ -6467,7 +6761,7 @@ players_list = [
         "first_name": "Saidy",
         "goals": "0",
         "last_name": "Janko",
-        "nationality": "Switzerland"
+        "nationality": "Gambia"
     },
     {
         "appearances": "1",
@@ -6516,7 +6810,7 @@ players_list = [
         "first_name": "Di'Shon",
         "goals": "0",
         "last_name": "Bernard",
-        "nationality": "England"
+        "nationality": "Jamaica"
     },
     {
         "appearances": "1",
@@ -6548,52 +6842,178 @@ players_list = [
     },
     {
         "appearances": "1",
-        "first_name": "Teden",
+        "first_name": "Will",
         "goals": "0",
-        "last_name": "Mengi",
+        "last_name": "Fish",
         "nationality": "England"
     },
     {
-        "appearances": "72",
-        "first_name": "Millie",
-        "goals": "5",
-        "last_name": "Turner",
+        "appearances": "1",
+        "first_name": "Zidane",
+        "goals": "0",
+        "last_name": "Iqbal",
+        "nationality": "Iraq"
+    },
+    {
+        "appearances": "1",
+        "first_name": "Charlie",
+        "goals": "0",
+        "last_name": "Savage",
+        "nationality": "Wales"
+    },
+    {
+        "appearances": "1",
+        "first_name": "Charlie",
+        "goals": "0",
+        "last_name": "McNeill",
         "nationality": "England"
     },
     {
-        "appearances": "70",
+        "appearances": "201",
         "first_name": "Ella",
-        "goals": "29",
+        "goals": "63",
         "last_name": "Toone",
         "nationality": "England"
     },
     {
-        "appearances": "66",
+        "appearances": "178",
+        "first_name": "Millie",
+        "goals": "11",
+        "last_name": "Turner",
+        "nationality": "England"
+    },
+    {
+        "appearances": "164",
+        "first_name": "Leah",
+        "goals": "44",
+        "last_name": "Galton",
+        "nationality": "England"
+    },
+    {
+        "appearances": "161",
         "first_name": "Katie",
-        "goals": "20",
+        "goals": "32",
         "last_name": "Zelem",
         "nationality": "England"
     },
     {
-        "appearances": "64",
+        "appearances": "125",
+        "first_name": "Mary",
+        "goals": "0",
+        "last_name": "Earps",
+        "nationality": "England"
+    },
+    {
+        "appearances": "110",
+        "first_name": "Hayley",
+        "goals": "11",
+        "last_name": "Ladd",
+        "nationality": "Wales"
+    },
+    {
+        "appearances": "108",
+        "first_name": "Maya",
+        "goals": "11",
+        "last_name": "Le Tissier",
+        "nationality": "England"
+    },
+    {
+        "appearances": "92",
+        "first_name": "Hannah",
+        "goals": "3",
+        "last_name": "Blundell",
+        "nationality": "England"
+    },
+    {
+        "appearances": "90",
+        "first_name": "Kirsty",
+        "goals": "16",
+        "last_name": "Hanson",
+        "nationality": "Scotland"
+    },
+    {
+        "appearances": "85",
+        "first_name": "Rachel",
+        "goals": "21",
+        "last_name": "Williams",
+        "nationality": "England"
+    },
+    {
+        "appearances": "77",
+        "first_name": "Ona",
+        "goals": "3",
+        "last_name": "Batlle",
+        "nationality": "Spain"
+    },
+    {
+        "appearances": "68",
+        "first_name": "Melvine",
+        "goals": "18",
+        "last_name": "Malard",
+        "nationality": "France"
+    },
+    {
+        "appearances": "67",
         "first_name": "Amy",
         "goals": "4",
         "last_name": "Turner",
         "nationality": "England"
     },
     {
-        "appearances": "63",
+        "appearances": "66",
+        "first_name": "Jessica",
+        "goals": "26",
+        "last_name": "Sigsworth",
+        "nationality": "England"
+    },
+    {
+        "appearances": "60",
+        "first_name": "Jackie",
+        "goals": "0",
+        "last_name": "Groenen",
+        "nationality": "Netherlands"
+    },
+    {
+        "appearances": "60",
+        "first_name": "Luc\u00eda",
+        "goals": "16",
+        "last_name": "Garc\u00eda",
+        "nationality": "Spain"
+    },
+    {
+        "appearances": "59",
+        "first_name": "Alessia",
+        "goals": "27",
+        "last_name": "Russo",
+        "nationality": "England"
+    },
+    {
+        "appearances": "58",
         "first_name": "Kirsty",
-        "goals": "14",
-        "last_name": "Hanson",
+        "goals": "1",
+        "last_name": "Smith",
         "nationality": "Scotland"
     },
     {
-        "appearances": "62",
-        "first_name": "Jessica",
-        "goals": "24",
-        "last_name": "Sigsworth",
+        "appearances": "58",
+        "first_name": "Hinata",
+        "goals": "3",
+        "last_name": "Miyazawa",
+        "nationality": "Japan"
+    },
+    {
+        "appearances": "57",
+        "first_name": "Nikita",
+        "goals": "25",
+        "last_name": "Parris",
         "nationality": "England"
+    },
+    {
+        "appearances": "57",
+        "first_name": "Jayde",
+        "goals": "1",
+        "last_name": "Riviere",
+        "nationality": "Canada"
     },
     {
         "appearances": "56",
@@ -6603,46 +7023,95 @@ players_list = [
         "nationality": "England"
     },
     {
-        "appearances": "53",
-        "first_name": "Leah",
-        "goals": "14",
-        "last_name": "Galton",
-        "nationality": "England"
+        "appearances": "55",
+        "first_name": "Aoife",
+        "goals": "1",
+        "last_name": "Mannion",
+        "nationality": "Ireland"
     },
     {
-        "appearances": "48",
-        "first_name": "Kirsty",
-        "goals": "1",
-        "last_name": "Smith",
+        "appearances": "53",
+        "first_name": "Martha",
+        "goals": "8",
+        "last_name": "Thomas",
         "nationality": "Scotland"
     },
     {
-        "appearances": "44",
+        "appearances": "52",
+        "first_name": "Lisa",
+        "goals": "6",
+        "last_name": "Naalsund",
+        "nationality": "Norway"
+    },
+    {
+        "appearances": "49",
         "first_name": "Martha",
         "goals": "1",
         "last_name": "Harris",
         "nationality": "England"
     },
     {
+        "appearances": "47",
+        "first_name": "Phallon",
+        "goals": "0",
+        "last_name": "Tullis-Joyce",
+        "nationality": "United States"
+    },
+    {
+        "appearances": "45",
+        "first_name": "Maria",
+        "goals": "1",
+        "last_name": "Thorisdottir",
+        "nationality": "Norway"
+    },
+    {
+        "appearances": "44",
+        "first_name": "Vilde",
+        "goals": "8",
+        "last_name": "B\u00f8e Risa",
+        "nationality": "Norway"
+    },
+    {
         "appearances": "42",
-        "first_name": "Hayley",
+        "first_name": "Dominique",
         "goals": "2",
-        "last_name": "Ladd",
-        "nationality": "Wales"
+        "last_name": "Janssen",
+        "nationality": "Netherlands"
     },
     {
         "appearances": "40",
-        "first_name": "Mary",
-        "goals": "0",
-        "last_name": "Earps",
+        "first_name": "Lucy",
+        "goals": "3",
+        "last_name": "Staniforth",
         "nationality": "England"
     },
     {
+        "appearances": "40",
+        "first_name": "Elisabeth",
+        "goals": "21",
+        "last_name": "Terland",
+        "nationality": "Norway"
+    },
+    {
+        "appearances": "39",
+        "first_name": "Mr.",
+        "goals": "3",
+        "last_name": "Geyse",
+        "nationality": "Brazil"
+    },
+    {
         "appearances": "38",
-        "first_name": "Jackie",
-        "goals": "0",
-        "last_name": "Groenen",
-        "nationality": "Netherlands"
+        "first_name": "Gabby",
+        "goals": "1",
+        "last_name": "George",
+        "nationality": "England"
+    },
+    {
+        "appearances": "37",
+        "first_name": "Celin",
+        "goals": "7",
+        "last_name": "Bizet D\u00f8nnum",
+        "nationality": "Norway"
     },
     {
         "appearances": "34",
@@ -6652,17 +7121,31 @@ players_list = [
         "nationality": "Scotland"
     },
     {
-        "appearances": "30",
+        "appearances": "34",
         "first_name": "Jane",
-        "goals": "6",
+        "goals": "7",
         "last_name": "Ross",
         "nationality": "Scotland"
+    },
+    {
+        "appearances": "34",
+        "first_name": "Anna",
+        "goals": "1",
+        "last_name": "Sandberg",
+        "nationality": "Sweden"
     },
     {
         "appearances": "29",
         "first_name": "Mollie",
         "goals": "16",
         "last_name": "Green",
+        "nationality": "England"
+    },
+    {
+        "appearances": "28",
+        "first_name": "Grace",
+        "goals": "9",
+        "last_name": "Clinton",
         "nationality": "England"
     },
     {
@@ -6694,11 +7177,32 @@ players_list = [
         "nationality": "England"
     },
     {
+        "appearances": "21",
+        "first_name": "Ivana",
+        "goals": "2",
+        "last_name": "Fuso",
+        "nationality": "Brazil"
+    },
+    {
         "appearances": "19",
-        "first_name": "Ona",
+        "first_name": "Gemma",
         "goals": "0",
-        "last_name": "Batlle",
-        "nationality": "Spain"
+        "last_name": "Evans",
+        "nationality": "Wales"
+    },
+    {
+        "appearances": "19",
+        "first_name": "Simi",
+        "goals": "0",
+        "last_name": "Awujo",
+        "nationality": "Canada"
+    },
+    {
+        "appearances": "17",
+        "first_name": "Christen",
+        "goals": "4",
+        "last_name": "Press",
+        "nationality": "United States"
     },
     {
         "appearances": "15",
@@ -6708,18 +7212,11 @@ players_list = [
         "nationality": "England"
     },
     {
-        "appearances": "14",
-        "first_name": "Christen",
-        "goals": "3",
-        "last_name": "Press",
-        "nationality": "United States"
-    },
-    {
         "appearances": "13",
-        "first_name": "Lucy",
-        "goals": "1",
-        "last_name": "Staniforth",
-        "nationality": "England"
+        "first_name": "Julia",
+        "goals": "0",
+        "last_name": "Zigiotti Olme",
+        "nationality": "Sweden"
     },
     {
         "appearances": "11",
@@ -6736,6 +7233,62 @@ players_list = [
         "nationality": "Sweden"
     },
     {
+        "appearances": "10",
+        "first_name": "Carrie",
+        "goals": "0",
+        "last_name": "Jones",
+        "nationality": "Wales"
+    },
+    {
+        "appearances": "10",
+        "first_name": "Sophie",
+        "goals": "0",
+        "last_name": "Baggaley",
+        "nationality": "England"
+    },
+    {
+        "appearances": "10",
+        "first_name": "Jess",
+        "goals": "4",
+        "last_name": "Park",
+        "nationality": "England"
+    },
+    {
+        "appearances": "9",
+        "first_name": "Jade",
+        "goals": "2",
+        "last_name": "Moore",
+        "nationality": "England"
+    },
+    {
+        "appearances": "9",
+        "first_name": "Adriana",
+        "goals": "3",
+        "last_name": "Leon",
+        "nationality": "Canada"
+    },
+    {
+        "appearances": "9",
+        "first_name": "Fridolina",
+        "goals": "1",
+        "last_name": "Rolf\u00f6",
+        "nationality": "Sweden"
+    },
+    {
+        "appearances": "7",
+        "first_name": "Signe",
+        "goals": "0",
+        "last_name": "Bruun",
+        "nationality": "Denmark"
+    },
+    {
+        "appearances": "7",
+        "first_name": "Irene",
+        "goals": "0",
+        "last_name": "Guerrero",
+        "nationality": "Spain"
+    },
+    {
         "appearances": "6",
         "first_name": "Emily",
         "goals": "0",
@@ -6744,24 +7297,17 @@ players_list = [
     },
     {
         "appearances": "6",
-        "first_name": "Ivana",
+        "first_name": "Diane",
         "goals": "0",
-        "last_name": "Fuso",
-        "nationality": "Brazil"
-    },
-    {
-        "appearances": "6",
-        "first_name": "Maria",
-        "goals": "0",
-        "last_name": "Thorisdottir",
-        "nationality": "Norway"
+        "last_name": "Caldwell",
+        "nationality": "Ireland"
     },
     {
         "appearances": "5",
-        "first_name": "Alessia",
-        "goals": "3",
-        "last_name": "Russo",
-        "nationality": "England"
+        "first_name": "A\u00efssatou",
+        "goals": "0",
+        "last_name": "Tounkara",
+        "nationality": "France"
     },
     {
         "appearances": "3",
@@ -6769,6 +7315,13 @@ players_list = [
         "goals": "0",
         "last_name": "Hartley",
         "nationality": "England"
+    },
+    {
+        "appearances": "3",
+        "first_name": "Emma",
+        "goals": "1",
+        "last_name": "Watson",
+        "nationality": "Scotland"
     },
     {
         "appearances": "2",
@@ -6779,10 +7332,17 @@ players_list = [
     },
     {
         "appearances": "2",
-        "first_name": "Carrie",
+        "first_name": "Keira",
         "goals": "0",
-        "last_name": "Jones",
-        "nationality": "Wales"
+        "last_name": "Barry",
+        "nationality": "England"
+    },
+    {
+        "appearances": "2",
+        "first_name": "Estelle",
+        "goals": "0",
+        "last_name": "Cascarino",
+        "nationality": "France"
     },
     {
         "appearances": "1",
@@ -6804,5 +7364,47 @@ players_list = [
         "goals": "0",
         "last_name": "Bourne",
         "nationality": "England"
+    },
+    {
+        "appearances": "1",
+        "first_name": "Karna",
+        "goals": "0",
+        "last_name": "Solskj\u00e6r",
+        "nationality": "Norway"
+    },
+    {
+        "appearances": "1",
+        "first_name": "Alyssa",
+        "goals": "0",
+        "last_name": "Aherne",
+        "nationality": "England"
+    },
+    {
+        "appearances": "1",
+        "first_name": "Evie",
+        "goals": "0",
+        "last_name": "Rabjohn",
+        "nationality": "England"
+    },
+    {
+        "appearances": "1",
+        "first_name": "Jess",
+        "goals": "0",
+        "last_name": "Simpson",
+        "nationality": "England"
+    },
+    {
+        "appearances": "1",
+        "first_name": "Safia",
+        "goals": "0",
+        "last_name": "Middleton-Patel",
+        "nationality": "Wales"
+    },
+    {
+        "appearances": "1",
+        "first_name": "Mared",
+        "goals": "2",
+        "last_name": "Griffiths",
+        "nationality": "Wales"
     }
 ]

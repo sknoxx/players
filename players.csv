@@ -5,12 +5,13 @@ Paul,Scholes,England,718,155
 Bill,Foulkes,England,688,9
 Gary,Neville,England,602,7
 Wayne,Rooney,England,559,253
+David,de Gea,Spain,545,0
 Alex,Stepney,England,539,2
-Tony,Dunne,Ireland,535,2
-Denis,Irwin,Ireland,529,33
+Tony,Dunne,Republic of Ireland,535,2
+Denis,Irwin,Republic of Ireland,529,33
 Joe,Spence,England,510,168
 Arthur,Albiston,Scotland,485,7
-Roy,Keane,Ireland,480,51
+Roy,Keane,Republic of Ireland,480,51
 Brian,McClair,Scotland,471,127
 George,Best,Northern Ireland,470,179
 Mark,Hughes,Wales,467,163
@@ -20,18 +21,18 @@ Martin,Buchan,Scotland,456,4
 Rio,Ferdinand,England,455,8
 Jack,Silcock,England,449,2
 Gary,Pallister,England,437,15
-David,de Gea,Spain,436,0
+Marcus,Rashford,England,426,138
 Jack,Rowley,England,424,211
 Sammy,McIlroy,Northern Ireland,419,71
 Steve,Bruce,England,414,51
 Denis,Law,Scotland,404,237
 Lou,Macari,Scotland,401,97
 Peter,Schmeichel,Denmark,398,1
-Pat,Crerand,Scotland,397,15
+Paddy,Crerand,Scotland,397,15
 Steve,Coppell,England,396,70
 Nobby,Stiles,England,395,19
 David,Beckham,England,394,85
-John,O'Shea,Ireland,393,15
+John,O'Shea,Republic of Ireland,393,15
 Allenby,Chilton,England,391,3
 Nicky,Butt,England,387,26
 Phil,Neville,England,386,8
@@ -41,8 +42,10 @@ Gary,Bailey,England,375,0
 Ole,Gunnar Solskjær,Norway,366,126
 Wes,Brown,England,362,5
 Mikaël,Silvestre,France,361,10
-Shay,Brennan,Ireland,359,6
-Johnny,Carey,Ireland,344,17
+Shay,Brennan,Republic of Ireland,359,6
+Cristiano,Ronaldo,Portugal,346,145
+Johnny,Carey,"Ireland
+ Republic of Ireland",344,17
 Stan,Pearson,England,343,148
 Darren,Fletcher,Scotland,342,24
 Antonio,Valencia,Ecuador,339,25
@@ -53,18 +56,22 @@ Alf,Steward,England,326,0
 Chris,Smalling,England,323,18
 Lal,Hilditch,England,322,7
 George,Wall,England,319,100
+Anthony,Martial,France,318,90
 Fred,Erentz,Scotland,310,9
 Alex,Bell,Scotland,309,10
 Charlie,Roberts,England,302,23
 Ray,Bennion,Wales,301,3
+Bruno,Fernandes,Portugal,301,100
 Nemanja,Vidić,"Serbia and Montenegro
  Serbia",300,21
 Willie,Morgan,Scotland,296,34
+Luke,Shaw,England,296,4
 Dennis,Viollet,England,293,179
-Cristiano,Ronaldo,Portugal,292,118
-Kevin,Moran,Ireland,289,24
-Frank,Stapleton,Ireland,288,78
+Kevin,Moran,Republic of Ireland,289,24
+Frank,Stapleton,Republic of Ireland,288,78
+Juan,Mata,Spain,285,51
 John,Aston Sr.,England,284,30
+Victor,Lindelöf,Sweden,284,4
 Paul,Ince,England,281,29
 Roger,Byrne,England,280,20
 Johnny,Berry,England,276,45
@@ -73,28 +80,31 @@ Andy,Cole,England,275,121
 Norman,Whiteside,Northern Ireland,274,67
 Brian,Greenhoff,England,271,17
 George,Stacey,England,270,9
-Juan,Mata,Spain,268,50
 Harry,Moger,England,266,0
 Brian,Kidd,England,266,70
 Edwin,van der Sar,Netherlands,266,0
 David,Herd,Scotland,265,145
 Lee,Sharpe,England,263,36
-Marcus,Rashford,England,263,87
 Ashley,Young,England,261,19
-Anthony,Martial,France,258,78
 Walter,Cartwright,England,257,8
+Scott,McTominay,Scotland,255,29
 Dick,Duckworth,England,254,11
+Harry,Maguire,England,253,17
 Stewart,Houston,Scotland,250,16
 Jimmy,Nicholl,Northern Ireland,248,6
 Sandy,Turnbull,Scotland,247,101
 Harry,Gregg,Northern Ireland,247,0
 Clayton,Blackmore,Wales,245,26
+Jonny,Evans,Northern Ireland,241,8
+Paul,Pogba,France,233,39
+Jesse,Lingard,England,232,35
 Mr.,Nani,Portugal,230,40
 Gordon,McQueen,Scotland,229,26
-Phil,Jones,England,224,6
+Phil,Jones,England,229,6
 Ruud,van Nistelrooy,Netherlands,219,150
+Diogo,Dalot,Portugal,217,9
+Mr.,Fred,Brazil,213,14
 Jack,Crompton,England,212,0
-Jesse,Lingard,England,210,33
 George,Vose,England,209,1
 Ray,Wood,England,208,0
 John,Grimwood,England,205,8
@@ -104,16 +114,16 @@ Harry,Stafford,England,200,1
 Tom,Jones,Wales,200,0
 Jack,Mew,England,199,0
 Remi,Moses,England,199,12
-Paul,McGrath,Ireland,199,16
-Paul,Pogba,France,199,37
-Jonny,Evans,Northern Ireland,198,7
+Paul,McGrath,Republic of Ireland,199,16
 Frank,Mann,England,197,5
 Tom,Manley,England,195,41
 Maurice,Setters,England,194,14
 Ray,Wilkins,England,194,10
 Alex,Downie,Scotland,191,14
 Tommy,Taylor,England,191,131
+Aaron,Wan-Bissaka,DR Congo,190,2
 Ander,Herrera,Spain,189,20
+Nemanja,Matić,Serbia,189,4
 John,Aston Jr.,England,187,27
 Eric,Cantona,France,185,82
 Jimmy,Delaney,Scotland,184,28
@@ -124,7 +134,6 @@ Mr.,Anderson,Brazil,181,9
 Harry,Rowley,England,180,55
 Stuart,Pearson,England,180,66
 Alf,Schofield,England,179,35
-Luke,Shaw,England,179,3
 Duncan,Edwards,England,177,21
 Marouane,Fellaini,Belgium,177,22
 Jesper,Olsen,Denmark,176,24
@@ -144,22 +153,21 @@ Billy,Bryant,England,157,42
 Javier,Hernández,Mexico,157,59
 Francis,Burns,Scotland,156,7
 Bob,Donaldson,Scotland,155,66
-Victor,Lindelöf,Sweden,155,3
 Arthur,Lochhead,Scotland,153,50
 Teddy,Sheringham,England,153,46
 Billy,Morgan,England,152,7
 Frank,Barson,England,152,4
 Dwight,Yorke,Trinidad and Tobago,152,66
-Nemanja,Matić,Serbia,151,4
 David,Pegg,England,150,28
 Ronny,Johnsen,Norway,150,9
 Dimitar,Berbatov,Bulgaria,149,56
 Jimmy,Hanson,England,147,52
 John,Fitzpatrick,Scotland,147,10
-Noel,Cantwell,Ireland,146,8
+Noel,Cantwell,Republic of Ireland,146,8
 Mike,Phelan,England,146,3
 Paul,Parker,England,146,2
-Gerry,Daly,Ireland,142,32
+Alejandro,Garnacho,Argentina,144,26
+Gerry,Daly,Republic of Ireland,142,32
 Danny,Welbeck,England,142,29
 Daley,Blind,Netherlands,141,6
 Jack,Wilson,England,140,3
@@ -168,11 +176,12 @@ Frank,Barrett,Scotland,136,0
 Harry,Thomas,Wales,135,13
 Bob,Bonthron,Scotland,134,3
 Gordon,Hill,England,134,51
+Mr.,Casemiro,Brazil,134,20
+Mason,Greenwood,England,130,35
 Vince,Hayes,England,128,2
 William,Bryant,England,127,33
 Albert,Scanlon,England,127,35
 Jaap,Stam,Netherlands,127,1
-Scott,McTominay,Scotland,127,14
 Joe,Jordan,Scotland,126,41
 Quinton,Fortune,South Africa,126,11
 Harold,Halse,England,125,56
@@ -197,9 +206,9 @@ George,McLachlan,Scotland,116,4
 Johnny,Downie,Scotland,116,37
 Jack,Warner,Wales,115,2
 Don,Gibson,England,115,0
-Johnny,Giles,Ireland,115,13
-Mr.,Fred,Brazil,114,4
+Johnny,Giles,Republic of Ireland,115,13
 John,Connelly,England,113,35
+Eric,Bailly,Ivory Coast,113,1
 Bobby,Beale,England,112,0
 James,Brown,Scotland,110,1
 David,McCreery,Northern Ireland,110,8
@@ -210,81 +219,86 @@ Tommy,Bamford,Wales,109,57
 Lee,Martin,England,109,2
 Eddie,Colman,England,108,2
 Freddie,Goodwin,England,107,8
-Ashley,Grimes,Ireland,107,11
+Ashley,Grimes,Republic of Ireland,107,11
+Christian,Eriksen,Denmark,107,8
 Arthur,Whalley,England,106,6
 Ronnie,Cope,England,106,2
 Peter,Davenport,England,106,26
 Robin,van Persie,Netherlands,105,58
 Henning,Berg,Norway,103,3
-Harry,Maguire,England,103,5
+George,Perrins,England,102,0
+André,Onana,Cameroon,102,0
+Dick,Smith,England,101,37
 Tommy,Reid,Scotland,101,67
-Dick,Smith,England,100,37
-Eric,Bailly,Ivory Coast,100,1
 Carlos,Tevez,Argentina,99,34
-George,Perrins,England,98,0
-Billy,Whelan,Ireland,98,52
+Billy,Whelan,Republic of Ireland,98,52
 Arnold,Mühren,Netherlands,98,18
 Diego,Forlán,Uruguay,98,17
 Tony,Young,England,97,1
-Mason,Greenwood,England,97,26
 Charlie,Radford,England,96,1
 Hubert,Redwood,England,96,4
 Romelu,Lukaku,Belgium,96,42
+Mr.,Antony,Brazil,96,12
 Billy,Draycott,England,95,6
 Jeff,Whitefoot,England,95,0
 Colin,Gibson,England,95,9
+Raphaël,Varane,France,95,2
+Rasmus,Højlund,Denmark,95,26
 Jim,Leighton,Scotland,94,0
 Johnny,Morris,England,93,35
 Alex,Dawson,Scotland,93,54
 Alan,Smith,England,93,12
-Aaron,Wan-Bissaka,England,93,2
 George,Roughton,England,92,0
 Matteo,Darmian,Italy,92,1
+Lisandro,Martínez,Argentina,91,3
 Tom,Smith,England,90,16
 Matthew,Gillespie,Scotland,89,21
 Willie,Stewart,Scotland,87,5
 Alan,Gowling,England,87,21
-James,Hodge,Scotland,86,2
+Jimmy,Hodge,Scotland,86,2
 George,Anderson,England,86,39
 Wilf,McGuinness,England,85,2
 Gabriel,Heinze,Argentina,83,4
+Jadon,Sancho,England,83,12
 Juan,Sebastián Verón,Argentina,82,11
 Kieran,Richardson,England,81,11
 Reg,Allen,England,80,0
 Mark,Pearson,England,80,14
+Kobbie,Mainoo,England,80,7
 Colin,Webster,Wales,79,31
 Chris,Turner,England,79,0
 Tom,Cleverley,England,79,5
 Jimmy,Turnbull,Scotland,78,45
 Billy,Johnston,Scotland,77,27
 Tim,Howard,United States,77,0
-Stan,Gallimore,England,76,20
+Stanley,Gallimore,England,76,20
 Ian,Greaves,England,75,0
 Laurent,Blanc,France,75,4
 Andreas,Pereira,Brazil,75,4
 John,Clarkin,Scotland,74,23
 Fred,Hopkin,England,74,8
+Daniel,James,Wales,74,9
 Jack,Hall,England,73,0
 Russell,Beardsmore,England,73,4
 Roy,Carroll,Northern Ireland,72,0
-Bruno,Fernandes,Portugal,72,36
+Amad,Diallo,Ivory Coast,72,15
 Jimmy,Collinson,England,71,17
-Tommy,Breen,Ireland,71,0
-Joe,Carolan,Ireland,71,0
+Tommy,Breen,"Ireland
+ Republic of Ireland",71,0
+Joe,Carolan,Republic of Ireland,71,0
 Danny,Wallace,England,71,11
 Mark,Robins,England,70,17
 Jimmy,Hanlon,England,69,22
 Jim,Holton,Scotland,69,5
 Viv,Anderson,England,69,4
-Daniel,James,Wales,69,9
 Charlie,Rennox,Scotland,68,25
 Billy,Dale,England,68,0
 Jimmy,Nicholson,Northern Ireland,68,6
 Paul,Edwards,England,68,1
 Tommy,O'Neil,England,68,0
 Warren,Bradley,England,67,21
-Pat,Dunne,Ireland,67,0
-Ernie,Vincent,England,65,1
+Pat,Dunne,Republic of Ireland,67,0
+Ernest,Vincent,England,65,1
 Billy,Porter,England,65,0
 Ian,Ure,Scotland,65,1
 William,Jackson,Wales,64,14
@@ -295,6 +309,7 @@ Gary,Walsh,England,63,0
 Adnan,Januzaj,Belgium,63,5
 Henrikh,Mkhitaryan,Armenia,63,13
 Henry,Boyd,Scotland,62,35
+Donny,van de Beek,Netherlands,62,2
 Andrew,Mitchell,Scotland,61,0
 Alf,Farman,England,61,28
 Wilf,Woodcock,England,61,21
@@ -303,9 +318,11 @@ Sergio,Romero,Argentina,61,0
 Mickey,Hamill,Ireland,60,2
 Jack,Cape,England,60,18
 Raimond,van der Gouw,Netherlands,60,0
-Darron,Gibson,Ireland,60,10
+Darron,Gibson,Republic of Ireland,60,10
 Oscar,Linkson,England,59,0
-Tommy,McNulty,England,59,0
+Thomas,McNulty,England,59,0
+Edinson,Cavani,Uruguay,59,19
+Noussair,Mazraoui,Morocco,59,0
 Jordi,Cruyff,Netherlands,58,8
 William,Douglas,Scotland,57,0
 Harry,McShane,Scotland,57,8
@@ -313,27 +330,34 @@ Shinji,Kagawa,Japan,57,6
 Carlo,Sartori,Italy,56,6
 Les,Sealey,England,56,0
 Mr.,Fábio,Brazil,56,3
+Anthony,Elanga,Sweden,55,4
 Herbert,Burgess,England,54,0
+Manuel,Ugarte,Uruguay,54,2
 George,Sapsford,England,53,17
 Tommy,Meehan,England,53,6
-Sam,Hopkinson,England,53,12
+Samuel,Hopkinson,England,53,12
 Ernie,Hine,England,53,12
-Harry,Baird,Northern Ireland,53,18
-Paddy,Roche,Ireland,53,0
+Harry,Baird,Ireland,53,18
+Paddy,Roche,Republic of Ireland,53,0
 Memphis,Depay,Netherlands,53,7
 Zlatan,Ibrahimović,Sweden,53,29
+Joshua,Zirkzee,Netherlands,53,7
+Matthijs,de Ligt,Netherlands,53,2
 Tommy,Frame,Scotland,52,4
 Arthur,Graham,Scotland,52,7
 Michael,Owen,England,52,17
+Mason,Mount,England,52,4
 Jack,Peters,England,51,14
 Dick,Pegg,England,51,20
 Dick,Wombwell,England,51,3
 Hugh,Edmonds,Scotland,51,0
 John,Moody,England,51,0
 Billy,Garton,England,51,0
+Brandon,Williams,England,51,1
 John,Dow,Scotland,50,6
 Jack,Ball,England,50,18
 William,Robertson,Scotland,50,1
+Alex,Telles,Brazil,50,1
 Frank,Harris,England,49,2
 William,Stewart,Scotland,49,7
 Charlie,Spencer,England,48,0
@@ -343,8 +367,8 @@ Caesar,Jenkyns,Wales,47,6
 Frank,Knowles,England,47,1
 Phil,Chisnall,England,47,10
 Morgan,Schneiderlin,France,47,1
-Brandon,Williams,England,47,1
-Thomas,Leigh,England,46,15
+Tyrell,Malacia,Netherlands,47,0
+Tommy,Leigh,England,46,15
 James,Fisher,Scotland,46,3
 George,Livingstone,Scotland,46,14
 Billy,Harrison,England,46,5
@@ -352,13 +376,14 @@ Jimmy,Rimmer,England,46,0
 George,Graham,Scotland,46,2
 Ian,Moir,Scotland,45,5
 Alexis,Sánchez,Chile,45,5
-Will,Davidson,unknown,44,2
+Will,Davidson,Scotland,44,2
 Jack,Banks,England,44,1
 Bill,Ridding,England,44,14
 Nobby,Lawton,England,44,6
 Neil,McBain,Scotland,43,2
 Ian,Storey-Moore,England,43,12
-Mick,Martin,Ireland,43,2
+Mick,Martin,Republic of Ireland,43,2
+Leny,Yoro,France,43,1
 John,Clements,England,42,0
 Bert,Read,England,42,0
 George,Bissett,Scotland,42,10
@@ -374,7 +399,7 @@ Bert,Whalley,England,39,0
 Luke,Chadwick,England,39,2
 Eric,Djemba-Djemba,Cameroon,39,2
 Owen,Hargreaves,England,39,2
-Billy,Hood,unknown,38,6
+Billy,Hood,England,38,6
 Tommy,Blackstock,Scotland,38,0
 Billy,Redman,England,38,0
 Jim,McCalliog,Scotland,38,7
@@ -384,23 +409,23 @@ Billy,Grassam,Scotland,37,14
 Tony,Donnelly,England,37,0
 Joe,Norton,England,37,3
 Billy,Wrigglesworth,England,37,10
+Axel,Tuanzebe,DR Congo,37,0
 Tommy,Morrison,Ireland,36,8
 Jack,Allan,England,36,22
 Henry,Williams,England,36,8
 Tommy,Forster,England,36,0
-William,Henderson,Scotland,36,17
+Bill,Henderson,Scotland,36,17
 Bill,Rawlings,England,36,19
 Neil,Dewar,Scotland,36,14
-Liam,O'Brien,Ireland,36,2
+Liam,O'Brien,Republic of Ireland,36,2
 Federico,Macheda,Italy,36,5
 Alexander,Robertson,Scotland,35,1
-Pat,O'Connell,Ireland,35,2
+Patrick,O'Connell,Ireland,35,2
 Rees,Williams,Wales,35,2
 Stewart,Chalmers,Scotland,35,1
 Jack,Breedon,England,35,0
 Ronnie,Burke,England,35,23
 Bastian,Schweinsteiger,Germany,35,2
-Diogo,Dalot,Portugal,35,1
 Jimmy,Coupar,Scotland,34,10
 Stephen,Preston,England,34,14
 Sandy,Robertson,Scotland,34,10
@@ -414,13 +439,11 @@ Tommy,Arkesden,England,33,0
 Charlie,Sagar,England,33,24
 Tommy,Bogan,Scotland,33,7
 Bobby,Noble,England,33,0
-Axel,Tuanzebe,England,33,0
 Jack,Peden,Ireland,32,8
 Eric,Sweeney,England,32,7
 Ángel,Di María,Argentina,32,4
 David,Fitzsimmons,Scotland,31,0
-Donny,van de Beek,Netherlands,31,1
-Edinson,Cavani,Uruguay,31,10
+Wout,Weghorst,Netherlands,31,2
 Tommy,Fitzsimmons,Scotland,30,6
 Herbert,Birchenough,England,30,0
 John,Hodge,Scotland,30,0
@@ -432,12 +455,15 @@ Ralph,Milne,Scotland,30,3
 Darren,Ferguson,Scotland,30,0
 Mr.,Kléberson,Brazil,30,2
 Timothy,Fosu-Mensah,Netherlands,30,0
+Sofyan,Amrabat,Morocco,30,0
+Patrick,Dorgu,Denmark,30,0
 Arthur,Potts,England,29,5
-Walter,McMillen,Northern Ireland,29,2
+Walter,McMillen,Ireland,29,2
 Anders,Lindegaard,Denmark,29,0
 Radamel,Falcao,Colombia,29,4
+Dean,Henderson,England,29,0
 Herbert,Rothwell,England,28,0
-John,Sutcliffe,England,28,0
+John,Willie Sutcliffe,England,28,0
 George,Gladwin,England,28,1
 Ronnie,Wallwork,England,28,0
 Gabriel,Obertan,France,28,1
@@ -462,6 +488,7 @@ Alex,Menzies,Scotland,25,4
 Tom,Homer,England,25,14
 Scott,McGarvey,Scotland,25,3
 Peter,Barnes,England,25,5
+Facundo,Pellistri,Uruguay,25,0
 John,Scott,Scotland,24,0
 Ted,Buckle,England,24,7
 Eddie,Lewis,England,24,11
@@ -479,8 +506,7 @@ Ben,Foster,England,23,0
 Odion,Ighalo,Nigeria,23,5
 Jimmy,Warner,England,22,0
 Tommy,Jones,Wales,22,4
-Liam,Miller,Ireland,22,2
-Dean,Henderson,England,22,0
+Liam,Miller,Republic of Ireland,22,2
 Daniel,Hurst,England,21,4
 George,Travers,England,21,4
 James,Robinson,Ireland,21,3
@@ -491,7 +517,6 @@ Stan,Crowther,England,20,0
 Arnie,Sidebottom,England,20,0
 Simon,Davies,Wales,20,1
 James,Wilson,England,20,4
-Alex,Telles,Brazil,20,0
 Sam,Blott,England,19,2
 Leslie,Hofton,England,19,0
 Ron,Ferrier,England,19,4
@@ -504,15 +529,17 @@ Albert,Pape,England,18,5
 Dick,Gardner,England,18,1
 Ted,MacDougall,Scotland,18,5
 Phil,Bardsley,England,18,0
+Marcel,Sabitzer,Austria,18,3
 Joe,Ridgway,England,17,0
 John,Cunningham,Scotland,17,2
-William,Smith,England,17,0
+Stockport,Smith,England,17,0
 Tommy,Boyle,England,17,6
 Thomas,Parker,England,17,0
 Bill,Owen,England,17,1
 Wyn,Davies,Wales,17,4
 Dion,Dublin,England,17,3
 Chris,Eagles,England,17,1
+Altay,Bayındır,Turkey,17,0
 Tom,Nuttall,England,16,4
 John,Wood,Scotland,16,1
 Charlie,Ramsden,England,16,3
@@ -530,7 +557,7 @@ Joe,Curry,England,14,0
 Billy,Toms,Ireland,14,4
 Bill,Inglis,Scotland,14,1
 Tommy,Lowrie,Scotland,14,0
-Sonny,Feehan,Ireland,14,0
+Sonny,Feehan,Republic of Ireland,14,0
 Willie,Watson,Scotland,14,0
 Tony,Gill,England,14,2
 Keith,Gillespie,Northern Ireland,14,2
@@ -551,6 +578,8 @@ Sammy,Lynn,England,13,0
 Cliff,Birkett,England,13,2
 Willie,Anderson,England,13,0
 Henrik,Larsson,Sweden,13,3
+Hannibal,Mejbri,Tunisia,13,1
+Toby,Collyer,England,13,0
 William,Dunn,England,12,0
 Arthur,Beadsworth,England,12,2
 Arthur,Allman,England,12,0
@@ -562,19 +591,22 @@ Geoff,Bent,England,12,0
 Frank,Kopel,Scotland,12,0
 Tom,Sloan,Northern Ireland,12,0
 Tyler,Blackett,England,12,0
+Sergio,Reguilón,Spain,12,0
 Samuel,Parker,Scotland,11,0
 James,Vance,England,11,1
 Edwin,Lee,England,11,5
-John,Grundy,England,11,3
+Jack,Grundy,England,11,3
 Charlie,Richards,England,11,2
 Edward,Hudson,England,11,0
 David,Ellis,Scotland,11,0
-Charles,Hannaford,England,11,0
+Charlie,Hannaford,England,11,0
 Charlie,Craven,England,11,2
 Bobby,Harrop,England,11,0
 Peter,Jones,England,11,0
 Ronnie,Briggs,Northern Ireland,11,0
 Guillermo,Varela,Uruguay,11,0
+Bryan,Mbeumo,Cameroon,11,5
+Benjamin,Šeško,Slovenia,11,2
 James,Colville,unknown,10,1
 John,Davies,England,10,0
 William,Mathieson,Scotland,10,2
@@ -593,6 +625,8 @@ Steve,Paterson,Scotland,10,0
 Alan,Davies,Wales,10,1
 Mark,Wilson,England,10,0
 Angel,Gomes,England,10,0
+Willy,Kambwala,DR Congo,10,0
+Matheus,Cunha,Brazil,10,1
 Harry,Erentz,Scotland,9,0
 Joe,Clark,Scotland,9,0
 Gilbert,Godsmark,England,9,4
@@ -603,8 +637,9 @@ Ken,MacDonald,Scotland,9,2
 Arthur,Chesters,England,9,0
 Eddie,Green,England,9,4
 Charlie,McGillivray,Scotland,9,0
-Don,Givens,Ireland,9,1
+Don,Givens,Republic of Ireland,9,1
 Nick,Powell,England,9,1
+Ayden,Heaven,England,9,0
 Roger,Doughty,Wales,8,1
 Frank,Pepper,England,8,0
 Joe,Heathcote,England,8,0
@@ -622,11 +657,12 @@ Jonathan,Spector,United States,8,0
 Danny,Simpson,England,8,0
 Rodrigo,Possebon,Italy,8,0
 Mame,Biram Diouf,Senegal,8,1
+Chido,Obi,Denmark,8,0
 James,Brown,Scotland,7,0
 Herbert,Stone,England,7,0
 George,Millar,Scotland,7,5
 Rimmer,Brown,unknown,7,2
-G,Foley,England,7,1
+George,Foley,England,7,1
 Charles,Mackie,Scotland,7,4
 Arthur,Hooper,England,7,1
 Ezra,Royals,England,7,0
@@ -642,8 +678,10 @@ John,O'Kane,England,7,0
 Danny,Higginbotham,Gibraltar,7,0
 Danny,Pugh,England,7,0
 Ben,Amos,England,7,0
-Mr.,Bebé,Portugal,7,2
+Mr.,Bebé,Cape Verde,7,2
 James,Garner,England,7,0
+Omari,Forson,England,7,0
+Harry,Amass,England,7,0
 Jack,Owen,Wales,6,0
 Arthur,Henrys,Scotland,6,0
 Thomas,Sawyer,unknown,6,0
@@ -674,9 +712,9 @@ Mr.,Ricardo,Spain,5,0
 Ritchie,Jones,England,5,0
 Zoran,Tošić,Serbia,5,0
 Michael,Keane,England,5,0
-Amad,Diallo,Ivory Coast,5,1
+Shola,Shoretire,England,5,0
 Jack,Powell,Wales,4,0
-J,Slater,unknown,4,0
+John,Slater,England,4,0
 John,Graham,England,4,0
 James,Connachan,Scotland,4,1
 Bill,Williams,England,4,0
@@ -693,7 +731,7 @@ James,Miller,Scotland,4,1
 Jimmy,Bain,Scotland,4,0
 Tom,Harris,England,4,1
 Danny,Ferguson,England,4,0
-David,Byrne,Ireland,4,3
+David,Byrne,Republic of Ireland,4,3
 Herbert,Heywood,England,4,2
 George,Nevin,England,4,0
 Reg,Halton,England,4,1
@@ -703,10 +741,11 @@ Berry,Brown,England,4,0
 Laurie,Cassidy,England,4,0
 Joe,Lancaster,England,4,0
 Mike,Pinner,England,4,0
-Paul,Bielby,England,4,0
 George,Buchan,Scotland,4,0
+Paul,Bielby,England,4,0
 Colin,Waldron,England,4,0
 Nicky,Wood,England,4,0
+Deiniol,Graham,Wales,4,1
 Phil,Mulryne,Northern Ireland,4,0
 Massimo,Taibi,Italy,4,0
 Daniel,Nardiello,Wales,4,0
@@ -716,6 +755,8 @@ Richard,Eckersley,England,4,0
 Scott,Wootton,England,4,0
 Wilfried,Zaha,"England
  Ivory Coast2",4,0
+Ethan,Wheatley,England,4,0
+Senne,Lammens,Belgium,4,0
 Jack,Doughty,Wales,3,3
 John,Mitchell,unknown,3,0
 Alf,Edge,England,3,3
@@ -731,7 +772,7 @@ John,Turner,England,3,0
 Wilson,Greenwood,England,3,0
 Reg,Lawson,England,3,0
 Ernest,Street,England,3,0
-Tom,Robertson,Scotland,3,0
+Tommy,Robertson,Scotland,3,0
 Bernard,Donaghey,Ireland,3,0
 Archie,Montgomery,Scotland,3,0
 Frank,Buckley,England,3,0
@@ -752,29 +793,29 @@ Jackie,Scott,Northern Ireland,3,0
 Tommy,Heron,Scotland,3,0
 John,Connaughton,England,3,0
 Alan,Foggon,England,3,0
-Deiniol,Graham,Wales,3,1
 David,Healy,Northern Ireland,3,0
-Paul,Rachubka,United States,3,0
+Paul,Rachubka,England,3,0
 Danny,Webber,England,3,0
 Lee,Roche,England,3,0
 Lee,Martin,England,3,0
 Kieran,Lee,England,3,1
 Dong,Fangzhuo,China,3,0
 Mr.,Manucho,Angola,3,0
-Ravel,Morrison,"England
- Jamaica2",3,0
-Will,Keane,England,3,0
+Ravel,Morrison,Jamaica,3,0
+Will,Keane,Republic of Ireland,3,0
 Joel,Castro Pereira,Portugal,3,0
+Tom,Heaton,England,3,0
+Tyler,Fredricson,England,3,0
 Joe,Davies,Wales,2,0
-T,Craig,unknown,2,1
+Thomas,Craig,unknown,2,1
 William,Sharpe,England,2,0
 James,Hendry,Scotland,2,1
-D,Prince,unknown,2,0
+S,Prince,England,2,0
 John,Aitken,Scotland,2,1
 Joe,Wetherell,England,2,0
 Frank,Wedge,England,2,2
-John,Jones,Wales,2,0
-Bob,Turner,England,2,0
+Owen,Jones,Wales,2,0
+Robert,Turner,England,2,0
 Robert,Walker,unknown,2,0
 James,Bain,Scotland,2,1
 Peter,Blackmore,England,2,0
@@ -788,7 +829,7 @@ Tom,Wilcox,England,2,0
 Ernest,Payne,England,2,1
 Jack,Quin,Scotland,2,0
 Elijah,Round,England,2,0
-Bob,Roberts,England,2,0
+Robert,Roberts,England,2,0
 John,Williamson,England,2,0
 James,Pugh,England,2,0
 Richard,Iddon,England,2,0
@@ -802,16 +843,16 @@ Len,Bradbury,England,2,1
 John,Roach,England,2,0
 Joe,Dale,England,2,0
 Jimmy,Pegg,England,2,0
-Eddie,McIlvenny,United States,2,0
-Johnny,Walton,England,2,0
+Ed,McIlvenny,United States,2,0
+John,Walton,England,2,0
 Les,Olive,England,2,0
 Gordon,Clayton,England,2,0
 Tommy,Baldwin,England,2,0
-Peter,Coyne,England,2,1
 Tony,Grimshaw,England,2,0
+Peter,Coyne,England,2,1
 Tom,Connell,Northern Ireland,2,0
 Mark,Dempsey,England,2,0
-Derek,Brazil,Ireland,2,0
+Derek,Brazil,Republic of Ireland,2,0
 Paul,Wratten,England,2,0
 Graeme,Tomlinson,England,2,0
 William,Prunier,France,2,0
@@ -829,29 +870,31 @@ Donald,Love,Scotland,2,0
 Joe,Riley,England,2,0
 Lee,Grant,England,2,0
 Ethan,Laird,England,2,0
-Shola,Shoretire,England,2,0
+Teden,Mengi,England,2,0
+Martin,Dúbravka,Slovakia,2,0
+Dan,Gore,England,2,0
 Robert,Beckett,England,1,0
 Tom,Burke,Wales,1,0
-L,Davies,unknown,1,0
+Heber,Davies,Wales,1,0
 John,Earp,England,1,0
 James,Gotheridge,England,1,0
-E,Howells,unknown,1,0
+Edward,Howles,England,1,0
 A,Longton,unknown,1,0
 Charlie,Harrison,England,1,0
 Tom,Hay,England,1,0
 George,Owen,Wales,1,0
-Mr.,Wilson,unknown,1,0
+Edgar,Wilson,England,1,0
 George,Evans,England,1,1
 Bob,Milarvie,Scotland,1,0
 Bob,Ramsay,England,1,0
 Herbert,Dale,England,1,0
-Mr.,Donnelly,unknown,1,0
-G,Felton,England,1,0
+John,Donnelly,England,1,0
+Charles,Felton,England,1,0
 William,Gyves,England,1,0
-T,O'Shaughnessy,unknown,1,0
-Mr.,Rattigan,England,1,0
-Mr.,Turner,unknown,1,0
-J,Denman,unknown,1,0
+Thomas,O'Shaughnessy,Wales,1,0
+William,Rattigan,England,1,0
+William,Turner,England,1,0
+Joseph,Denman,England,1,0
 Joe,Kinloch,England,1,0
 William,Brady,Scotland,1,0
 David,McFetteridge,Scotland,1,0
@@ -859,7 +902,7 @@ William,Longair,Scotland,1,0
 James,Cairns,unknown,1,0
 Robert,Stephenson,unknown,1,1
 James,Cairns,unknown,1,0
-W,Owen,Wales,1,0
+William,Owen,Wales,1,0
 George,Radcliffe,England,1,0
 John,Gourlay,Scotland,1,0
 James,Hopkins,England,1,0
@@ -884,17 +927,17 @@ Percy,Schofield,England,1,0
 Walter,Taylor,England,1,0
 William,Sarvis,Wales,1,0
 Albert,Broome,England,1,0
-Sidney,Tyler,England,1,0
+Syd,Tyler,England,1,0
 John,Whittle,England,1,0
 Andy,Mitchell,England,1,0
-Billy,Behan,Ireland,1,0
+Billy,Behan,Republic of Ireland,1,0
 Ben,Morton,England,1,0
 David,Robbie,Scotland,1,0
 David,Jones,Wales,1,0
 Beaumont,Asquith,England,1,0
 Bill,Bainbridge,England,1,1
-Noel,McFarlane,Ireland,1,0
-Paddy,Kennedy,Ireland,1,0
+Noel,McFarlane,Republic of Ireland,1,0
+Paddy,Kennedy,Republic of Ireland,1,0
 Walter,Whitehurst,England,1,0
 Tony,Hawksworth,England,1,0
 Reg,Hunter,Wales,1,0
@@ -905,7 +948,7 @@ Albert,Kinsey,England,1,1
 Jimmy,Kelly,England,1,0
 Jonathan,Clark,Wales,1,0
 Martyn,Rogers,England,1,0
-Anto,Whelan,Ireland,1,0
+Anto,Whelan,Republic of Ireland,1,0
 Peter,Beardsley,England,1,0
 Neil,Whitworth,England,1,0
 Ian,Wilkinson,England,1,0
@@ -925,54 +968,98 @@ Michael,Barnes,England,1,0
 Phil,Marsh,England,1,0
 James,Chester,Wales,1,0
 Larnell,Cole,England,1,0
-Robbie,Brady,Ireland,1,0
+Robbie,Brady,Republic of Ireland,1,0
 Tom,Lawrence,Wales,1,0
-Saidy,Janko,Switzerland,1,0
+Saidy,Janko,Gambia,1,0
 Reece,James,England,1,0
 Tom,Thorpe,England,1,0
 Regan,Poole,Wales,1,0
 James,Weir,England,1,0
 Demetri,Mitchell,England,1,0
 Josh,Harrop,England,1,1
-Di'Shon,Bernard,England,1,0
+Di'Shon,Bernard,Jamaica,1,0
 Dylan,Levitt,Wales,1,0
 D'Mani,Mellor,England,1,0
 Largie,Ramazani,Belgium,1,0
 Ethan,Galbraith,Northern Ireland,1,0
-Teden,Mengi,England,1,0
-Millie,Turner,England,72,5
-Ella,Toone,England,70,29
-Katie,Zelem,England,66,20
-Amy,Turner,England,64,4
-Kirsty,Hanson,Scotland,63,14
-Jessica,Sigsworth,England,62,24
+Will,Fish,England,1,0
+Zidane,Iqbal,Iraq,1,0
+Charlie,Savage,Wales,1,0
+Charlie,McNeill,England,1,0
+Ella,Toone,England,201,63
+Millie,Turner,England,178,11
+Leah,Galton,England,164,44
+Katie,Zelem,England,161,32
+Mary,Earps,England,125,0
+Hayley,Ladd,Wales,110,11
+Maya,Le Tissier,England,108,11
+Hannah,Blundell,England,92,3
+Kirsty,Hanson,Scotland,90,16
+Rachel,Williams,England,85,21
+Ona,Batlle,Spain,77,3
+Melvine,Malard,France,68,18
+Amy,Turner,England,67,4
+Jessica,Sigsworth,England,66,26
+Jackie,Groenen,Netherlands,60,0
+Lucía,García,Spain,60,16
+Alessia,Russo,England,59,27
+Kirsty,Smith,Scotland,58,1
+Hinata,Miyazawa,Japan,58,3
+Nikita,Parris,England,57,25
+Jayde,Riviere,Canada,57,1
 Lauren,James,England,56,28
-Leah,Galton,England,53,14
-Kirsty,Smith,Scotland,48,1
-Martha,Harris,England,44,1
-Hayley,Ladd,Wales,42,2
-Mary,Earps,England,40,0
-Jackie,Groenen,Netherlands,38,0
+Aoife,Mannion,Ireland,55,1
+Martha,Thomas,Scotland,53,8
+Lisa,Naalsund,Norway,52,6
+Martha,Harris,England,49,1
+Phallon,Tullis-Joyce,United States,47,0
+Maria,Thorisdottir,Norway,45,1
+Vilde,Bøe Risa,Norway,44,8
+Dominique,Janssen,Netherlands,42,2
+Lucy,Staniforth,England,40,3
+Elisabeth,Terland,Norway,40,21
+Mr.,Geyse,Brazil,39,3
+Gabby,George,England,38,1
+Celin,Bizet Dønnum,Norway,37,7
 Lizzie,Arnot,Scotland,34,9
-Jane,Ross,Scotland,30,6
+Jane,Ross,Scotland,34,7
+Anna,Sandberg,Sweden,34,1
 Mollie,Green,England,29,16
+Grace,Clinton,England,28,9
 Siobhan,Chamberlain,England,27,0
 Alex,Greenwood,England,27,5
 Abbie,McManus,England,25,2
 Charlie,Devlin,England,21,6
-Ona,Batlle,Spain,19,0
+Ivana,Fuso,Brazil,21,2
+Gemma,Evans,Wales,19,0
+Simi,Awujo,Canada,19,0
+Christen,Press,United States,17,4
 Aimee,Palmer,England,15,1
-Christen,Press,United States,14,3
-Lucy,Staniforth,England,13,1
+Julia,Zigiotti Olme,Sweden,13,0
 Tobin,Heath,United States,11,4
 Lotta,Ökvist,Sweden,10,0
+Carrie,Jones,Wales,10,0
+Sophie,Baggaley,England,10,0
+Jess,Park,England,10,4
+Jade,Moore,England,9,2
+Adriana,Leon,Canada,9,3
+Fridolina,Rolfö,Sweden,9,1
+Signe,Bruun,Denmark,7,0
+Irene,Guerrero,Spain,7,0
 Emily,Ramsey,England,6,0
-Ivana,Fuso,Brazil,6,0
-Maria,Thorisdottir,Norway,6,0
-Alessia,Russo,England,5,3
+Diane,Caldwell,Ireland,6,0
+Aïssatou,Tounkara,France,5,0
 Naomi,Hartley,England,3,0
+Emma,Watson,Scotland,3,1
 Fran,Bentley,England,2,0
-Carrie,Jones,Wales,2,0
+Keira,Barry,England,2,0
+Estelle,Cascarino,France,2,0
 Aurora,Mikalsen,Norway,1,0
 Rebecca,May,England,1,0
 Tara,Bourne,England,1,0
+Karna,Solskjær,Norway,1,0
+Alyssa,Aherne,England,1,0
+Evie,Rabjohn,England,1,0
+Jess,Simpson,England,1,0
+Safia,Middleton-Patel,Wales,1,0
+Mared,Griffiths,Wales,1,2
